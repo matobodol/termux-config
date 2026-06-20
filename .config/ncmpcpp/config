@@ -1,0 +1,69 @@
+mpd_music_dir = "~/storage/music/"
+
+mpd_host = "127.0.0.1"
+mpd_port = "6600"
+
+mouse_list_scroll_whole_page = "yes"
+lines_scrolled = "1"
+
+visualizer_data_source = "/data/data/com.termux/files/home/.mpd/visualizer.fifo"
+visualizer_output_name = "Visualizer"
+
+visualizer_in_stereo = "no"
+visualizer_type = "wave"
+visualizer_look = "▓▓"
+#visualizer_look = "▁▂▃▄▅▆▇█"
+
+playlist_disable_highlight_delay = "5"
+message_delay_time = "3"
+
+playlist_shorten_total_times = "yes"
+
+playlist_display_mode = "classic"
+browser_display_mode = "columns"
+search_engine_display_mode = "columns"
+playlist_editor_display_mode = "columns"
+
+autocenter_mode = "yes"
+centered_cursor = "yes"
+cyclic_scrolling = "yes"
+
+user_interface = "alternative"
+
+follow_now_playing_lyrics = "yes"
+locked_screen_width_part = "60"
+
+display_bitrate = "yes"
+
+external_editor = "nvim"
+
+progressbar_elapsed_color = "6"
+progressbar_color = "8"
+
+progressbar_look = "─◉ "
+
+mouse_support = "no"
+
+header_visibility = "no"
+titles_visibility = "no"
+statusbar_visibility = "yes"
+
+enable_window_title = "yes"
+
+statusbar_color = "6"
+
+discard_colors_if_item_is_selected = "yes"
+
+current_item_prefix = "$b$6▶ "
+current_item_suffix = "$8$/b"
+
+song_columns_list_format = "(6)[]{} (23)[red]{a} (26)[yellow]{t|f} (40)[green]{b} (4)[blue]{l}"
+
+color1 = "white"
+color2 = "black"
+
+song_list_format = "{%a - %t}|{%f}"
+
+song_status_format = "$b$6♫$3 {%a - %t}|{%f}"
+
+song_window_title_format = "{%a} - {%t}|{%f}"

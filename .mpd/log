@@ -1,0 +1,1462 @@
+2026-06-17T21:31:14 exception: Failed to open "/data/data/com.termux/files/home/.mpd/state": No such file or directory
+2026-06-17T21:31:14 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-17T21:31:14 update: added Samsung/Over_the_Horizon.m4a
+2026-06-17T21:31:14 update: added Flac/Bella Nova - Hati Siapa Tak Luka (Live Music) [qXYjbppvqbo].flac
+2026-06-17T21:31:14 update: added Flac/Bella Nova - Satu Rasa Cinta (Live Music) [DQhiUQGb3cE].flac
+2026-06-17T21:31:14 update: added Flac/KERANDA CINTA - Lusyana Jelita Adella - OM ADELLA [OI_OvpWos1M].flac
+2026-06-17T21:31:14 update: added Flac/Bella Nova - Sia Sia Mengharap Cintamu (Live Music) [PxedEJlvh38].flac
+2026-06-17T21:31:14 update: added Flac/PERMISI SITI ALIYAH FEAT SUARA KITA STUDIO [sFUop3ExBDc].flac
+2026-06-17T21:31:14 update: added Flac/Yeni Inka - PECAH SERIBU (Official MV) Hanya Dia Yang Ada Diantara Jantung Hati [vuijmH64lrU].flac
+2026-06-17T21:31:14 update: added SSK/KECEWA - SOSOK ｜ COVER BY NAWANG SASIH TARLING AKUSTIK ｜ SUARA KITA STUDIO [UdBoem52WKc].flac
+2026-06-17T21:31:14 update: added SSK/MELEPAS LAJANG - TRI SUAKA ｜ CINDY AIBIGE SUARA KITA STUDIO [MpwaQRIABtU].flac
+2026-06-17T21:31:14 update: added SSK/PENDAMPING ATI (IIS SYANTIKA) - NAWANG SASIH AKUSTIK COVER BY SUARA KITA STUDIO [uuiGbJA71CM].flac
+2026-06-17T21:31:14 update: added SSK/KASMARAN DEMEN COVER BY MISSEL LAURA D SUARA KITA STUDIO [aVkxTv4LKwk].flac
+2026-06-17T21:31:14 update: added SSK/NGANCURNA PERASAAN (AYU KARLINA) ｜ COVER BY SUARA KITA STUDIO X AKUSTIKAN BRO [tYRrh4wT_Lo].flac
+2026-06-17T21:31:14 update: added SSK/KANG KAJI GAUL COVER BY NAWANG SASIH ｜ CIPT AMIN HERMAWAN DESY PARASWATI [EEUlYgyZi8Q].flac
+2026-06-17T21:31:14 update: added SSK/MABOK NGESLOT COVER BY NAWANG SASIH - INDRI FAHRIZA ｜ AMIN HERMAWAN - SUARA KITA STUDIO [Ww9x5eSoe4s].flac
+2026-06-17T21:31:14 update: added SSK/KUDUNE BERPISAH (OCHOLL DHUT) ｜ COVER BY SUARA KITA STUDIO X AIKO MUSIC｜ CIPT. RESTU BRAJA TUMAMA [6ayMZ-ZxJPo].flac
+2026-06-17T21:31:14 update: added SSK/JARE SEMA COVER BY NAWANG SASIH ｜ SITI ALIYAH ｜ CIPT. BRAM PURNAMA ｜ SUARA KITA STUDIO [MYUX6sgsmYo].flac
+2026-06-17T21:31:14 update: added SSK/INGET KA MANTAN AKUSTIK COVER RINA APRILIANA FT NAWANG SASIH SUARA KITA STUDIO [8P9Rj7mwQB0].flac
+2026-06-17T21:31:14 update: added SSK/KELARA - WA KANCIL JUNED ｜ COVER BY MISSEL LAURA D ｜ SUARA KITA STUDIO [cy11t7VeTAQ].flac
+2026-06-17T21:31:14 update: added SSK/PURA-PURA MESEM COVER BY NAWANG SASIH ｜ SUARA KITA STUDIO [4AYmddBlu2E].flac
+2026-06-17T21:31:14 update: added SSK/KADANG KADANG KANGEN - COVER BY SOULKUSTIK FEAT NAWANG SASIH SUARA KITA STUDIO [xFiQNCW4fk0].flac
+2026-06-17T21:31:14 update: added SSK/PENDAMPING ATI - COVER BY IPANK SOULKUSTIK FEAT  MISSEL LAURA D SUARA KITA STUDIO [3snljICYkhA].flac
+2026-06-17T21:31:14 update: added SSK/RINDU BATIN COVER  MISSEL LAURA D ｜ SUARA KITA STUDIO ｜ CIPT. DIDIT NATAJAYA [znegzh9b-Ss].flac
+2026-06-17T21:31:14 update: added SSK/SEMANGAT WONG LANANG - MISSEL LAURA D FEAT SITI ALIYAH - SUARA KITA STUDIO [jCrV4UBbvtU].flac
+2026-06-17T21:31:14 update: added SSK/SALAH SIJINE (COVER) - MISSEL LAURA D ｜ DEVI MANUAL  ｜ SUARA KITA STUDIO [XD0STZvVMrk].flac
+2026-06-17T21:31:14 update: added SSK/KEBABLASAN - MISSEL LAURA D Feat  KALIA SISKA ｜ CIPT. ITY ASHELLA [Ug3uLsgIshE].flac
+2026-06-17T21:31:14 update: added SSK/WONG IRENG - MISSEL LAURA D Feat NAWANG SASIH - CIPT. DAPUD ANGGARA - DIPOPULERKAN OLEH CUS AMANDA [zRBtNpsMzKw].flac
+2026-06-17T21:31:14 update: added SSK/KEMBANGE LAMBE - MISSEL LAURA D - CIPT. ZALE RM ｜ SUARA KITA STUDIO [xOhrz0OxTew].flac
+2026-06-17T21:31:14 update: added SSK/GARISAN CINTA - MISSEL LAURA D Ft NAWANG SASIH - DIAN ANIC CIPT. LEE HIEN [VLQCAimrzTE].flac
+2026-06-17T21:31:14 update: added SSK/DI BALIK LAYAR SESADU RINDU - SUARA KITA STUDIO [Fa7GE6oSxXM].flac
+2026-06-17T21:31:14 update: added SSK/KARAOKE - SESADU RINDU (ORIGINAL) MISSEL LAURA D ｜ SUARA KITA STUDIO [DLPCHE6SCzc].flac
+2026-06-17T21:31:14 update: added SSK/PAYUNGAN - MISSEL LAURA D ｜ DIPOPULERKAN OLEH NUNU UNYIL ｜ CIPT. DIDIT NATA JAYA [m1XsK3cfr9I].flac
+2026-06-17T21:31:14 update: added SSK/KESENGSEM - MISSEL LAURA D FEAT FRESSA AYUMI CIPT. NINING SANJAYA ｜ SUARA KITA STUDIO [gwtwrHQSo20].flac
+2026-06-17T21:31:14 update: added SSK/BUAYA DIKADALI - MISSEL LAURA D - SUARA KITA STUDIO [O4eKpgJHiqw].flac
+2026-06-17T21:31:14 update: added SSK/HARAPAN HATI - MISSEL LAURA D FEAT SITI ALIYAH ｜ SUARA KITA STUDIO CIPT. LEE HIEN [t54b524FAfE].flac
+2026-06-17T21:31:14 update: added SSK/SEKUATE ATI - MISSEL LAURA D - CIPT. ZALE RM DIPOP. JUJUN SIMILIKITY [qNbK4fBaQRw].flac
+2026-06-17T21:31:14 update: added SSK/KEPASTIAN - MISSEL LAURA D - CIPT. WA KANCIL JUNED ｜ SUARA KITA STUDIO [tIz40fF6XRs].flac
+2026-06-17T21:31:14 update: added SSK/SEWU SIJI - IRKA JESIKA SUARA KITA STUDIO COVER CIPT. RADI ZONK DIPOP. DEBY CANTIKA [EiZZrYgEu9A].flac
+2026-06-17T21:31:14 update: added SSK/MOTOR SEBELAH - RINDI NOVIANTIKA SUARA KITA STUDIO COVER - CIPT. ZALE RM - DIPOP. YANTI BAPUK [uP49eZW0Nbs].flac
+2026-06-17T21:31:14 update: added SSK/SUMUR SANGA -  INDAH WATY FEAT SUARA KITA STUDIO [OcT5iupqY58].flac
+2026-06-17T21:31:14 update: added SSK/COLONG COLONGAN - INDAH WATY FEAT SUARA KITA STUDIO [v-3b1cFyAkE].flac
+2026-06-17T21:31:14 update: added SSK/KARNA DEMEN - SUARA KITA STUDIO FEAT IRKA JESIKA CIPTAAN WA KANCIL JUNED [dYNeBkSA-MM].flac
+2026-06-17T21:31:14 update: added SSK/NJALUK PING PITU - KALIA SISKA FEAT SUARA KITA STUDIO CIPT. ROHID FALAK DIPOP. OCHOLL DHUT [iyNusasL6B8].flac
+2026-06-17T21:31:14 update: added SSK/MUSNAH - KALIA SISKA Feat SUARA KITA STUDIO [X_C7pK6x8-0].flac
+2026-06-17T21:31:14 update: added SSK/KAMBUH - KALIA SISKA Ft SUARA KITA STUDIO [k3gZkrfgaxA].flac
+2026-06-17T21:31:14 update: added SSK/EDAN LANANG - SUARA KITA STUDIO FT IRKA JESIKA [iOhnx35e_30].flac
+2026-06-17T21:31:14 update: added SSK/MURUB IRKA JESIKA FEAT SITI ALIYAH SUARA KITA STUDIO [seP2yt5rEaY].flac
+2026-06-17T21:31:14 update: added SSK/BAPERAN - SUARA KITA STUDIO NAWANG SASIH ｜ CIPT. LEE HIEN [NzpTWDbugd8].flac
+2026-06-17T21:31:14 update: added SSK/BUAYA NGOSED - SUARA KITA STUDIO FT IRKA JESIKA [VM8Ca7uScUw].flac
+2026-06-17T21:31:14 update: added SSK/KANGEN DIBALES LARA COVER MISSEL LAURA D - SUARA KITA STUDIO - CIPT. JUJU [8Y5MqWcvZq8].flac
+2026-06-17T21:31:14 update: added SSK/NJALUK AMPUN - MISSEL LAURA D - CIPT. JOJO MELODY ｜ EYIS ｜ COVER BY SUARA KITA STUDIO [UQYaGQnBW-E].flac
+2026-06-17T21:31:14 update: added SSK/DIGAWE WIRANG - MISSEL LAURA D - FAHMI ZEIN - CIPT. RIZA D'WAPINZ [_m3_y1lAIk8].flac
+2026-06-17T21:31:14 update: added SSK/TOANG TAMBI - MISSEL LAURA D - SUARA KITA STUDIO [XyvDWIiFyEc].flac
+2026-06-17T21:31:14 update: added SSK/BATUR KESEPIAN - DIAN ANIC COVER BY MISSEL LAURA D SUARA KITA STUDIO [D50TPgZHkx0].flac
+2026-06-17T21:31:14 update: added SSK/SESADU RINDU - MISSEL LAURA D ｜ SUARA KITA STUDIO (OFFICIAL MUSIC VIDEO) [FGJlhA3F-ic].flac
+2026-06-17T21:31:14 update: added SSK/JEGER - MISSEL LAURA D - SUARA KITA STUDIO [XEtq0NCEFeY].flac
+2026-06-17T21:31:14 update: added SSK/EMONG DIWAYU - HJ. AAS ROLANI COVER MISSEL LAURA D BY SUARA KITA STUDIO [qcCUswRNt9M].flac
+2026-06-17T21:31:14 update: added SSK/PECAK WELUT - MISSEL LAURA D Feat NAWANG SASIH CIPT. MAMAT SURAHMAT - DEWI KIRANA [5UXcITfgeS8].flac
+2026-06-17T21:31:14 update: added SSK/SETIA NUNGGU - MISSEL LAURA D FEAT INDAH WATY - CIPT. ABUD XTRIM [mxCUKUx6rLc].flac
+2026-06-17T21:31:14 update: added SSK/BRAJATUMAMA - MISSEL LAURA D Feat FRESSA AYUMI - CIPT. MAMAT SURAHMAT - DIPOPULERKAN DEWI KIRANA [PujjVAjQwkg].flac
+2026-06-17T21:31:14 update: added SSK/BAHAGIA KU BAHAGIA - KEMBANG GULA -  FRESSA AYUMI - CIPT. WAHYU POPAY ｜ DEWI KIRANA [pn2qYXMw-zM].flac
+2026-06-17T21:31:14 update: added SSK/PUPU BAYU - MISSEL LAURA D FEAT FRESSA AYUMI - CIPT. MAMA BOWO DIPOPULERKAN OLEH MINIH SULASTRI [942WFm6WxSU].flac
+2026-06-17T21:31:14 update: added SSK/TAKON STATUS - FRESSA AYUMI Feat NAWANG SASIH CIPT. DIDIT NATA JAYA DIPOP. RINI ASHANDY [L7ngl-qZwko].flac
+2026-06-17T21:31:14 update: added SSK/JALUR LANGIT - MISSEL LAURA D FEAT NESA NATA JAYA [0sOcnJ7r9wc].flac
+2026-06-17T21:31:14 update: added SSK/PILIHAN BATIN - FRESSA AYUMI - DEVI MANUAL CIPT. LEE HIEN ｜ SUARA KITA STUDIO [9zqtomxCVMc].flac
+2026-06-17T21:31:14 update: added SSK/UNYU UNYU - MISSEL LAURA D - SUARA KITA STUDIO [vviUGlklp_Q].flac
+2026-06-17T21:31:14 update: added SSK/UGAL UGALAN - MISSEL LAURA D SUARA KITA STUDIO [kIk_0YVNRKw].flac
+2026-06-17T21:31:14 update: added SSK/JANJI BENGEN - MISSEL LAURA D  SUARA KITA STUDIO COVER [gUAByx8_WPo].flac
+2026-06-17T21:31:14 update: added SSK/ANUGERAH CINTA - MISSEL LAURA D - SITI ALIYAH - CIPT. ANGGI R [J85RCnyeXNw].flac
+2026-06-17T21:31:14 update: added SSK/PENYAKIT ATI - MISSEL LAURA D SUARA KITA STUDIO CIPT. ALI GANGGA [ZTjKCWKVYR8].flac
+2026-06-17T21:31:14 update: added SSK/TOB'RUT - MISSEL LAURA D FEAT NAWANG SASIH SUARA KITA STUDIO COVER [BFwmTpNBj0U].flac
+2026-06-17T21:31:15 update: added SSK/AYANGE KITA - IRKA JESIKA SUARA KITA STUDIO COVER CIPT. DIDIT NATA JAYA DIPOP. ELA NANO RIYANTO [8WFeQOVpe6w].flac
+2026-06-17T21:31:15 update: added SSK/MASIH SETIA - RINDI NOVIANTIKA SUARA KITA STUDIO COVER [hGbqfMTQlnw].flac
+2026-06-17T21:31:15 update: added SSK/WEDI DOSA - IRKA JESIKA FEAT SUARA KITA STUDIO [-RIWMPQLDq8].flac
+2026-06-17T21:31:15 update: added SSK/MABOK BRUTU - FRESSA AYUMI FEAT SUARA KITA STUDIO CIPT. ALMIN SAID [Bw28IduAYlY].flac
+2026-06-17T21:31:15 update: added SSK/BLI BISA BARENG - IRKA JESIKA Ft SUARA KITA STUDIO CIPT. ALI BABA [zY3lTaDZUbo].flac
+2026-06-17T21:31:15 update: added SSK/NGAPLANG NGAPLANG - SUARA KITA STUDIO FEAT IRKA JESIKA CIPT. EMEK ARYANTO DIPOP. DEDE RISTY [VplLGsMh3xg].flac
+2026-06-17T21:31:15 update: added SSK/PERMISI SITI ALIYAH FEAT SUARA KITA STUDIO [sFUop3ExBDc].flac
+2026-06-17T21:31:15 update: added SSK/DALAN ANYAR NESA NATA JAYA SUARA KITA STUDIO [SnUIAESZ3MY].flac
+2026-06-17T21:31:15 update: added SSK/KEGODA LANANG SUARA KITA STUDIO MAELLA KHARISMA CIPT. ITY ASHELLA [g6tI3J_Tc9I].flac
+2026-06-17T21:31:15 update: added SSK/KEJEM IRKA JESIKA - SUARA KITA STUDIO ｜ CIPT. ZALE RM [vBQRGnyPdoc].flac
+2026-06-17T21:31:15 update: added SSK/WADON PENGGANTI ｜ IRKA JESIKA SUARA KITA STUDIO [iIq-FuH3pE0].flac
+2026-06-17T21:31:15 update: added SSK/BISIKAN CINTA - IRKA JESIKA SUARA KITA STUDIO CIPT. RASMAN [iMZ6LZDJo7c].flac
+2026-06-17T21:31:15 update: added SSK/BARANG SLUNDUPAN IRKA JESIKA FT AYU WD ｜ SUARA KITA STUDIO [kTH8CXEKNnU].flac
+2026-06-17T21:31:15 update: added SSK/PEMUDA IDAMAN - KALIA SISKA FEAT SUARA KITA STUDIO CIPT. SADI M (ALM) [Cyz2Lh_3pLY].flac
+2026-06-17T21:31:15 update: added SSK/ANAK DEWA - KALIA SISKA FT SUARA KITA STUDIO CIPT. MUGI LAHIYA [uh-qVqW5k7w].flac
+2026-06-17T21:31:15 update: added SSK/PENGEN DIKAWIN KALIA SISKA & NAWANG SASIH FEAT SUARA KITA STUDIO CIPT. H. M. SIDDIK [AY9qrkIVsDk].flac
+2026-06-17T21:31:15 update: added SSK/MEGOT DEMEN - SUARA KITA STUDIO FT SITI ALIYAH, AYU WD [5P7zCY-s7ws].flac
+2026-06-17T21:32:00 exception: Failed to open "/data/data/com.termux/files/home/.mpd/state": No such file or directory
+2026-06-17T21:32:32 exception: Failed to open "/data/data/com.termux/files/home/.mpd/state": No such file or directory
+2026-06-17T21:33:25 exception: Failed to open "/data/data/com.termux/files/home/.mpd/state": No such file or directory
+2026-06-17T21:36:22 exception: Failed to open "/data/data/com.termux/files/home/.mpd/state": No such file or directory
+2026-06-17T21:36:22 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-17T21:41:32 player: played "SSK/ANAK DEWA - KALIA SISKA FT SUARA KITA STUDIO CIPT. MUGI LAHIYA [uh-qVqW5k7w].flac"
+2026-06-17T21:44:42 exception: Failed to rename file: No such file or directory
+2026-06-17T21:44:42 exception: Failed to rename file: No such file or directory
+2026-06-17T21:44:42 player: played "Flac/Bella Nova - Hati Siapa Tak Luka (Live Music) [qXYjbppvqbo].flac"
+2026-06-17T21:44:52 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-17T21:48:37 player: played "Flac/Bella Nova - Hati Siapa Tak Luka (Live Music) [qXYjbppvqbo].flac"
+2026-06-17T21:48:56 player: played "Flac/Bella Nova - Satu Rasa Cinta (Live Music) [DQhiUQGb3cE].flac"
+2026-06-17T21:49:12 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-17T21:52:41 player: played "Flac/Bella Nova - Satu Rasa Cinta (Live Music) [DQhiUQGb3cE].flac"
+2026-06-17T21:52:50 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-17T21:54:42 player: played "Flac/Bella Nova - Satu Rasa Cinta (Live Music) [DQhiUQGb3cE].flac"
+2026-06-17T21:57:56 player: played "Flac/Bella Nova - Sia Sia Mengharap Cintamu (Live Music) [PxedEJlvh38].flac"
+2026-06-17T21:57:58 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-17T21:58:19 exception: Failed to open audio output
+2026-06-17T21:58:48 exception: Failed to open audio output
+2026-06-17T21:59:05 player: played "Flac/Bella Nova - Satu Rasa Cinta (Live Music) [DQhiUQGb3cE].flac"
+2026-06-17T21:59:29 exception: All audio outputs are disabled
+2026-06-17T21:59:29 player: problems opening audio device while playing "Flac/Bella Nova - Hati Siapa Tak Luka (Live Music) [qXYjbppvqbo].flac"
+2026-06-17T21:59:31 exception: All audio outputs are disabled
+2026-06-17T21:59:33 exception: All audio outputs are disabled
+2026-06-17T22:01:57 player: played "Flac/Bella Nova - Hati Siapa Tak Luka (Live Music) [qXYjbppvqbo].flac"
+2026-06-17T22:01:59 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-17T22:02:06 exception: All audio outputs are disabled
+2026-06-17T22:02:10 exception: All audio outputs are disabled
+2026-06-17T22:03:21 player: played "Flac/Bella Nova - Satu Rasa Cinta (Live Music) [DQhiUQGb3cE].flac"
+2026-06-17T22:03:23 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-17T22:03:23 config: option "path" on line 18 was not recognized
+2026-06-17T22:04:39 player: played "Flac/Bella Nova - Satu Rasa Cinta (Live Music) [DQhiUQGb3cE].flac"
+2026-06-17T22:04:41 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-17T22:04:41 config: option "path" on line 18 was not recognized
+2026-06-17T22:07:03 player: played "Flac/Bella Nova - Satu Rasa Cinta (Live Music) [DQhiUQGb3cE].flac"
+2026-06-17T22:07:04 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-17T22:08:02 player: played "Flac/Bella Nova - Satu Rasa Cinta (Live Music) [DQhiUQGb3cE].flac"
+2026-06-17T22:10:47 player: played "Flac/Bella Nova - Sia Sia Mengharap Cintamu (Live Music) [PxedEJlvh38].flac"
+2026-06-17T22:10:51 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-17T22:11:02 exception: Failed to open audio output
+2026-06-17T22:15:49 player: played "Flac/Bella Nova - Sia Sia Mengharap Cintamu (Live Music) [PxedEJlvh38].flac"
+2026-06-17T22:15:49 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-17T22:17:09 player: played "Flac/Bella Nova - Sia Sia Mengharap Cintamu (Live Music) [PxedEJlvh38].flac"
+2026-06-17T22:19:23 player: played "Flac/KERANDA CINTA - Lusyana Jelita Adella - OM ADELLA [OI_OvpWos1M].flac"
+2026-06-17T22:19:25 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-17T22:21:55 player: played "Flac/KERANDA CINTA - Lusyana Jelita Adella - OM ADELLA [OI_OvpWos1M].flac"
+2026-06-17T22:21:57 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-17T22:24:37 player: played "Flac/KERANDA CINTA - Lusyana Jelita Adella - OM ADELLA [OI_OvpWos1M].flac"
+2026-06-17T22:25:15 player: played "Flac/PERMISI SITI ALIYAH FEAT SUARA KITA STUDIO [sFUop3ExBDc].flac"
+2026-06-17T22:25:18 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-17T22:29:23 player: played "Flac/PERMISI SITI ALIYAH FEAT SUARA KITA STUDIO [sFUop3ExBDc].flac"
+2026-06-17T22:29:24 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-17T22:36:41 player: played "Flac/Yeni Inka - PECAH SERIBU (Official MV) Hanya Dia Yang Ada Diantara Jantung Hati [vuijmH64lrU].flac"
+2026-06-17T22:37:31 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-17T22:38:34 player: played "Flac/Yeni Inka - PECAH SERIBU (Official MV) Hanya Dia Yang Ada Diantara Jantung Hati [vuijmH64lrU].flac"
+2026-06-17T22:46:14 player: played "SSK/KARNA DEMEN - SUARA KITA STUDIO FEAT IRKA JESIKA CIPTAAN WA KANCIL JUNED [dYNeBkSA-MM].flac"
+2026-06-17T22:46:16 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-17T22:46:16 exception: Failed to decode "/data/data/com.termux/files/home/storage/SSK/KARNA DEMEN - SUARA KITA STUDIO FEAT IRKA JESIKA CIPTAAN WA KANCIL JUNED [dYNeBkSA-MM].flac"; Failed to open "/data/data/com.termux/files/home/storage/SSK/KARNA DEMEN - SUARA KITA STUDIO FEAT IRKA JESIKA CIPTAAN WA KANCIL JUNED [dYNeBkSA-MM].flac": No such file or directory
+2026-06-17T22:46:16 player: played "SSK/KARNA DEMEN - SUARA KITA STUDIO FEAT IRKA JESIKA CIPTAAN WA KANCIL JUNED [dYNeBkSA-MM].flac"
+2026-06-17T22:46:35 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-17T22:46:35 update: added shared/Music/Samsung/Over_the_Horizon.m4a
+2026-06-17T22:46:35 update: added shared/Music/Flac/Bella Nova - Hati Siapa Tak Luka (Live Music) [qXYjbppvqbo].flac
+2026-06-17T22:46:35 update: added shared/Music/Flac/Bella Nova - Satu Rasa Cinta (Live Music) [DQhiUQGb3cE].flac
+2026-06-17T22:46:35 update: added shared/Music/Flac/KERANDA CINTA - Lusyana Jelita Adella - OM ADELLA [OI_OvpWos1M].flac
+2026-06-17T22:46:35 update: added shared/Music/Flac/Bella Nova - Sia Sia Mengharap Cintamu (Live Music) [PxedEJlvh38].flac
+2026-06-17T22:46:35 update: added shared/Music/Flac/PERMISI SITI ALIYAH FEAT SUARA KITA STUDIO [sFUop3ExBDc].flac
+2026-06-17T22:46:35 update: added shared/Music/Flac/Yeni Inka - PECAH SERIBU (Official MV) Hanya Dia Yang Ada Diantara Jantung Hati [vuijmH64lrU].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/KECEWA - SOSOK ｜ COVER BY NAWANG SASIH TARLING AKUSTIK ｜ SUARA KITA STUDIO [UdBoem52WKc].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/MELEPAS LAJANG - TRI SUAKA ｜ CINDY AIBIGE SUARA KITA STUDIO [MpwaQRIABtU].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/PENDAMPING ATI (IIS SYANTIKA) - NAWANG SASIH AKUSTIK COVER BY SUARA KITA STUDIO [uuiGbJA71CM].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/KASMARAN DEMEN COVER BY MISSEL LAURA D SUARA KITA STUDIO [aVkxTv4LKwk].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/NGANCURNA PERASAAN (AYU KARLINA) ｜ COVER BY SUARA KITA STUDIO X AKUSTIKAN BRO [tYRrh4wT_Lo].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/KANG KAJI GAUL COVER BY NAWANG SASIH ｜ CIPT AMIN HERMAWAN DESY PARASWATI [EEUlYgyZi8Q].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/MABOK NGESLOT COVER BY NAWANG SASIH - INDRI FAHRIZA ｜ AMIN HERMAWAN - SUARA KITA STUDIO [Ww9x5eSoe4s].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/KUDUNE BERPISAH (OCHOLL DHUT) ｜ COVER BY SUARA KITA STUDIO X AIKO MUSIC｜ CIPT. RESTU BRAJA TUMAMA [6ayMZ-ZxJPo].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/JARE SEMA COVER BY NAWANG SASIH ｜ SITI ALIYAH ｜ CIPT. BRAM PURNAMA ｜ SUARA KITA STUDIO [MYUX6sgsmYo].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/INGET KA MANTAN AKUSTIK COVER RINA APRILIANA FT NAWANG SASIH SUARA KITA STUDIO [8P9Rj7mwQB0].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/KELARA - WA KANCIL JUNED ｜ COVER BY MISSEL LAURA D ｜ SUARA KITA STUDIO [cy11t7VeTAQ].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/PURA-PURA MESEM COVER BY NAWANG SASIH ｜ SUARA KITA STUDIO [4AYmddBlu2E].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/KADANG KADANG KANGEN - COVER BY SOULKUSTIK FEAT NAWANG SASIH SUARA KITA STUDIO [xFiQNCW4fk0].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/PENDAMPING ATI - COVER BY IPANK SOULKUSTIK FEAT  MISSEL LAURA D SUARA KITA STUDIO [3snljICYkhA].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/RINDU BATIN COVER  MISSEL LAURA D ｜ SUARA KITA STUDIO ｜ CIPT. DIDIT NATAJAYA [znegzh9b-Ss].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/SEMANGAT WONG LANANG - MISSEL LAURA D FEAT SITI ALIYAH - SUARA KITA STUDIO [jCrV4UBbvtU].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/SALAH SIJINE (COVER) - MISSEL LAURA D ｜ DEVI MANUAL  ｜ SUARA KITA STUDIO [XD0STZvVMrk].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/KEBABLASAN - MISSEL LAURA D Feat  KALIA SISKA ｜ CIPT. ITY ASHELLA [Ug3uLsgIshE].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/WONG IRENG - MISSEL LAURA D Feat NAWANG SASIH - CIPT. DAPUD ANGGARA - DIPOPULERKAN OLEH CUS AMANDA [zRBtNpsMzKw].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/KEMBANGE LAMBE - MISSEL LAURA D - CIPT. ZALE RM ｜ SUARA KITA STUDIO [xOhrz0OxTew].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/GARISAN CINTA - MISSEL LAURA D Ft NAWANG SASIH - DIAN ANIC CIPT. LEE HIEN [VLQCAimrzTE].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/DI BALIK LAYAR SESADU RINDU - SUARA KITA STUDIO [Fa7GE6oSxXM].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/KARAOKE - SESADU RINDU (ORIGINAL) MISSEL LAURA D ｜ SUARA KITA STUDIO [DLPCHE6SCzc].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/PAYUNGAN - MISSEL LAURA D ｜ DIPOPULERKAN OLEH NUNU UNYIL ｜ CIPT. DIDIT NATA JAYA [m1XsK3cfr9I].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/KESENGSEM - MISSEL LAURA D FEAT FRESSA AYUMI CIPT. NINING SANJAYA ｜ SUARA KITA STUDIO [gwtwrHQSo20].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/BUAYA DIKADALI - MISSEL LAURA D - SUARA KITA STUDIO [O4eKpgJHiqw].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/HARAPAN HATI - MISSEL LAURA D FEAT SITI ALIYAH ｜ SUARA KITA STUDIO CIPT. LEE HIEN [t54b524FAfE].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/SEKUATE ATI - MISSEL LAURA D - CIPT. ZALE RM DIPOP. JUJUN SIMILIKITY [qNbK4fBaQRw].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/KEPASTIAN - MISSEL LAURA D - CIPT. WA KANCIL JUNED ｜ SUARA KITA STUDIO [tIz40fF6XRs].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/SEWU SIJI - IRKA JESIKA SUARA KITA STUDIO COVER CIPT. RADI ZONK DIPOP. DEBY CANTIKA [EiZZrYgEu9A].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/MOTOR SEBELAH - RINDI NOVIANTIKA SUARA KITA STUDIO COVER - CIPT. ZALE RM - DIPOP. YANTI BAPUK [uP49eZW0Nbs].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/SUMUR SANGA -  INDAH WATY FEAT SUARA KITA STUDIO [OcT5iupqY58].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/COLONG COLONGAN - INDAH WATY FEAT SUARA KITA STUDIO [v-3b1cFyAkE].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/KARNA DEMEN - SUARA KITA STUDIO FEAT IRKA JESIKA CIPTAAN WA KANCIL JUNED [dYNeBkSA-MM].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/NJALUK PING PITU - KALIA SISKA FEAT SUARA KITA STUDIO CIPT. ROHID FALAK DIPOP. OCHOLL DHUT [iyNusasL6B8].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/MUSNAH - KALIA SISKA Feat SUARA KITA STUDIO [X_C7pK6x8-0].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/KAMBUH - KALIA SISKA Ft SUARA KITA STUDIO [k3gZkrfgaxA].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/EDAN LANANG - SUARA KITA STUDIO FT IRKA JESIKA [iOhnx35e_30].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/MURUB IRKA JESIKA FEAT SITI ALIYAH SUARA KITA STUDIO [seP2yt5rEaY].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/BAPERAN - SUARA KITA STUDIO NAWANG SASIH ｜ CIPT. LEE HIEN [NzpTWDbugd8].flac
+2026-06-17T22:46:35 update: added shared/Music/SSK/BUAYA NGOSED - SUARA KITA STUDIO FT IRKA JESIKA [VM8Ca7uScUw].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/KANGEN DIBALES LARA COVER MISSEL LAURA D - SUARA KITA STUDIO - CIPT. JUJU [8Y5MqWcvZq8].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/NJALUK AMPUN - MISSEL LAURA D - CIPT. JOJO MELODY ｜ EYIS ｜ COVER BY SUARA KITA STUDIO [UQYaGQnBW-E].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/DIGAWE WIRANG - MISSEL LAURA D - FAHMI ZEIN - CIPT. RIZA D'WAPINZ [_m3_y1lAIk8].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/TOANG TAMBI - MISSEL LAURA D - SUARA KITA STUDIO [XyvDWIiFyEc].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/BATUR KESEPIAN - DIAN ANIC COVER BY MISSEL LAURA D SUARA KITA STUDIO [D50TPgZHkx0].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/SESADU RINDU - MISSEL LAURA D ｜ SUARA KITA STUDIO (OFFICIAL MUSIC VIDEO) [FGJlhA3F-ic].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/JEGER - MISSEL LAURA D - SUARA KITA STUDIO [XEtq0NCEFeY].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/EMONG DIWAYU - HJ. AAS ROLANI COVER MISSEL LAURA D BY SUARA KITA STUDIO [qcCUswRNt9M].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/PECAK WELUT - MISSEL LAURA D Feat NAWANG SASIH CIPT. MAMAT SURAHMAT - DEWI KIRANA [5UXcITfgeS8].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/SETIA NUNGGU - MISSEL LAURA D FEAT INDAH WATY - CIPT. ABUD XTRIM [mxCUKUx6rLc].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/BRAJATUMAMA - MISSEL LAURA D Feat FRESSA AYUMI - CIPT. MAMAT SURAHMAT - DIPOPULERKAN DEWI KIRANA [PujjVAjQwkg].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/BAHAGIA KU BAHAGIA - KEMBANG GULA -  FRESSA AYUMI - CIPT. WAHYU POPAY ｜ DEWI KIRANA [pn2qYXMw-zM].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/PUPU BAYU - MISSEL LAURA D FEAT FRESSA AYUMI - CIPT. MAMA BOWO DIPOPULERKAN OLEH MINIH SULASTRI [942WFm6WxSU].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/TAKON STATUS - FRESSA AYUMI Feat NAWANG SASIH CIPT. DIDIT NATA JAYA DIPOP. RINI ASHANDY [L7ngl-qZwko].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/JALUR LANGIT - MISSEL LAURA D FEAT NESA NATA JAYA [0sOcnJ7r9wc].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/PILIHAN BATIN - FRESSA AYUMI - DEVI MANUAL CIPT. LEE HIEN ｜ SUARA KITA STUDIO [9zqtomxCVMc].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/UNYU UNYU - MISSEL LAURA D - SUARA KITA STUDIO [vviUGlklp_Q].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/UGAL UGALAN - MISSEL LAURA D SUARA KITA STUDIO [kIk_0YVNRKw].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/JANJI BENGEN - MISSEL LAURA D  SUARA KITA STUDIO COVER [gUAByx8_WPo].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/ANUGERAH CINTA - MISSEL LAURA D - SITI ALIYAH - CIPT. ANGGI R [J85RCnyeXNw].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/PENYAKIT ATI - MISSEL LAURA D SUARA KITA STUDIO CIPT. ALI GANGGA [ZTjKCWKVYR8].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/TOB'RUT - MISSEL LAURA D FEAT NAWANG SASIH SUARA KITA STUDIO COVER [BFwmTpNBj0U].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/AYANGE KITA - IRKA JESIKA SUARA KITA STUDIO COVER CIPT. DIDIT NATA JAYA DIPOP. ELA NANO RIYANTO [8WFeQOVpe6w].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/MASIH SETIA - RINDI NOVIANTIKA SUARA KITA STUDIO COVER [hGbqfMTQlnw].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/WEDI DOSA - IRKA JESIKA FEAT SUARA KITA STUDIO [-RIWMPQLDq8].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/MABOK BRUTU - FRESSA AYUMI FEAT SUARA KITA STUDIO CIPT. ALMIN SAID [Bw28IduAYlY].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/BLI BISA BARENG - IRKA JESIKA Ft SUARA KITA STUDIO CIPT. ALI BABA [zY3lTaDZUbo].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/NGAPLANG NGAPLANG - SUARA KITA STUDIO FEAT IRKA JESIKA CIPT. EMEK ARYANTO DIPOP. DEDE RISTY [VplLGsMh3xg].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/PERMISI SITI ALIYAH FEAT SUARA KITA STUDIO [sFUop3ExBDc].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/DALAN ANYAR NESA NATA JAYA SUARA KITA STUDIO [SnUIAESZ3MY].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/KEGODA LANANG SUARA KITA STUDIO MAELLA KHARISMA CIPT. ITY ASHELLA [g6tI3J_Tc9I].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/KEJEM IRKA JESIKA - SUARA KITA STUDIO ｜ CIPT. ZALE RM [vBQRGnyPdoc].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/WADON PENGGANTI ｜ IRKA JESIKA SUARA KITA STUDIO [iIq-FuH3pE0].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/BISIKAN CINTA - IRKA JESIKA SUARA KITA STUDIO CIPT. RASMAN [iMZ6LZDJo7c].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/BARANG SLUNDUPAN IRKA JESIKA FT AYU WD ｜ SUARA KITA STUDIO [kTH8CXEKNnU].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/PEMUDA IDAMAN - KALIA SISKA FEAT SUARA KITA STUDIO CIPT. SADI M (ALM) [Cyz2Lh_3pLY].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/ANAK DEWA - KALIA SISKA FT SUARA KITA STUDIO CIPT. MUGI LAHIYA [uh-qVqW5k7w].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/PENGEN DIKAWIN KALIA SISKA & NAWANG SASIH FEAT SUARA KITA STUDIO CIPT. H. M. SIDDIK [AY9qrkIVsDk].flac
+2026-06-17T22:46:36 update: added shared/Music/SSK/MEGOT DEMEN - SUARA KITA STUDIO FT SITI ALIYAH, AYU WD [5P7zCY-s7ws].flac
+2026-06-17T22:46:36 exception: Failed to open /data/data/com.termux/files/home/storage/shared/Android/data: Permission denied
+2026-06-17T22:46:36 exception: Failed to open /data/data/com.termux/files/home/storage/shared/Android/obb: Permission denied
+2026-06-17T22:46:36 update: added shared/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Video/Private/VID-20260413-WA0028.mp4
+2026-06-17T22:46:36 update: added shared/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Video/Private/VID-20260413-WA0029.mp4
+2026-06-17T22:46:36 update: added shared/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Video/Private/VID-20260413-WA0030.mp4
+2026-06-17T22:46:36 update: added shared/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Video/Private/VID-20260413-WA0031.mp4
+2026-06-17T22:46:36 update: added shared/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Video/Private/VID-20260413-WA0032.mp4
+2026-06-17T22:46:36 update: added shared/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Video/Private/VID-20260413-WA0033.mp4
+2026-06-17T22:46:36 update: added shared/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Video/Private/VID-20260413-WA0034.mp4
+2026-06-17T22:46:36 update: added shared/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Video/Private/VID-20260413-WA0035.mp4
+2026-06-17T22:46:37 update: added shared/Android/media/com.whatsapp/WhatsApp/accounts/1005/Media/.Statuses/a25e8463d34f4691b5f94c25326a4625.mp4
+2026-06-17T22:46:37 update: added shared/Ringtones/618f3287-new_facebook_ringtone_7.m4a
+2026-06-17T22:46:37 update: added shared/Download/Bass Booster/Demons.flac
+2026-06-17T22:46:37 update: added shared/Download/Bass Booster/KUMPULAN BASS EMPUK ｜ DJ CEK SOUND FULL BASS ALBUM TERBARU 2025 (MHLS PRO) [0fF4KYh5w5c].flac
+2026-06-17T22:46:37 update: added shared/Download/Bass Booster/SOUND HOREG TRAP FULL BASS SOUND CHEK [wdZ1gyAJOsw].flac
+2026-06-17T22:46:37 update: added shared/Download/Bass Booster/lagu cek sound gendhing getarkan kaca yang dicari gong glerrr seperti ada hajatan 2024 [EP8HKq2ZOBk].flac
+2026-06-17T22:46:37 update: added shared/Download/Bass Booster/TEST SPEAKER AUDIO SOUND SYSTEM - OBAT NGAMUK MUSIK [mh0jKNzcLAc].flac
+2026-06-17T22:46:37 update: added shared/Download/AZMY Z - LALEUR HEJO (Official Musik Video) [b_IjEB1bEHg].flac
+2026-06-17T22:46:37 update: added shared/Download/INGET KA MANTAN - AZMY Z (Official Music Video) [fhiRtYw5TWI].flac
+2026-06-17T22:46:37 update: added shared/Download/JAYANTI - AZMY Z ( Official Music Video ) [qVpmhkNOscI].flac
+2026-06-17T22:46:37 update: added shared/Download/JOKO TINGKIR REMIX BY AZMY Z  ｜ ｜ Versi 3 Bhs (Sunda ,Indonesia, Jawa) [WhMrUmQEnpY].flac
+2026-06-17T22:46:37 update: added shared/Download/RUNTAH - AZMY Z  (Official Music Video) [lAIdX9Rv3Rk].flac
+2026-06-17T22:46:37 update: added shared/Download/Silvy Kumalasari -  Ego Wong Tuo (Official Music Video) ｜ Kudu Iso Kuat Balungane [XluOxf5xlyA].flac
+2026-06-17T22:46:37 update: added shared/Download/Silvy Kumalasari - Denok (Official Music Video) ｜ Ora Bakal Cukup Lautan Mangsi [QCE3_GuF5qA].flac
+2026-06-17T22:46:37 update: added shared/Download/Silvy Kumalasari Ft SadewoK - Ropang (Official Music Video) Aku Pancen Ora Sempurna, Gampang Terluka [jcIsdKJWphs].flac
+2026-06-17T22:46:37 update: added downloads/Bass Booster/Demons.flac
+2026-06-17T22:46:37 update: added downloads/Bass Booster/KUMPULAN BASS EMPUK ｜ DJ CEK SOUND FULL BASS ALBUM TERBARU 2025 (MHLS PRO) [0fF4KYh5w5c].flac
+2026-06-17T22:46:37 update: added downloads/Bass Booster/SOUND HOREG TRAP FULL BASS SOUND CHEK [wdZ1gyAJOsw].flac
+2026-06-17T22:46:37 update: added downloads/Bass Booster/lagu cek sound gendhing getarkan kaca yang dicari gong glerrr seperti ada hajatan 2024 [EP8HKq2ZOBk].flac
+2026-06-17T22:46:37 update: added downloads/Bass Booster/TEST SPEAKER AUDIO SOUND SYSTEM - OBAT NGAMUK MUSIK [mh0jKNzcLAc].flac
+2026-06-17T22:46:37 update: added downloads/AZMY Z - LALEUR HEJO (Official Musik Video) [b_IjEB1bEHg].flac
+2026-06-17T22:46:37 update: added downloads/INGET KA MANTAN - AZMY Z (Official Music Video) [fhiRtYw5TWI].flac
+2026-06-17T22:46:37 update: added downloads/JAYANTI - AZMY Z ( Official Music Video ) [qVpmhkNOscI].flac
+2026-06-17T22:46:37 update: added downloads/JOKO TINGKIR REMIX BY AZMY Z  ｜ ｜ Versi 3 Bhs (Sunda ,Indonesia, Jawa) [WhMrUmQEnpY].flac
+2026-06-17T22:46:37 update: added downloads/RUNTAH - AZMY Z  (Official Music Video) [lAIdX9Rv3Rk].flac
+2026-06-17T22:46:37 update: added downloads/Silvy Kumalasari -  Ego Wong Tuo (Official Music Video) ｜ Kudu Iso Kuat Balungane [XluOxf5xlyA].flac
+2026-06-17T22:46:37 update: added downloads/Silvy Kumalasari - Denok (Official Music Video) ｜ Ora Bakal Cukup Lautan Mangsi [QCE3_GuF5qA].flac
+2026-06-17T22:46:37 update: added downloads/Silvy Kumalasari Ft SadewoK - Ropang (Official Music Video) Aku Pancen Ora Sempurna, Gampang Terluka [jcIsdKJWphs].flac
+2026-06-17T22:46:37 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-06-17T22:46:37 update: added music/Samsung/Over_the_Horizon.m4a
+2026-06-17T22:46:37 update: added music/Flac/Bella Nova - Hati Siapa Tak Luka (Live Music) [qXYjbppvqbo].flac
+2026-06-17T22:46:37 update: added music/Flac/Bella Nova - Satu Rasa Cinta (Live Music) [DQhiUQGb3cE].flac
+2026-06-17T22:46:37 update: added music/Flac/KERANDA CINTA - Lusyana Jelita Adella - OM ADELLA [OI_OvpWos1M].flac
+2026-06-17T22:46:37 update: added music/Flac/Bella Nova - Sia Sia Mengharap Cintamu (Live Music) [PxedEJlvh38].flac
+2026-06-17T22:46:37 update: added music/Flac/PERMISI SITI ALIYAH FEAT SUARA KITA STUDIO [sFUop3ExBDc].flac
+2026-06-17T22:46:37 update: added music/Flac/Yeni Inka - PECAH SERIBU (Official MV) Hanya Dia Yang Ada Diantara Jantung Hati [vuijmH64lrU].flac
+2026-06-17T22:46:37 update: added music/SSK/KECEWA - SOSOK ｜ COVER BY NAWANG SASIH TARLING AKUSTIK ｜ SUARA KITA STUDIO [UdBoem52WKc].flac
+2026-06-17T22:46:37 update: added music/SSK/MELEPAS LAJANG - TRI SUAKA ｜ CINDY AIBIGE SUARA KITA STUDIO [MpwaQRIABtU].flac
+2026-06-17T22:46:37 update: added music/SSK/PENDAMPING ATI (IIS SYANTIKA) - NAWANG SASIH AKUSTIK COVER BY SUARA KITA STUDIO [uuiGbJA71CM].flac
+2026-06-17T22:46:37 update: added music/SSK/KASMARAN DEMEN COVER BY MISSEL LAURA D SUARA KITA STUDIO [aVkxTv4LKwk].flac
+2026-06-17T22:46:37 update: added music/SSK/NGANCURNA PERASAAN (AYU KARLINA) ｜ COVER BY SUARA KITA STUDIO X AKUSTIKAN BRO [tYRrh4wT_Lo].flac
+2026-06-17T22:46:37 update: added music/SSK/KANG KAJI GAUL COVER BY NAWANG SASIH ｜ CIPT AMIN HERMAWAN DESY PARASWATI [EEUlYgyZi8Q].flac
+2026-06-17T22:46:37 update: added music/SSK/MABOK NGESLOT COVER BY NAWANG SASIH - INDRI FAHRIZA ｜ AMIN HERMAWAN - SUARA KITA STUDIO [Ww9x5eSoe4s].flac
+2026-06-17T22:46:37 update: added music/SSK/KUDUNE BERPISAH (OCHOLL DHUT) ｜ COVER BY SUARA KITA STUDIO X AIKO MUSIC｜ CIPT. RESTU BRAJA TUMAMA [6ayMZ-ZxJPo].flac
+2026-06-17T22:46:37 update: added music/SSK/JARE SEMA COVER BY NAWANG SASIH ｜ SITI ALIYAH ｜ CIPT. BRAM PURNAMA ｜ SUARA KITA STUDIO [MYUX6sgsmYo].flac
+2026-06-17T22:46:37 update: added music/SSK/INGET KA MANTAN AKUSTIK COVER RINA APRILIANA FT NAWANG SASIH SUARA KITA STUDIO [8P9Rj7mwQB0].flac
+2026-06-17T22:46:37 update: added music/SSK/KELARA - WA KANCIL JUNED ｜ COVER BY MISSEL LAURA D ｜ SUARA KITA STUDIO [cy11t7VeTAQ].flac
+2026-06-17T22:46:37 update: added music/SSK/PURA-PURA MESEM COVER BY NAWANG SASIH ｜ SUARA KITA STUDIO [4AYmddBlu2E].flac
+2026-06-17T22:46:37 update: added music/SSK/KADANG KADANG KANGEN - COVER BY SOULKUSTIK FEAT NAWANG SASIH SUARA KITA STUDIO [xFiQNCW4fk0].flac
+2026-06-17T22:46:37 update: added music/SSK/PENDAMPING ATI - COVER BY IPANK SOULKUSTIK FEAT  MISSEL LAURA D SUARA KITA STUDIO [3snljICYkhA].flac
+2026-06-17T22:46:37 update: added music/SSK/RINDU BATIN COVER  MISSEL LAURA D ｜ SUARA KITA STUDIO ｜ CIPT. DIDIT NATAJAYA [znegzh9b-Ss].flac
+2026-06-17T22:46:37 update: added music/SSK/SEMANGAT WONG LANANG - MISSEL LAURA D FEAT SITI ALIYAH - SUARA KITA STUDIO [jCrV4UBbvtU].flac
+2026-06-17T22:46:37 update: added music/SSK/SALAH SIJINE (COVER) - MISSEL LAURA D ｜ DEVI MANUAL  ｜ SUARA KITA STUDIO [XD0STZvVMrk].flac
+2026-06-17T22:46:37 update: added music/SSK/KEBABLASAN - MISSEL LAURA D Feat  KALIA SISKA ｜ CIPT. ITY ASHELLA [Ug3uLsgIshE].flac
+2026-06-17T22:46:37 update: added music/SSK/WONG IRENG - MISSEL LAURA D Feat NAWANG SASIH - CIPT. DAPUD ANGGARA - DIPOPULERKAN OLEH CUS AMANDA [zRBtNpsMzKw].flac
+2026-06-17T22:46:37 update: added music/SSK/KEMBANGE LAMBE - MISSEL LAURA D - CIPT. ZALE RM ｜ SUARA KITA STUDIO [xOhrz0OxTew].flac
+2026-06-17T22:46:37 update: added music/SSK/GARISAN CINTA - MISSEL LAURA D Ft NAWANG SASIH - DIAN ANIC CIPT. LEE HIEN [VLQCAimrzTE].flac
+2026-06-17T22:46:37 update: added music/SSK/DI BALIK LAYAR SESADU RINDU - SUARA KITA STUDIO [Fa7GE6oSxXM].flac
+2026-06-17T22:46:37 update: added music/SSK/KARAOKE - SESADU RINDU (ORIGINAL) MISSEL LAURA D ｜ SUARA KITA STUDIO [DLPCHE6SCzc].flac
+2026-06-17T22:46:37 update: added music/SSK/PAYUNGAN - MISSEL LAURA D ｜ DIPOPULERKAN OLEH NUNU UNYIL ｜ CIPT. DIDIT NATA JAYA [m1XsK3cfr9I].flac
+2026-06-17T22:46:37 update: added music/SSK/KESENGSEM - MISSEL LAURA D FEAT FRESSA AYUMI CIPT. NINING SANJAYA ｜ SUARA KITA STUDIO [gwtwrHQSo20].flac
+2026-06-17T22:46:37 update: added music/SSK/BUAYA DIKADALI - MISSEL LAURA D - SUARA KITA STUDIO [O4eKpgJHiqw].flac
+2026-06-17T22:46:37 update: added music/SSK/HARAPAN HATI - MISSEL LAURA D FEAT SITI ALIYAH ｜ SUARA KITA STUDIO CIPT. LEE HIEN [t54b524FAfE].flac
+2026-06-17T22:46:37 update: added music/SSK/SEKUATE ATI - MISSEL LAURA D - CIPT. ZALE RM DIPOP. JUJUN SIMILIKITY [qNbK4fBaQRw].flac
+2026-06-17T22:46:37 update: added music/SSK/KEPASTIAN - MISSEL LAURA D - CIPT. WA KANCIL JUNED ｜ SUARA KITA STUDIO [tIz40fF6XRs].flac
+2026-06-17T22:46:37 update: added music/SSK/SEWU SIJI - IRKA JESIKA SUARA KITA STUDIO COVER CIPT. RADI ZONK DIPOP. DEBY CANTIKA [EiZZrYgEu9A].flac
+2026-06-17T22:46:37 update: added music/SSK/MOTOR SEBELAH - RINDI NOVIANTIKA SUARA KITA STUDIO COVER - CIPT. ZALE RM - DIPOP. YANTI BAPUK [uP49eZW0Nbs].flac
+2026-06-17T22:46:37 update: added music/SSK/SUMUR SANGA -  INDAH WATY FEAT SUARA KITA STUDIO [OcT5iupqY58].flac
+2026-06-17T22:46:37 update: added music/SSK/COLONG COLONGAN - INDAH WATY FEAT SUARA KITA STUDIO [v-3b1cFyAkE].flac
+2026-06-17T22:46:37 update: added music/SSK/KARNA DEMEN - SUARA KITA STUDIO FEAT IRKA JESIKA CIPTAAN WA KANCIL JUNED [dYNeBkSA-MM].flac
+2026-06-17T22:46:37 update: added music/SSK/NJALUK PING PITU - KALIA SISKA FEAT SUARA KITA STUDIO CIPT. ROHID FALAK DIPOP. OCHOLL DHUT [iyNusasL6B8].flac
+2026-06-17T22:46:37 update: added music/SSK/MUSNAH - KALIA SISKA Feat SUARA KITA STUDIO [X_C7pK6x8-0].flac
+2026-06-17T22:46:37 update: added music/SSK/KAMBUH - KALIA SISKA Ft SUARA KITA STUDIO [k3gZkrfgaxA].flac
+2026-06-17T22:46:37 update: added music/SSK/EDAN LANANG - SUARA KITA STUDIO FT IRKA JESIKA [iOhnx35e_30].flac
+2026-06-17T22:46:37 update: added music/SSK/MURUB IRKA JESIKA FEAT SITI ALIYAH SUARA KITA STUDIO [seP2yt5rEaY].flac
+2026-06-17T22:46:37 update: added music/SSK/BAPERAN - SUARA KITA STUDIO NAWANG SASIH ｜ CIPT. LEE HIEN [NzpTWDbugd8].flac
+2026-06-17T22:46:37 update: added music/SSK/BUAYA NGOSED - SUARA KITA STUDIO FT IRKA JESIKA [VM8Ca7uScUw].flac
+2026-06-17T22:46:37 update: added music/SSK/KANGEN DIBALES LARA COVER MISSEL LAURA D - SUARA KITA STUDIO - CIPT. JUJU [8Y5MqWcvZq8].flac
+2026-06-17T22:46:37 update: added music/SSK/NJALUK AMPUN - MISSEL LAURA D - CIPT. JOJO MELODY ｜ EYIS ｜ COVER BY SUARA KITA STUDIO [UQYaGQnBW-E].flac
+2026-06-17T22:46:37 update: added music/SSK/DIGAWE WIRANG - MISSEL LAURA D - FAHMI ZEIN - CIPT. RIZA D'WAPINZ [_m3_y1lAIk8].flac
+2026-06-17T22:46:37 update: added music/SSK/TOANG TAMBI - MISSEL LAURA D - SUARA KITA STUDIO [XyvDWIiFyEc].flac
+2026-06-17T22:46:37 update: added music/SSK/BATUR KESEPIAN - DIAN ANIC COVER BY MISSEL LAURA D SUARA KITA STUDIO [D50TPgZHkx0].flac
+2026-06-17T22:46:37 update: added music/SSK/SESADU RINDU - MISSEL LAURA D ｜ SUARA KITA STUDIO (OFFICIAL MUSIC VIDEO) [FGJlhA3F-ic].flac
+2026-06-17T22:46:37 update: added music/SSK/JEGER - MISSEL LAURA D - SUARA KITA STUDIO [XEtq0NCEFeY].flac
+2026-06-17T22:46:37 update: added music/SSK/EMONG DIWAYU - HJ. AAS ROLANI COVER MISSEL LAURA D BY SUARA KITA STUDIO [qcCUswRNt9M].flac
+2026-06-17T22:46:37 update: added music/SSK/PECAK WELUT - MISSEL LAURA D Feat NAWANG SASIH CIPT. MAMAT SURAHMAT - DEWI KIRANA [5UXcITfgeS8].flac
+2026-06-17T22:46:37 update: added music/SSK/SETIA NUNGGU - MISSEL LAURA D FEAT INDAH WATY - CIPT. ABUD XTRIM [mxCUKUx6rLc].flac
+2026-06-17T22:46:37 update: added music/SSK/BRAJATUMAMA - MISSEL LAURA D Feat FRESSA AYUMI - CIPT. MAMAT SURAHMAT - DIPOPULERKAN DEWI KIRANA [PujjVAjQwkg].flac
+2026-06-17T22:46:37 update: added music/SSK/BAHAGIA KU BAHAGIA - KEMBANG GULA -  FRESSA AYUMI - CIPT. WAHYU POPAY ｜ DEWI KIRANA [pn2qYXMw-zM].flac
+2026-06-17T22:46:37 update: added music/SSK/PUPU BAYU - MISSEL LAURA D FEAT FRESSA AYUMI - CIPT. MAMA BOWO DIPOPULERKAN OLEH MINIH SULASTRI [942WFm6WxSU].flac
+2026-06-17T22:46:37 update: added music/SSK/TAKON STATUS - FRESSA AYUMI Feat NAWANG SASIH CIPT. DIDIT NATA JAYA DIPOP. RINI ASHANDY [L7ngl-qZwko].flac
+2026-06-17T22:46:37 update: added music/SSK/JALUR LANGIT - MISSEL LAURA D FEAT NESA NATA JAYA [0sOcnJ7r9wc].flac
+2026-06-17T22:46:37 update: added music/SSK/PILIHAN BATIN - FRESSA AYUMI - DEVI MANUAL CIPT. LEE HIEN ｜ SUARA KITA STUDIO [9zqtomxCVMc].flac
+2026-06-17T22:46:37 update: added music/SSK/UNYU UNYU - MISSEL LAURA D - SUARA KITA STUDIO [vviUGlklp_Q].flac
+2026-06-17T22:46:37 update: added music/SSK/UGAL UGALAN - MISSEL LAURA D SUARA KITA STUDIO [kIk_0YVNRKw].flac
+2026-06-17T22:46:37 update: added music/SSK/JANJI BENGEN - MISSEL LAURA D  SUARA KITA STUDIO COVER [gUAByx8_WPo].flac
+2026-06-17T22:46:37 update: added music/SSK/ANUGERAH CINTA - MISSEL LAURA D - SITI ALIYAH - CIPT. ANGGI R [J85RCnyeXNw].flac
+2026-06-17T22:46:37 update: added music/SSK/PENYAKIT ATI - MISSEL LAURA D SUARA KITA STUDIO CIPT. ALI GANGGA [ZTjKCWKVYR8].flac
+2026-06-17T22:46:37 update: added music/SSK/TOB'RUT - MISSEL LAURA D FEAT NAWANG SASIH SUARA KITA STUDIO COVER [BFwmTpNBj0U].flac
+2026-06-17T22:46:37 update: added music/SSK/AYANGE KITA - IRKA JESIKA SUARA KITA STUDIO COVER CIPT. DIDIT NATA JAYA DIPOP. ELA NANO RIYANTO [8WFeQOVpe6w].flac
+2026-06-17T22:46:37 update: added music/SSK/MASIH SETIA - RINDI NOVIANTIKA SUARA KITA STUDIO COVER [hGbqfMTQlnw].flac
+2026-06-17T22:46:37 update: added music/SSK/WEDI DOSA - IRKA JESIKA FEAT SUARA KITA STUDIO [-RIWMPQLDq8].flac
+2026-06-17T22:46:37 update: added music/SSK/MABOK BRUTU - FRESSA AYUMI FEAT SUARA KITA STUDIO CIPT. ALMIN SAID [Bw28IduAYlY].flac
+2026-06-17T22:46:37 update: added music/SSK/BLI BISA BARENG - IRKA JESIKA Ft SUARA KITA STUDIO CIPT. ALI BABA [zY3lTaDZUbo].flac
+2026-06-17T22:46:37 update: added music/SSK/NGAPLANG NGAPLANG - SUARA KITA STUDIO FEAT IRKA JESIKA CIPT. EMEK ARYANTO DIPOP. DEDE RISTY [VplLGsMh3xg].flac
+2026-06-17T22:46:37 update: added music/SSK/PERMISI SITI ALIYAH FEAT SUARA KITA STUDIO [sFUop3ExBDc].flac
+2026-06-17T22:46:37 update: added music/SSK/DALAN ANYAR NESA NATA JAYA SUARA KITA STUDIO [SnUIAESZ3MY].flac
+2026-06-17T22:46:37 update: added music/SSK/KEGODA LANANG SUARA KITA STUDIO MAELLA KHARISMA CIPT. ITY ASHELLA [g6tI3J_Tc9I].flac
+2026-06-17T22:46:37 update: added music/SSK/KEJEM IRKA JESIKA - SUARA KITA STUDIO ｜ CIPT. ZALE RM [vBQRGnyPdoc].flac
+2026-06-17T22:46:37 update: added music/SSK/WADON PENGGANTI ｜ IRKA JESIKA SUARA KITA STUDIO [iIq-FuH3pE0].flac
+2026-06-17T22:46:37 update: added music/SSK/BISIKAN CINTA - IRKA JESIKA SUARA KITA STUDIO CIPT. RASMAN [iMZ6LZDJo7c].flac
+2026-06-17T22:46:37 update: added music/SSK/BARANG SLUNDUPAN IRKA JESIKA FT AYU WD ｜ SUARA KITA STUDIO [kTH8CXEKNnU].flac
+2026-06-17T22:46:37 update: added music/SSK/PEMUDA IDAMAN - KALIA SISKA FEAT SUARA KITA STUDIO CIPT. SADI M (ALM) [Cyz2Lh_3pLY].flac
+2026-06-17T22:46:37 update: added music/SSK/ANAK DEWA - KALIA SISKA FT SUARA KITA STUDIO CIPT. MUGI LAHIYA [uh-qVqW5k7w].flac
+2026-06-17T22:46:37 update: added music/SSK/PENGEN DIKAWIN KALIA SISKA & NAWANG SASIH FEAT SUARA KITA STUDIO CIPT. H. M. SIDDIK [AY9qrkIVsDk].flac
+2026-06-17T22:46:37 update: added music/SSK/MEGOT DEMEN - SUARA KITA STUDIO FT SITI ALIYAH, AYU WD [5P7zCY-s7ws].flac
+2026-06-17T22:46:37 update: removing Flac/Bella Nova - Hati Siapa Tak Luka (Live Music) [qXYjbppvqbo].flac
+2026-06-17T22:46:37 update: removing Flac/Bella Nova - Satu Rasa Cinta (Live Music) [DQhiUQGb3cE].flac
+2026-06-17T22:46:37 update: removing Flac/Bella Nova - Sia Sia Mengharap Cintamu (Live Music) [PxedEJlvh38].flac
+2026-06-17T22:46:37 update: removing Flac/KERANDA CINTA - Lusyana Jelita Adella - OM ADELLA [OI_OvpWos1M].flac
+2026-06-17T22:46:37 update: removing Flac/PERMISI SITI ALIYAH FEAT SUARA KITA STUDIO [sFUop3ExBDc].flac
+2026-06-17T22:46:37 update: removing Flac/Yeni Inka - PECAH SERIBU (Official MV) Hanya Dia Yang Ada Diantara Jantung Hati [vuijmH64lrU].flac
+2026-06-17T22:46:37 update: removing Samsung/Over_the_Horizon.m4a
+2026-06-17T22:46:37 update: removing SSK/ANAK DEWA - KALIA SISKA FT SUARA KITA STUDIO CIPT. MUGI LAHIYA [uh-qVqW5k7w].flac
+2026-06-17T22:46:37 update: removing SSK/ANUGERAH CINTA - MISSEL LAURA D - SITI ALIYAH - CIPT. ANGGI R [J85RCnyeXNw].flac
+2026-06-17T22:46:37 update: removing SSK/AYANGE KITA - IRKA JESIKA SUARA KITA STUDIO COVER CIPT. DIDIT NATA JAYA DIPOP. ELA NANO RIYANTO [8WFeQOVpe6w].flac
+2026-06-17T22:46:37 update: removing SSK/BAHAGIA KU BAHAGIA - KEMBANG GULA -  FRESSA AYUMI - CIPT. WAHYU POPAY ｜ DEWI KIRANA [pn2qYXMw-zM].flac
+2026-06-17T22:46:37 update: removing SSK/BAPERAN - SUARA KITA STUDIO NAWANG SASIH ｜ CIPT. LEE HIEN [NzpTWDbugd8].flac
+2026-06-17T22:46:37 update: removing SSK/BARANG SLUNDUPAN IRKA JESIKA FT AYU WD ｜ SUARA KITA STUDIO [kTH8CXEKNnU].flac
+2026-06-17T22:46:37 update: removing SSK/BATUR KESEPIAN - DIAN ANIC COVER BY MISSEL LAURA D SUARA KITA STUDIO [D50TPgZHkx0].flac
+2026-06-17T22:46:37 update: removing SSK/BISIKAN CINTA - IRKA JESIKA SUARA KITA STUDIO CIPT. RASMAN [iMZ6LZDJo7c].flac
+2026-06-17T22:46:37 update: removing SSK/BLI BISA BARENG - IRKA JESIKA Ft SUARA KITA STUDIO CIPT. ALI BABA [zY3lTaDZUbo].flac
+2026-06-17T22:46:37 update: removing SSK/BRAJATUMAMA - MISSEL LAURA D Feat FRESSA AYUMI - CIPT. MAMAT SURAHMAT - DIPOPULERKAN DEWI KIRANA [PujjVAjQwkg].flac
+2026-06-17T22:46:37 update: removing SSK/BUAYA DIKADALI - MISSEL LAURA D - SUARA KITA STUDIO [O4eKpgJHiqw].flac
+2026-06-17T22:46:37 update: removing SSK/BUAYA NGOSED - SUARA KITA STUDIO FT IRKA JESIKA [VM8Ca7uScUw].flac
+2026-06-17T22:46:37 update: removing SSK/COLONG COLONGAN - INDAH WATY FEAT SUARA KITA STUDIO [v-3b1cFyAkE].flac
+2026-06-17T22:46:37 update: removing SSK/DALAN ANYAR NESA NATA JAYA SUARA KITA STUDIO [SnUIAESZ3MY].flac
+2026-06-17T22:46:37 update: removing SSK/DI BALIK LAYAR SESADU RINDU - SUARA KITA STUDIO [Fa7GE6oSxXM].flac
+2026-06-17T22:46:37 update: removing SSK/WONG IRENG - MISSEL LAURA D Feat NAWANG SASIH - CIPT. DAPUD ANGGARA - DIPOPULERKAN OLEH CUS AMANDA [zRBtNpsMzKw].flac
+2026-06-17T22:46:37 update: removing SSK/WEDI DOSA - IRKA JESIKA FEAT SUARA KITA STUDIO [-RIWMPQLDq8].flac
+2026-06-17T22:46:37 update: removing SSK/WADON PENGGANTI ｜ IRKA JESIKA SUARA KITA STUDIO [iIq-FuH3pE0].flac
+2026-06-17T22:46:37 update: removing SSK/UNYU UNYU - MISSEL LAURA D - SUARA KITA STUDIO [vviUGlklp_Q].flac
+2026-06-17T22:46:37 update: removing SSK/UGAL UGALAN - MISSEL LAURA D SUARA KITA STUDIO [kIk_0YVNRKw].flac
+2026-06-17T22:46:37 update: removing SSK/TOB'RUT - MISSEL LAURA D FEAT NAWANG SASIH SUARA KITA STUDIO COVER [BFwmTpNBj0U].flac
+2026-06-17T22:46:37 update: removing SSK/TOANG TAMBI - MISSEL LAURA D - SUARA KITA STUDIO [XyvDWIiFyEc].flac
+2026-06-17T22:46:37 update: removing SSK/TAKON STATUS - FRESSA AYUMI Feat NAWANG SASIH CIPT. DIDIT NATA JAYA DIPOP. RINI ASHANDY [L7ngl-qZwko].flac
+2026-06-17T22:46:37 update: removing SSK/SUMUR SANGA -  INDAH WATY FEAT SUARA KITA STUDIO [OcT5iupqY58].flac
+2026-06-17T22:46:37 update: removing SSK/SEWU SIJI - IRKA JESIKA SUARA KITA STUDIO COVER CIPT. RADI ZONK DIPOP. DEBY CANTIKA [EiZZrYgEu9A].flac
+2026-06-17T22:46:37 update: removing SSK/SETIA NUNGGU - MISSEL LAURA D FEAT INDAH WATY - CIPT. ABUD XTRIM [mxCUKUx6rLc].flac
+2026-06-17T22:46:37 update: removing SSK/SESADU RINDU - MISSEL LAURA D ｜ SUARA KITA STUDIO (OFFICIAL MUSIC VIDEO) [FGJlhA3F-ic].flac
+2026-06-17T22:46:37 update: removing SSK/SEMANGAT WONG LANANG - MISSEL LAURA D FEAT SITI ALIYAH - SUARA KITA STUDIO [jCrV4UBbvtU].flac
+2026-06-17T22:46:37 update: removing SSK/SEKUATE ATI - MISSEL LAURA D - CIPT. ZALE RM DIPOP. JUJUN SIMILIKITY [qNbK4fBaQRw].flac
+2026-06-17T22:46:37 update: removing SSK/SALAH SIJINE (COVER) - MISSEL LAURA D ｜ DEVI MANUAL  ｜ SUARA KITA STUDIO [XD0STZvVMrk].flac
+2026-06-17T22:46:37 update: removing SSK/RINDU BATIN COVER  MISSEL LAURA D ｜ SUARA KITA STUDIO ｜ CIPT. DIDIT NATAJAYA [znegzh9b-Ss].flac
+2026-06-17T22:46:37 update: removing SSK/PURA-PURA MESEM COVER BY NAWANG SASIH ｜ SUARA KITA STUDIO [4AYmddBlu2E].flac
+2026-06-17T22:46:37 update: removing SSK/PUPU BAYU - MISSEL LAURA D FEAT FRESSA AYUMI - CIPT. MAMA BOWO DIPOPULERKAN OLEH MINIH SULASTRI [942WFm6WxSU].flac
+2026-06-17T22:46:37 update: removing SSK/PILIHAN BATIN - FRESSA AYUMI - DEVI MANUAL CIPT. LEE HIEN ｜ SUARA KITA STUDIO [9zqtomxCVMc].flac
+2026-06-17T22:46:37 update: removing SSK/PERMISI SITI ALIYAH FEAT SUARA KITA STUDIO [sFUop3ExBDc].flac
+2026-06-17T22:46:37 update: removing SSK/PENYAKIT ATI - MISSEL LAURA D SUARA KITA STUDIO CIPT. ALI GANGGA [ZTjKCWKVYR8].flac
+2026-06-17T22:46:37 update: removing SSK/PENGEN DIKAWIN KALIA SISKA & NAWANG SASIH FEAT SUARA KITA STUDIO CIPT. H. M. SIDDIK [AY9qrkIVsDk].flac
+2026-06-17T22:46:37 update: removing SSK/PENDAMPING ATI (IIS SYANTIKA) - NAWANG SASIH AKUSTIK COVER BY SUARA KITA STUDIO [uuiGbJA71CM].flac
+2026-06-17T22:46:37 update: removing SSK/PENDAMPING ATI - COVER BY IPANK SOULKUSTIK FEAT  MISSEL LAURA D SUARA KITA STUDIO [3snljICYkhA].flac
+2026-06-17T22:46:37 update: removing SSK/PEMUDA IDAMAN - KALIA SISKA FEAT SUARA KITA STUDIO CIPT. SADI M (ALM) [Cyz2Lh_3pLY].flac
+2026-06-17T22:46:37 update: removing SSK/PECAK WELUT - MISSEL LAURA D Feat NAWANG SASIH CIPT. MAMAT SURAHMAT - DEWI KIRANA [5UXcITfgeS8].flac
+2026-06-17T22:46:37 update: removing SSK/PAYUNGAN - MISSEL LAURA D ｜ DIPOPULERKAN OLEH NUNU UNYIL ｜ CIPT. DIDIT NATA JAYA [m1XsK3cfr9I].flac
+2026-06-17T22:46:37 update: removing SSK/NJALUK PING PITU - KALIA SISKA FEAT SUARA KITA STUDIO CIPT. ROHID FALAK DIPOP. OCHOLL DHUT [iyNusasL6B8].flac
+2026-06-17T22:46:37 update: removing SSK/NJALUK AMPUN - MISSEL LAURA D - CIPT. JOJO MELODY ｜ EYIS ｜ COVER BY SUARA KITA STUDIO [UQYaGQnBW-E].flac
+2026-06-17T22:46:37 update: removing SSK/NGAPLANG NGAPLANG - SUARA KITA STUDIO FEAT IRKA JESIKA CIPT. EMEK ARYANTO DIPOP. DEDE RISTY [VplLGsMh3xg].flac
+2026-06-17T22:46:37 update: removing SSK/NGANCURNA PERASAAN (AYU KARLINA) ｜ COVER BY SUARA KITA STUDIO X AKUSTIKAN BRO [tYRrh4wT_Lo].flac
+2026-06-17T22:46:37 update: removing SSK/MUSNAH - KALIA SISKA Feat SUARA KITA STUDIO [X_C7pK6x8-0].flac
+2026-06-17T22:46:37 update: removing SSK/MURUB IRKA JESIKA FEAT SITI ALIYAH SUARA KITA STUDIO [seP2yt5rEaY].flac
+2026-06-17T22:46:37 update: removing SSK/MOTOR SEBELAH - RINDI NOVIANTIKA SUARA KITA STUDIO COVER - CIPT. ZALE RM - DIPOP. YANTI BAPUK [uP49eZW0Nbs].flac
+2026-06-17T22:46:37 update: removing SSK/MELEPAS LAJANG - TRI SUAKA ｜ CINDY AIBIGE SUARA KITA STUDIO [MpwaQRIABtU].flac
+2026-06-17T22:46:37 update: removing SSK/MEGOT DEMEN - SUARA KITA STUDIO FT SITI ALIYAH, AYU WD [5P7zCY-s7ws].flac
+2026-06-17T22:46:37 update: removing SSK/MASIH SETIA - RINDI NOVIANTIKA SUARA KITA STUDIO COVER [hGbqfMTQlnw].flac
+2026-06-17T22:46:37 update: removing SSK/MABOK NGESLOT COVER BY NAWANG SASIH - INDRI FAHRIZA ｜ AMIN HERMAWAN - SUARA KITA STUDIO [Ww9x5eSoe4s].flac
+2026-06-17T22:46:37 update: removing SSK/MABOK BRUTU - FRESSA AYUMI FEAT SUARA KITA STUDIO CIPT. ALMIN SAID [Bw28IduAYlY].flac
+2026-06-17T22:46:37 update: removing SSK/KUDUNE BERPISAH (OCHOLL DHUT) ｜ COVER BY SUARA KITA STUDIO X AIKO MUSIC｜ CIPT. RESTU BRAJA TUMAMA [6ayMZ-ZxJPo].flac
+2026-06-17T22:46:37 update: removing SSK/KESENGSEM - MISSEL LAURA D FEAT FRESSA AYUMI CIPT. NINING SANJAYA ｜ SUARA KITA STUDIO [gwtwrHQSo20].flac
+2026-06-17T22:46:37 update: removing SSK/KEPASTIAN - MISSEL LAURA D - CIPT. WA KANCIL JUNED ｜ SUARA KITA STUDIO [tIz40fF6XRs].flac
+2026-06-17T22:46:37 update: removing SSK/KEMBANGE LAMBE - MISSEL LAURA D - CIPT. ZALE RM ｜ SUARA KITA STUDIO [xOhrz0OxTew].flac
+2026-06-17T22:46:37 update: removing SSK/KELARA - WA KANCIL JUNED ｜ COVER BY MISSEL LAURA D ｜ SUARA KITA STUDIO [cy11t7VeTAQ].flac
+2026-06-17T22:46:37 update: removing SSK/KEJEM IRKA JESIKA - SUARA KITA STUDIO ｜ CIPT. ZALE RM [vBQRGnyPdoc].flac
+2026-06-17T22:46:37 update: removing SSK/KEGODA LANANG SUARA KITA STUDIO MAELLA KHARISMA CIPT. ITY ASHELLA [g6tI3J_Tc9I].flac
+2026-06-17T22:46:37 update: removing SSK/KECEWA - SOSOK ｜ COVER BY NAWANG SASIH TARLING AKUSTIK ｜ SUARA KITA STUDIO [UdBoem52WKc].flac
+2026-06-17T22:46:37 update: removing SSK/KEBABLASAN - MISSEL LAURA D Feat  KALIA SISKA ｜ CIPT. ITY ASHELLA [Ug3uLsgIshE].flac
+2026-06-17T22:46:37 update: removing SSK/KASMARAN DEMEN COVER BY MISSEL LAURA D SUARA KITA STUDIO [aVkxTv4LKwk].flac
+2026-06-17T22:46:37 update: removing SSK/KARNA DEMEN - SUARA KITA STUDIO FEAT IRKA JESIKA CIPTAAN WA KANCIL JUNED [dYNeBkSA-MM].flac
+2026-06-17T22:46:37 update: removing SSK/KARAOKE - SESADU RINDU (ORIGINAL) MISSEL LAURA D ｜ SUARA KITA STUDIO [DLPCHE6SCzc].flac
+2026-06-17T22:46:37 update: removing SSK/KANGEN DIBALES LARA COVER MISSEL LAURA D - SUARA KITA STUDIO - CIPT. JUJU [8Y5MqWcvZq8].flac
+2026-06-17T22:46:37 update: removing SSK/KANG KAJI GAUL COVER BY NAWANG SASIH ｜ CIPT AMIN HERMAWAN DESY PARASWATI [EEUlYgyZi8Q].flac
+2026-06-17T22:46:37 update: removing SSK/KAMBUH - KALIA SISKA Ft SUARA KITA STUDIO [k3gZkrfgaxA].flac
+2026-06-17T22:46:37 update: removing SSK/KADANG KADANG KANGEN - COVER BY SOULKUSTIK FEAT NAWANG SASIH SUARA KITA STUDIO [xFiQNCW4fk0].flac
+2026-06-17T22:46:37 update: removing SSK/JEGER - MISSEL LAURA D - SUARA KITA STUDIO [XEtq0NCEFeY].flac
+2026-06-17T22:46:37 update: removing SSK/JARE SEMA COVER BY NAWANG SASIH ｜ SITI ALIYAH ｜ CIPT. BRAM PURNAMA ｜ SUARA KITA STUDIO [MYUX6sgsmYo].flac
+2026-06-17T22:46:37 update: removing SSK/JANJI BENGEN - MISSEL LAURA D  SUARA KITA STUDIO COVER [gUAByx8_WPo].flac
+2026-06-17T22:46:37 update: removing SSK/JALUR LANGIT - MISSEL LAURA D FEAT NESA NATA JAYA [0sOcnJ7r9wc].flac
+2026-06-17T22:46:37 update: removing SSK/INGET KA MANTAN AKUSTIK COVER RINA APRILIANA FT NAWANG SASIH SUARA KITA STUDIO [8P9Rj7mwQB0].flac
+2026-06-17T22:46:37 update: removing SSK/HARAPAN HATI - MISSEL LAURA D FEAT SITI ALIYAH ｜ SUARA KITA STUDIO CIPT. LEE HIEN [t54b524FAfE].flac
+2026-06-17T22:46:37 update: removing SSK/GARISAN CINTA - MISSEL LAURA D Ft NAWANG SASIH - DIAN ANIC CIPT. LEE HIEN [VLQCAimrzTE].flac
+2026-06-17T22:46:37 update: removing SSK/EMONG DIWAYU - HJ. AAS ROLANI COVER MISSEL LAURA D BY SUARA KITA STUDIO [qcCUswRNt9M].flac
+2026-06-17T22:46:37 update: removing SSK/EDAN LANANG - SUARA KITA STUDIO FT IRKA JESIKA [iOhnx35e_30].flac
+2026-06-17T22:46:37 update: removing SSK/DIGAWE WIRANG - MISSEL LAURA D - FAHMI ZEIN - CIPT. RIZA D'WAPINZ [_m3_y1lAIk8].flac
+2026-06-17T22:48:21 player: played "music/SSK/ANAK DEWA - KALIA SISKA FT SUARA KITA STUDIO CIPT. MUGI LAHIYA [uh-qVqW5k7w].flac"
+2026-06-17T22:58:17 player: played "music/Flac/Bella Nova - Hati Siapa Tak Luka (Live Music) [qXYjbppvqbo].flac"
+2026-06-17T23:03:58 player: played "music/Flac/Bella Nova - Satu Rasa Cinta (Live Music) [DQhiUQGb3cE].flac"
+2026-06-17T23:08:49 player: played "music/Flac/Bella Nova - Sia Sia Mengharap Cintamu (Live Music) [PxedEJlvh38].flac"
+2026-06-17T23:28:18 player: played "downloads/Bass Booster/Demons.flac"
+2026-06-17T23:46:59 player: played "downloads/Bass Booster/Demons.flac"
+2026-06-18T00:05:41 player: played "downloads/Bass Booster/Demons.flac"
+2026-06-18T00:35:59 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T00:36:17 player: played "downloads/Bass Booster/Demons.flac"
+2026-06-18T00:36:19 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T00:36:37 player: played "downloads/Bass Booster/Demons.flac"
+2026-06-18T00:39:54 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T00:40:35 player: played "downloads/Bass Booster/Demons.flac"
+2026-06-18T02:00:24 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T02:07:24 player: played "downloads/Bass Booster/SOUND HOREG TRAP FULL BASS SOUND CHEK [wdZ1gyAJOsw].flac"
+2026-06-18T02:28:34 player: played "downloads/Bass Booster/Demons.flac"
+2026-06-18T02:30:47 player: played "downloads/Bass Booster/TEST SPEAKER AUDIO SOUND SYSTEM - OBAT NGAMUK MUSIK [mh0jKNzcLAc].flac"
+2026-06-18T02:30:58 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T02:38:28 player: played "downloads/Bass Booster/TEST SPEAKER AUDIO SOUND SYSTEM - OBAT NGAMUK MUSIK [mh0jKNzcLAc].flac"
+2026-06-18T02:38:35 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T02:39:35 player: played "downloads/Bass Booster/TEST SPEAKER AUDIO SOUND SYSTEM - OBAT NGAMUK MUSIK [mh0jKNzcLAc].flac"
+2026-06-18T02:39:45 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T02:52:49 player: played "downloads/Bass Booster/Demons.flac"
+2026-06-18T02:53:28 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T03:00:24 player: played "downloads/Bass Booster/Demons.flac"
+2026-06-18T03:02:24 player: played "downloads/Bass Booster/TEST SPEAKER AUDIO SOUND SYSTEM - OBAT NGAMUK MUSIK [mh0jKNzcLAc].flac"
+2026-06-18T03:03:09 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T03:23:28 player: played "downloads/Bass Booster/Demons.flac"
+2026-06-18T03:27:32 player: played "downloads/Bass Booster/TEST SPEAKER AUDIO SOUND SYSTEM - OBAT NGAMUK MUSIK [mh0jKNzcLAc].flac"
+2026-06-18T03:30:23 player: played "downloads/Bass Booster/KUMPULAN BASS EMPUK ｜ DJ CEK SOUND FULL BASS ALBUM TERBARU 2025 (MHLS PRO) [0fF4KYh5w5c].flac"
+2026-06-18T03:30:25 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T03:32:25 player: played "downloads/Bass Booster/KUMPULAN BASS EMPUK ｜ DJ CEK SOUND FULL BASS ALBUM TERBARU 2025 (MHLS PRO) [0fF4KYh5w5c].flac"
+2026-06-18T03:32:53 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T03:50:02 player: played "downloads/Bass Booster/lagu cek sound gendhing getarkan kaca yang dicari gong glerrr seperti ada hajatan 2024 [EP8HKq2ZOBk].flac"
+2026-06-18T03:50:31 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T03:50:50 player: played "downloads/Bass Booster/lagu cek sound gendhing getarkan kaca yang dicari gong glerrr seperti ada hajatan 2024 [EP8HKq2ZOBk].flac"
+2026-06-18T03:51:24 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T03:52:56 player: played "downloads/Bass Booster/Demons.flac"
+2026-06-18T03:53:03 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T03:53:40 player: played "downloads/Bass Booster/Demons.flac"
+2026-06-18T03:54:39 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T03:55:00 exception: Bad playlist name
+2026-06-18T03:55:07 player: played "downloads/Bass Booster/Demons.flac"
+2026-06-18T03:55:27 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T03:55:57 player: played "downloads/Bass Booster/Demons.flac"
+2026-06-18T03:59:10 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T04:03:06 player: played "downloads/Bass Booster/Demons.flac"
+2026-06-18T04:03:13 exception: Failed to open /data/data/com.termux/files/home/storage/shared/Android/data: Permission denied
+2026-06-18T04:03:13 exception: Failed to open /data/data/com.termux/files/home/storage/shared/Android/obb: Permission denied
+2026-06-18T04:03:13 update: added shared/Android/.Trash/com.sec.android.app.myfiles/3faa99d8-61b4-404e-910d-9dc6e056ef3f/1781711461968/storage/emulated/0/Download/.!%#@$/Silvy Kumalasari Ft SadewoK - Ropang (Official Music Video) Aku Pancen Ora Sempurna, Gampang Terluka [jcIsdKJWphs].flac
+2026-06-18T04:03:13 update: added shared/Android/.Trash/com.sec.android.app.myfiles/3faa99d8-61b4-404e-910d-9dc6e056ef3f/1781711461968/storage/emulated/0/Download/.!%#@$/Silvy Kumalasari -  Ego Wong Tuo (Official Music Video) ｜ Kudu Iso Kuat Balungane [XluOxf5xlyA].flac
+2026-06-18T04:03:13 update: added shared/Android/.Trash/com.sec.android.app.myfiles/3faa99d8-61b4-404e-910d-9dc6e056ef3f/1781711461968/storage/emulated/0/Download/.!%#@$/Silvy Kumalasari - Denok (Official Music Video) ｜ Ora Bakal Cukup Lautan Mangsi [QCE3_GuF5qA].flac
+2026-06-18T04:03:13 update: added shared/Android/.Trash/com.sec.android.app.myfiles/3faa99d8-61b4-404e-910d-9dc6e056ef3f/1781711461968/storage/emulated/0/Download/.!%#@$/JOKO TINGKIR REMIX BY AZMY Z  ｜ ｜ Versi 3 Bhs (Sunda ,Indonesia, Jawa) [WhMrUmQEnpY].flac
+2026-06-18T04:03:13 update: added shared/Android/.Trash/com.sec.android.app.myfiles/3faa99d8-61b4-404e-910d-9dc6e056ef3f/1781711461968/storage/emulated/0/Download/.!%#@$/AZMY Z - LALEUR HEJO (Official Musik Video) [b_IjEB1bEHg].flac
+2026-06-18T04:03:13 update: added shared/Android/.Trash/com.sec.android.app.myfiles/3faa99d8-61b4-404e-910d-9dc6e056ef3f/1781711461968/storage/emulated/0/Download/.!%#@$/RUNTAH - AZMY Z  (Official Music Video) [lAIdX9Rv3Rk].flac
+2026-06-18T04:03:13 update: added shared/Android/.Trash/com.sec.android.app.myfiles/3faa99d8-61b4-404e-910d-9dc6e056ef3f/1781711461968/storage/emulated/0/Download/.!%#@$/JAYANTI - AZMY Z ( Official Music Video ) [qVpmhkNOscI].flac
+2026-06-18T04:03:13 update: added shared/Android/.Trash/com.sec.android.app.myfiles/3faa99d8-61b4-404e-910d-9dc6e056ef3f/1781711461968/storage/emulated/0/Download/.!%#@$/INGET KA MANTAN - AZMY Z (Official Music Video) [fhiRtYw5TWI].flac
+2026-06-18T04:03:14 update: added shared/Download/yatno_music/DJ FULL BASS TERBARU 2026 CEK SOUND BASS BENING EMPUK HOREG PALING ENAK (MHLS PRO) [siAxeNyTohE].mp3
+2026-06-18T04:03:14 update: added shared/Download/yatno_music/Ajeng Febria - Bojo Biduan (Official Music Live) l Abote Wong Lanang Yen Nduwe Bojo Biduan [P2BBqnT1a2U].mp3
+2026-06-18T04:03:14 update: added shared/Download/yatno_music/Ajeng Febria - Ngapain Repot (Official Music Video) ｜ Aman Saja Mo Ngapain Mo Repot [-ix-XswQz10].mp3
+2026-06-18T04:03:14 update: added shared/Download/yatno_music/AZMY Z - LALEUR HEJO (Official Musik Video) [b_IjEB1bEHg].mp3
+2026-06-18T04:03:14 update: added shared/Download/yatno_music/BARENG NERIMA VOC： DEVI ANEKA TUNGGAL FEAT RADEN ANEKA TUNGGAL [RuMf7ivByOI].mp3
+2026-06-18T04:03:14 update: added shared/Download/yatno_music/DENOK - Putri Fedya ｜｜ HIPHOP DANGDUT VERSION [NjjkO9w7VIk].mp3
+2026-06-18T04:03:14 update: added shared/Download/yatno_music/Happy Asmara -  Wes Ora Edan (Official Music Video) [ZIk7aDAyHBU].mp3
+2026-06-18T04:03:14 update: added shared/Download/yatno_music/HAPPY ASMARA - AISHITERU 2 ( Official Live Video Royal Music ) [ld7Bkg4BKlA].mp3
+2026-06-18T04:03:14 update: added shared/Download/yatno_music/Happy Asmara - Pelet Nyasar (Official Music Video) [6TBS2tnBkDA].mp3
+2026-06-18T04:03:14 update: added shared/Download/yatno_music/Happy Asmara - Salam Tresno ｜ Dangdut [OFFICIAL] [w8TnupD-psQ].mp3
+2026-06-18T04:03:14 update: added shared/Download/yatno_music/INGET KA MANTAN - AZMY Z (Official Music Video) [fhiRtYw5TWI].mp3
+2026-06-18T04:03:14 update: added shared/Download/yatno_music/JANGAN TUNGGU LAMA LAMA - AJENG FEBRIA & BRODIN ft. OM NIRWANA ｜ LIVE MUSIC ｜ VERSI KOPLO [fto9UBve3nA].mp3
+2026-06-18T04:03:14 update: added shared/Download/yatno_music/JAYANTI - AZMY Z ( Official Music Video ) [qVpmhkNOscI].mp3
+2026-06-18T04:03:14 update: added shared/Download/yatno_music/JOKO TINGKIR REMIX BY AZMY Z  ｜ ｜ Versi 3 Bhs (Sunda ,Indonesia, Jawa) [WhMrUmQEnpY].mp3
+2026-06-18T04:03:14 update: added shared/Download/yatno_music/LAGU ANEKA TUNGGAL PEMIKAT SUKMA-LIVE JAGAPURA 30 JUNI 2017 [yb-6ybkFLRM].mp3
+2026-06-18T04:03:14 update: added shared/Download/yatno_music/ORGAN DERMAYU gagak abang [hzkhvYgXnPM].mp3
+2026-06-18T04:03:14 update: added shared/Download/yatno_music/ORGAN DERMAYU kembang soka [e4lIjzZUwFs].mp3
+2026-06-18T04:03:14 update: added shared/Download/yatno_music/PRING KUNING - DEVI AYU ANEKA TUNGGAL [mpgE_BbBoBw].mp3
+2026-06-18T04:03:14 update: added shared/Download/yatno_music/RUNTAH - AZMY Z  (Official Music Video) [lAIdX9Rv3Rk].mp3
+2026-06-18T04:03:14 update: added shared/Download/yatno_music/Shinta Arsinta Feat Arya Galih - Kalah - Goyang Esek Esek ( Official Music Video) [Nb8_cWOwQNU].mp3
+2026-06-18T04:03:14 update: added shared/Download/yatno_music/Shinta Arsinta Feat Arya Galih - Kawin Kontrak ｜ Dangdut (Official Music Video) [hh5aDtxWZSQ].mp3
+2026-06-18T04:03:14 update: added shared/Download/yatno_music/Shinta Arsinta Feat Arya Galih - Kembang Tresno ｜ Dangdut (Official Music Video) [hnw43NBGYIo].mp3
+2026-06-18T04:03:14 update: added shared/Download/yatno_music/Shinta Arsinta feat Arya Galih - Lintang Asmoro (Official Music Video) Goyang Esek Esek [KHgllosZ3kA].mp3
+2026-06-18T04:03:14 update: added shared/Download/yatno_music/Shinta Arsinta ft Diva Hani - Tresno Tekane Mati (New Version)｜ Sagita Dangdut(Official Music Video) [Izu6epfgB2M].mp3
+2026-06-18T04:03:14 update: added shared/Download/yatno_music/Silvy Kumalasari -  Ego Wong Tuo (Official Music Video) ｜ Kudu Iso Kuat Balungane [XluOxf5xlyA].mp3
+2026-06-18T04:03:14 update: added shared/Download/yatno_music/Silvy Kumalasari - Denok (Official Music Video) ｜ Ora Bakal Cukup Lautan Mangsi [QCE3_GuF5qA].mp3
+2026-06-18T04:03:14 update: added shared/Download/yatno_music/Silvy Kumalasari Ft SadewoK - Ropang (Official Music Video) Aku Pancen Ora Sempurna, Gampang Terluka [jcIsdKJWphs].mp3
+2026-06-18T04:03:14 update: added shared/Download/yatno_music/WONG IRENG ｜ VOC ： IBU DEVI SUSILAWATI ｜ FANDEYU MUSIC TENGDUNG MASA KINI [33b7qLaTKBg].mp3
+2026-06-18T04:03:14 update: removing shared/Download/AZMY Z - LALEUR HEJO (Official Musik Video) [b_IjEB1bEHg].flac
+2026-06-18T04:03:14 update: removing shared/Download/INGET KA MANTAN - AZMY Z (Official Music Video) [fhiRtYw5TWI].flac
+2026-06-18T04:03:14 update: removing shared/Download/JAYANTI - AZMY Z ( Official Music Video ) [qVpmhkNOscI].flac
+2026-06-18T04:03:14 update: removing shared/Download/JOKO TINGKIR REMIX BY AZMY Z  ｜ ｜ Versi 3 Bhs (Sunda ,Indonesia, Jawa) [WhMrUmQEnpY].flac
+2026-06-18T04:03:14 update: removing shared/Download/RUNTAH - AZMY Z  (Official Music Video) [lAIdX9Rv3Rk].flac
+2026-06-18T04:03:14 update: removing shared/Download/Silvy Kumalasari -  Ego Wong Tuo (Official Music Video) ｜ Kudu Iso Kuat Balungane [XluOxf5xlyA].flac
+2026-06-18T04:03:14 update: removing shared/Download/Silvy Kumalasari - Denok (Official Music Video) ｜ Ora Bakal Cukup Lautan Mangsi [QCE3_GuF5qA].flac
+2026-06-18T04:03:14 update: removing shared/Download/Silvy Kumalasari Ft SadewoK - Ropang (Official Music Video) Aku Pancen Ora Sempurna, Gampang Terluka [jcIsdKJWphs].flac
+2026-06-18T04:03:14 update: added downloads/yatno_music/DJ FULL BASS TERBARU 2026 CEK SOUND BASS BENING EMPUK HOREG PALING ENAK (MHLS PRO) [siAxeNyTohE].mp3
+2026-06-18T04:03:14 update: added downloads/yatno_music/Ajeng Febria - Bojo Biduan (Official Music Live) l Abote Wong Lanang Yen Nduwe Bojo Biduan [P2BBqnT1a2U].mp3
+2026-06-18T04:03:14 update: added downloads/yatno_music/Ajeng Febria - Ngapain Repot (Official Music Video) ｜ Aman Saja Mo Ngapain Mo Repot [-ix-XswQz10].mp3
+2026-06-18T04:03:14 update: added downloads/yatno_music/AZMY Z - LALEUR HEJO (Official Musik Video) [b_IjEB1bEHg].mp3
+2026-06-18T04:03:14 update: added downloads/yatno_music/BARENG NERIMA VOC： DEVI ANEKA TUNGGAL FEAT RADEN ANEKA TUNGGAL [RuMf7ivByOI].mp3
+2026-06-18T04:03:14 update: added downloads/yatno_music/DENOK - Putri Fedya ｜｜ HIPHOP DANGDUT VERSION [NjjkO9w7VIk].mp3
+2026-06-18T04:03:14 update: added downloads/yatno_music/Happy Asmara -  Wes Ora Edan (Official Music Video) [ZIk7aDAyHBU].mp3
+2026-06-18T04:03:14 update: added downloads/yatno_music/HAPPY ASMARA - AISHITERU 2 ( Official Live Video Royal Music ) [ld7Bkg4BKlA].mp3
+2026-06-18T04:03:14 update: added downloads/yatno_music/Happy Asmara - Pelet Nyasar (Official Music Video) [6TBS2tnBkDA].mp3
+2026-06-18T04:03:14 update: added downloads/yatno_music/Happy Asmara - Salam Tresno ｜ Dangdut [OFFICIAL] [w8TnupD-psQ].mp3
+2026-06-18T04:03:14 update: added downloads/yatno_music/INGET KA MANTAN - AZMY Z (Official Music Video) [fhiRtYw5TWI].mp3
+2026-06-18T04:03:14 update: added downloads/yatno_music/JANGAN TUNGGU LAMA LAMA - AJENG FEBRIA & BRODIN ft. OM NIRWANA ｜ LIVE MUSIC ｜ VERSI KOPLO [fto9UBve3nA].mp3
+2026-06-18T04:03:14 update: added downloads/yatno_music/JAYANTI - AZMY Z ( Official Music Video ) [qVpmhkNOscI].mp3
+2026-06-18T04:03:14 update: added downloads/yatno_music/JOKO TINGKIR REMIX BY AZMY Z  ｜ ｜ Versi 3 Bhs (Sunda ,Indonesia, Jawa) [WhMrUmQEnpY].mp3
+2026-06-18T04:03:14 update: added downloads/yatno_music/LAGU ANEKA TUNGGAL PEMIKAT SUKMA-LIVE JAGAPURA 30 JUNI 2017 [yb-6ybkFLRM].mp3
+2026-06-18T04:03:14 update: added downloads/yatno_music/ORGAN DERMAYU gagak abang [hzkhvYgXnPM].mp3
+2026-06-18T04:03:14 update: added downloads/yatno_music/ORGAN DERMAYU kembang soka [e4lIjzZUwFs].mp3
+2026-06-18T04:03:14 update: added downloads/yatno_music/PRING KUNING - DEVI AYU ANEKA TUNGGAL [mpgE_BbBoBw].mp3
+2026-06-18T04:03:14 update: added downloads/yatno_music/RUNTAH - AZMY Z  (Official Music Video) [lAIdX9Rv3Rk].mp3
+2026-06-18T04:03:14 update: added downloads/yatno_music/Shinta Arsinta Feat Arya Galih - Kalah - Goyang Esek Esek ( Official Music Video) [Nb8_cWOwQNU].mp3
+2026-06-18T04:03:14 update: added downloads/yatno_music/Shinta Arsinta Feat Arya Galih - Kawin Kontrak ｜ Dangdut (Official Music Video) [hh5aDtxWZSQ].mp3
+2026-06-18T04:03:14 update: added downloads/yatno_music/Shinta Arsinta Feat Arya Galih - Kembang Tresno ｜ Dangdut (Official Music Video) [hnw43NBGYIo].mp3
+2026-06-18T04:03:14 update: added downloads/yatno_music/Shinta Arsinta feat Arya Galih - Lintang Asmoro (Official Music Video) Goyang Esek Esek [KHgllosZ3kA].mp3
+2026-06-18T04:03:14 update: added downloads/yatno_music/Shinta Arsinta ft Diva Hani - Tresno Tekane Mati (New Version)｜ Sagita Dangdut(Official Music Video) [Izu6epfgB2M].mp3
+2026-06-18T04:03:14 update: added downloads/yatno_music/Silvy Kumalasari -  Ego Wong Tuo (Official Music Video) ｜ Kudu Iso Kuat Balungane [XluOxf5xlyA].mp3
+2026-06-18T04:03:14 update: added downloads/yatno_music/Silvy Kumalasari - Denok (Official Music Video) ｜ Ora Bakal Cukup Lautan Mangsi [QCE3_GuF5qA].mp3
+2026-06-18T04:03:14 update: added downloads/yatno_music/Silvy Kumalasari Ft SadewoK - Ropang (Official Music Video) Aku Pancen Ora Sempurna, Gampang Terluka [jcIsdKJWphs].mp3
+2026-06-18T04:03:14 update: added downloads/yatno_music/WONG IRENG ｜ VOC ： IBU DEVI SUSILAWATI ｜ FANDEYU MUSIC TENGDUNG MASA KINI [33b7qLaTKBg].mp3
+2026-06-18T04:03:14 update: removing downloads/AZMY Z - LALEUR HEJO (Official Musik Video) [b_IjEB1bEHg].flac
+2026-06-18T04:03:14 update: removing downloads/INGET KA MANTAN - AZMY Z (Official Music Video) [fhiRtYw5TWI].flac
+2026-06-18T04:03:14 update: removing downloads/JAYANTI - AZMY Z ( Official Music Video ) [qVpmhkNOscI].flac
+2026-06-18T04:03:14 update: removing downloads/JOKO TINGKIR REMIX BY AZMY Z  ｜ ｜ Versi 3 Bhs (Sunda ,Indonesia, Jawa) [WhMrUmQEnpY].flac
+2026-06-18T04:03:14 update: removing downloads/RUNTAH - AZMY Z  (Official Music Video) [lAIdX9Rv3Rk].flac
+2026-06-18T04:03:14 update: removing downloads/Silvy Kumalasari -  Ego Wong Tuo (Official Music Video) ｜ Kudu Iso Kuat Balungane [XluOxf5xlyA].flac
+2026-06-18T04:03:14 update: removing downloads/Silvy Kumalasari - Denok (Official Music Video) ｜ Ora Bakal Cukup Lautan Mangsi [QCE3_GuF5qA].flac
+2026-06-18T04:03:14 update: removing downloads/Silvy Kumalasari Ft SadewoK - Ropang (Official Music Video) Aku Pancen Ora Sempurna, Gampang Terluka [jcIsdKJWphs].flac
+2026-06-18T04:10:18 player: played "downloads/Bass Booster/Demons.flac"
+2026-06-18T04:10:24 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T04:11:02 player: played "downloads/Bass Booster/Demons.flac"
+2026-06-18T04:11:56 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T04:17:44 player: played "downloads/Bass Booster/Demons.flac"
+2026-06-18T04:17:57 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T04:20:00 player: played "downloads/Bass Booster/Demons.flac"
+2026-06-18T04:20:02 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T04:23:30 player: played "downloads/Bass Booster/Demons.flac"
+2026-06-18T04:23:32 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T04:23:59 player: played "downloads/Bass Booster/KUMPULAN BASS EMPUK ｜ DJ CEK SOUND FULL BASS ALBUM TERBARU 2025 (MHLS PRO) [0fF4KYh5w5c].flac"
+2026-06-18T04:34:11 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T04:41:41 player: played "downloads/Bass Booster/KUMPULAN BASS EMPUK ｜ DJ CEK SOUND FULL BASS ALBUM TERBARU 2025 (MHLS PRO) [0fF4KYh5w5c].flac"
+2026-06-18T04:42:52 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T04:43:36 player: played "downloads/Bass Booster/KUMPULAN BASS EMPUK ｜ DJ CEK SOUND FULL BASS ALBUM TERBARU 2025 (MHLS PRO) [0fF4KYh5w5c].flac"
+2026-06-18T04:44:19 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T04:49:07 player: played "downloads/Bass Booster/KUMPULAN BASS EMPUK ｜ DJ CEK SOUND FULL BASS ALBUM TERBARU 2025 (MHLS PRO) [0fF4KYh5w5c].flac"
+2026-06-18T04:49:39 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T04:52:06 player: played "downloads/Bass Booster/KUMPULAN BASS EMPUK ｜ DJ CEK SOUND FULL BASS ALBUM TERBARU 2025 (MHLS PRO) [0fF4KYh5w5c].flac"
+2026-06-18T04:52:37 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T04:59:41 player: played "music/Flac/Bella Nova - Hati Siapa Tak Luka (Live Music) [qXYjbppvqbo].flac"
+2026-06-18T05:05:21 player: played "music/Flac/Bella Nova - Satu Rasa Cinta (Live Music) [DQhiUQGb3cE].flac"
+2026-06-18T05:07:49 exception: Failed to open audio output
+2026-06-18T05:08:01 exception: Failed to open audio output
+2026-06-18T05:10:31 exception: Failed to open audio output
+2026-06-18T05:11:05 player: played "music/Flac/Bella Nova - Sia Sia Mengharap Cintamu (Live Music) [PxedEJlvh38].flac"
+2026-06-18T05:11:09 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T05:17:24 player: played "music/Flac/Bella Nova - Sia Sia Mengharap Cintamu (Live Music) [PxedEJlvh38].flac"
+2026-06-18T05:20:04 player: played "music/Flac/KERANDA CINTA - Lusyana Jelita Adella - OM ADELLA [OI_OvpWos1M].flac"
+2026-06-18T05:20:58 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T05:21:26 exception: Failed to open audio output
+2026-06-18T05:22:12 exception: Failed to open audio output
+2026-06-18T05:22:34 exception: Failed to open audio output
+2026-06-18T05:30:00 player: played "music/Flac/KERANDA CINTA - Lusyana Jelita Adella - OM ADELLA [OI_OvpWos1M].flac"
+2026-06-18T05:35:05 player: played "music/Flac/PERMISI SITI ALIYAH FEAT SUARA KITA STUDIO [sFUop3ExBDc].flac"
+2026-06-18T05:43:06 player: played "music/Flac/Yeni Inka - PECAH SERIBU (Official MV) Hanya Dia Yang Ada Diantara Jantung Hati [vuijmH64lrU].flac"
+2026-06-18T05:46:34 player: played "downloads/Bass Booster/Demons.flac"
+2026-06-18T05:49:20 config: inotify: auto_update was disabled. enable during compilation phase
+[file] Reading from stdin...
+Failed to recognize file format.
+Exiting... (Errors when loading file)
+2026-06-18T05:50:20 output: Failed to play on "MPV" (pipe): Write error on pipe: Broken pipe
+[file] Reading from stdin...
+Failed to recognize file format.
+Exiting... (Errors when loading file)
+2026-06-18T05:51:29 output: Failed to play on "MPV" (pipe): Write error on pipe: Broken pipe
+[file] Reading from stdin...
+Failed to recognize file format.
+Exiting... (Errors when loading file)
+2026-06-18T05:52:41 output: Failed to play on "MPV" (pipe): Write error on pipe: Broken pipe
+[file] Reading from stdin...
+Failed to recognize file format.
+Exiting... (Errors when loading file)
+2026-06-18T05:53:53 output: Failed to play on "MPV" (pipe): Write error on pipe: Broken pipe
+[file] Reading from stdin...
+Failed to recognize file format.
+Exiting... (Errors when loading file)
+2026-06-18T05:55:06 output: Failed to play on "MPV" (pipe): Write error on pipe: Broken pipe
+[file] Reading from stdin...
+Failed to recognize file format.
+Exiting... (Errors when loading file)
+2026-06-18T05:56:18 output: Failed to play on "MPV" (pipe): Write error on pipe: Broken pipe
+[file] Reading from stdin...
+2026-06-18T05:57:29 player: played "downloads/Bass Booster/KUMPULAN BASS EMPUK ｜ DJ CEK SOUND FULL BASS ALBUM TERBARU 2025 (MHLS PRO) [0fF4KYh5w5c].flac"
+Failed to recognize file format.
+Exiting... (Errors when loading file)
+2026-06-18T05:57:30 output: Failed to play on "MPV" (pipe): Write error on pipe: Broken pipe
+2026-06-18T06:01:57 config: inotify: auto_update was disabled. enable during compilation phase
+mpv v0.41.0 Copyright © 2000-2025 mpv/MPlayer/mplayer2 projects
+ built on Feb 14 2026 10:08:32
+libplacebo version: v7.360.1
+FFmpeg version: 8.0.1 (runtime 8.1.1)
+FFmpeg library versions:
+   libavcodec      62.11.100 (runtime 62.28.101)
+   libavdevice     62.1.100 (runtime 62.3.101)
+   libavfilter     11.4.100 (runtime 11.14.101)
+   libavformat     62.3.100 (runtime 62.12.101)
+   libavutil       60.8.100 (runtime 60.26.101)
+   libswresample   6.1.100 (runtime 6.3.101)
+   libswscale      9.1.100 (runtime 9.5.101)
+Usage:   mpv [options] [url|path/]filename
+
+Basic options:
+ --start=<time>    seek to given (percent, seconds, or hh:mm:ss) position
+ --no-audio        do not play sound
+ --no-video        do not play video
+ --fs              fullscreen playback
+ --sub-file=<file> specify subtitle file to use
+ --playlist=<file> specify playlist file
+
+ --list-options    list all mpv options
+ --h=<string>      print options which contain the given string in their name
+2026-06-18T06:01:57 output: Failed to play on "MPV" (pipe): Write error on pipe: Broken pipe
+mpv v0.41.0 Copyright © 2000-2025 mpv/MPlayer/mplayer2 projects
+ built on Feb 14 2026 10:08:32
+libplacebo version: v7.360.1
+FFmpeg version: 8.0.1 (runtime 8.1.1)
+FFmpeg library versions:
+   libavcodec      62.11.100 (runtime 62.28.101)
+   libavdevice     62.1.100 (runtime 62.3.101)
+   libavfilter     11.4.100 (runtime 11.14.101)
+   libavformat     62.3.100 (runtime 62.12.101)
+   libavutil       60.8.100 (runtime 60.26.101)
+   libswresample   6.1.100 (runtime 6.3.101)
+   libswscale      9.1.100 (runtime 9.5.101)
+Usage:   mpv [options] [url|path/]filename
+
+Basic options:
+ --start=<time>    seek to given (percent, seconds, or hh:mm:ss) position
+ --no-audio        do not play sound
+ --no-video        do not play video
+ --fs              fullscreen playback
+ --sub-file=<file> specify subtitle file to use
+ --playlist=<file> specify playlist file
+
+ --list-options    list all mpv options
+ --h=<string>      print options which contain the given string in their name
+2026-06-18T06:02:08 output: Failed to play on "MPV" (pipe): Write error on pipe: Broken pipe
+mpv v0.41.0 Copyright © 2000-2025 mpv/MPlayer/mplayer2 projects
+ built on Feb 14 2026 10:08:32
+libplacebo version: v7.360.1
+FFmpeg version: 8.0.1 (runtime 8.1.1)
+FFmpeg library versions:
+   libavcodec      62.11.100 (runtime 62.28.101)
+   libavdevice     62.1.100 (runtime 62.3.101)
+   libavfilter     11.4.100 (runtime 11.14.101)
+   libavformat     62.3.100 (runtime 62.12.101)
+   libavutil       60.8.100 (runtime 60.26.101)
+   libswresample   6.1.100 (runtime 6.3.101)
+   libswscale      9.1.100 (runtime 9.5.101)
+Usage:   mpv [options] [url|path/]filename
+
+Basic options:
+ --start=<time>    seek to given (percent, seconds, or hh:mm:ss) position
+ --no-audio        do not play sound
+ --no-video        do not play video
+ --fs              fullscreen playback
+ --sub-file=<file> specify subtitle file to use
+ --playlist=<file> specify playlist file
+
+ --list-options    list all mpv options
+ --h=<string>      print options which contain the given string in their name
+2026-06-18T06:02:08 output: Failed to play on "MPV" (pipe): Write error on pipe: Broken pipe
+2026-06-18T06:02:18 exception: Failed to open audio output
+mpv v0.41.0 Copyright © 2000-2025 mpv/MPlayer/mplayer2 projects
+ built on Feb 14 2026 10:08:32
+libplacebo version: v7.360.1
+FFmpeg version: 8.0.1 (runtime 8.1.1)
+FFmpeg library versions:
+   libavcodec      62.11.100 (runtime 62.28.101)
+   libavdevice     62.1.100 (runtime 62.3.101)
+   libavfilter     11.4.100 (runtime 11.14.101)
+   libavformat     62.3.100 (runtime 62.12.101)
+   libavutil       60.8.100 (runtime 60.26.101)
+   libswresample   6.1.100 (runtime 6.3.101)
+   libswscale      9.1.100 (runtime 9.5.101)
+Usage:   mpv [options] [url|path/]filename
+
+Basic options:
+ --start=<time>    seek to given (percent, seconds, or hh:mm:ss) position
+ --no-audio        do not play sound
+ --no-video        do not play video
+ --fs              fullscreen playback
+ --sub-file=<file> specify subtitle file to use
+ --playlist=<file> specify playlist file
+
+ --list-options    list all mpv options
+ --h=<string>      print options which contain the given string in their name
+2026-06-18T06:02:44 output: Failed to play on "MPV" (pipe): Write error on pipe: Broken pipe
+2026-06-18T06:02:48 exception: Failed to open /data/data/com.termux/files/home/storage/shared/Android/data: Permission denied
+2026-06-18T06:02:48 exception: Failed to open /data/data/com.termux/files/home/storage/shared/Android/obb: Permission denied
+mpv v0.41.0 Copyright © 2000-2025 mpv/MPlayer/mplayer2 projects
+ built on Feb 14 2026 10:08:32
+libplacebo version: v7.360.1
+FFmpeg version: 8.0.1 (runtime 8.1.1)
+FFmpeg library versions:
+   libavcodec      62.11.100 (runtime 62.28.101)
+   libavdevice     62.1.100 (runtime 62.3.101)
+   libavfilter     11.4.100 (runtime 11.14.101)
+   libavformat     62.3.100 (runtime 62.12.101)
+   libavutil       60.8.100 (runtime 60.26.101)
+   libswresample   6.1.100 (runtime 6.3.101)
+   libswscale      9.1.100 (runtime 9.5.101)
+Usage:   mpv [options] [url|path/]filename
+
+Basic options:
+ --start=<time>    seek to given (percent, seconds, or hh:mm:ss) position
+ --no-audio        do not play sound
+ --no-video        do not play video
+ --fs              fullscreen playback
+ --sub-file=<file> specify subtitle file to use
+ --playlist=<file> specify playlist file
+
+ --list-options    list all mpv options
+ --h=<string>      print options which contain the given string in their name
+2026-06-18T06:02:53 output: Failed to play on "MPV" (pipe): Write error on pipe: Broken pipe
+mpv v0.41.0 Copyright © 2000-2025 mpv/MPlayer/mplayer2 projects
+ built on Feb 14 2026 10:08:32
+libplacebo version: v7.360.1
+FFmpeg version: 8.0.1 (runtime 8.1.1)
+FFmpeg library versions:
+   libavcodec      62.11.100 (runtime 62.28.101)
+   libavdevice     62.1.100 (runtime 62.3.101)
+   libavfilter     11.4.100 (runtime 11.14.101)
+   libavformat     62.3.100 (runtime 62.12.101)
+   libavutil       60.8.100 (runtime 60.26.101)
+   libswresample   6.1.100 (runtime 6.3.101)
+   libswscale      9.1.100 (runtime 9.5.101)
+Usage:   mpv [options] [url|path/]filename
+
+Basic options:
+ --start=<time>    seek to given (percent, seconds, or hh:mm:ss) position
+ --no-audio        do not play sound
+ --no-video        do not play video
+ --fs              fullscreen playback
+ --sub-file=<file> specify subtitle file to use
+ --playlist=<file> specify playlist file
+
+ --list-options    list all mpv options
+ --h=<string>      print options which contain the given string in their name
+2026-06-18T06:03:03 output: Failed to play on "MPV" (pipe): Write error on pipe: Broken pipe
+mpv v0.41.0 Copyright © 2000-2025 mpv/MPlayer/mplayer2 projects
+ built on Feb 14 2026 10:08:32
+libplacebo version: v7.360.1
+FFmpeg version: 8.0.1 (runtime 8.1.1)
+FFmpeg library versions:
+   libavcodec      62.11.100 (runtime 62.28.101)
+   libavdevice     62.1.100 (runtime 62.3.101)
+   libavfilter     11.4.100 (runtime 11.14.101)
+   libavformat     62.3.100 (runtime 62.12.101)
+   libavutil       60.8.100 (runtime 60.26.101)
+   libswresample   6.1.100 (runtime 6.3.101)
+   libswscale      9.1.100 (runtime 9.5.101)
+Usage:   mpv [options] [url|path/]filename
+
+Basic options:
+ --start=<time>    seek to given (percent, seconds, or hh:mm:ss) position
+ --no-audio        do not play sound
+ --no-video        do not play video
+ --fs              fullscreen playback
+ --sub-file=<file> specify subtitle file to use
+ --playlist=<file> specify playlist file
+
+ --list-options    list all mpv options
+ --h=<string>      print options which contain the given string in their name
+2026-06-18T06:03:14 output: Failed to play on "MPV" (pipe): Write error on pipe: Broken pipe
+mpv v0.41.0 Copyright © 2000-2025 mpv/MPlayer/mplayer2 projects
+ built on Feb 14 2026 10:08:32
+libplacebo version: v7.360.1
+FFmpeg version: 8.0.1 (runtime 8.1.1)
+FFmpeg library versions:
+   libavcodec      62.11.100 (runtime 62.28.101)
+   libavdevice     62.1.100 (runtime 62.3.101)
+   libavfilter     11.4.100 (runtime 11.14.101)
+   libavformat     62.3.100 (runtime 62.12.101)
+   libavutil       60.8.100 (runtime 60.26.101)
+   libswresample   6.1.100 (runtime 6.3.101)
+   libswscale      9.1.100 (runtime 9.5.101)
+Usage:   mpv [options] [url|path/]filename
+
+Basic options:
+ --start=<time>    seek to given (percent, seconds, or hh:mm:ss) position
+ --no-audio        do not play sound
+ --no-video        do not play video
+ --fs              fullscreen playback
+ --sub-file=<file> specify subtitle file to use
+ --playlist=<file> specify playlist file
+
+ --list-options    list all mpv options
+ --h=<string>      print options which contain the given string in their name
+2026-06-18T06:03:24 output: Failed to play on "MPV" (pipe): Write error on pipe: Broken pipe
+mpv v0.41.0 Copyright © 2000-2025 mpv/MPlayer/mplayer2 projects
+ built on Feb 14 2026 10:08:32
+libplacebo version: v7.360.1
+FFmpeg version: 8.0.1 (runtime 8.1.1)
+FFmpeg library versions:
+   libavcodec      62.11.100 (runtime 62.28.101)
+   libavdevice     62.1.100 (runtime 62.3.101)
+   libavfilter     11.4.100 (runtime 11.14.101)
+   libavformat     62.3.100 (runtime 62.12.101)
+   libavutil       60.8.100 (runtime 60.26.101)
+   libswresample   6.1.100 (runtime 6.3.101)
+   libswscale      9.1.100 (runtime 9.5.101)
+Usage:   mpv [options] [url|path/]filename
+
+Basic options:
+ --start=<time>    seek to given (percent, seconds, or hh:mm:ss) position
+ --no-audio        do not play sound
+ --no-video        do not play video
+ --fs              fullscreen playback
+ --sub-file=<file> specify subtitle file to use
+ --playlist=<file> specify playlist file
+
+ --list-options    list all mpv options
+ --h=<string>      print options which contain the given string in their name
+2026-06-18T06:03:34 output: Failed to play on "MPV" (pipe): Write error on pipe: Broken pipe
+2026-06-18T06:03:43 player: played "music/Flac/KERANDA CINTA - Lusyana Jelita Adella - OM ADELLA [OI_OvpWos1M].flac"
+2026-06-18T06:03:46 config: inotify: auto_update was disabled. enable during compilation phase
+mpv v0.41.0 Copyright © 2000-2025 mpv/MPlayer/mplayer2 projects
+ built on Feb 14 2026 10:08:32
+libplacebo version: v7.360.1
+FFmpeg version: 8.0.1 (runtime 8.1.1)
+FFmpeg library versions:
+   libavcodec      62.11.100 (runtime 62.28.101)
+   libavdevice     62.1.100 (runtime 62.3.101)
+   libavfilter     11.4.100 (runtime 11.14.101)
+   libavformat     62.3.100 (runtime 62.12.101)
+   libavutil       60.8.100 (runtime 60.26.101)
+   libswresample   6.1.100 (runtime 6.3.101)
+   libswscale      9.1.100 (runtime 9.5.101)
+Usage:   mpv [options] [url|path/]filename
+
+Basic options:
+ --start=<time>    seek to given (percent, seconds, or hh:mm:ss) position
+ --no-audio        do not play sound
+ --no-video        do not play video
+ --fs              fullscreen playback
+ --sub-file=<file> specify subtitle file to use
+ --playlist=<file> specify playlist file
+
+ --list-options    list all mpv options
+ --h=<string>      print options which contain the given string in their name
+2026-06-18T06:03:46 output: Failed to play on "MPV" (pipe): Write error on pipe: Broken pipe
+2026-06-18T06:03:55 player: played "music/Flac/KERANDA CINTA - Lusyana Jelita Adella - OM ADELLA [OI_OvpWos1M].flac"
+2026-06-18T06:04:54 config: inotify: auto_update was disabled. enable during compilation phase
+client removed during hook handling
+[file] Reading from stdin...
+Failed to recognize file format.
+Exiting... (Errors when loading file)
+2026-06-18T06:05:23 output: Failed to play on "MPV" (pipe): Write error on pipe: Broken pipe
+2026-06-18T06:05:23 exception: Failed to open audio output
+2026-06-18T06:05:47 player: played "music/Flac/PERMISI SITI ALIYAH FEAT SUARA KITA STUDIO [sFUop3ExBDc].flac"
+2026-06-18T06:05:50 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T06:06:23 exception: Failed to open /data/data/com.termux/files/home/storage/shared/Android/data: Permission denied
+2026-06-18T06:06:23 exception: Failed to open /data/data/com.termux/files/home/storage/shared/Android/obb: Permission denied
+[file] Reading from stdin...
+Failed to recognize file format.
+Exiting... (Errors when loading file)
+2026-06-18T06:06:51 output: Failed to play on "MPV" (pipe): Write error on pipe: Broken pipe
+[file] Reading from stdin...
+Failed to recognize file format.
+Exiting... (Errors when loading file)
+2026-06-18T06:07:30 output: Failed to play on "MPV" (pipe): Write error on pipe: Broken pipe
+[file] Reading from stdin...
+2026-06-18T06:07:46 player: played "music/Flac/PERMISI SITI ALIYAH FEAT SUARA KITA STUDIO [sFUop3ExBDc].flac"
+Failed to recognize file format.
+Exiting... (Errors when loading file)
+2026-06-18T06:07:49 config: inotify: auto_update was disabled. enable during compilation phase
+[file] Reading from stdin...
+Failed to recognize file format.
+Exiting... (Errors when loading file)
+2026-06-18T06:08:50 output: Failed to play on "MPV" (pipe): Write error on pipe: Broken pipe
+[file] Reading from stdin...
+2026-06-18T06:09:34 player: played "music/Flac/PERMISI SITI ALIYAH FEAT SUARA KITA STUDIO [sFUop3ExBDc].flac"
+Failed to recognize file format.
+Exiting... (Errors when loading file)
+2026-06-18T06:09:37 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T06:09:37 config: option "command" on line 24 was not recognized
+2026-06-18T06:28:39 player: played "downloads/Bass Booster/SOUND HOREG TRAP FULL BASS SOUND CHEK [wdZ1gyAJOsw].flac"
+2026-06-18T07:47:48 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T07:47:48 config: option "command" on line 24 was not recognized
+2026-06-18T07:47:51 player: played "downloads/Bass Booster/SOUND HOREG TRAP FULL BASS SOUND CHEK [wdZ1gyAJOsw].flac"
+2026-06-18T08:06:37 player: played "downloads/Bass Booster/Demons.flac"
+2026-06-18T08:39:47 player: played "downloads/Bass Booster/KUMPULAN BASS EMPUK ｜ DJ CEK SOUND FULL BASS ALBUM TERBARU 2025 (MHLS PRO) [0fF4KYh5w5c].flac"
+2026-06-18T08:50:57 player: played "downloads/Bass Booster/SOUND HOREG TRAP FULL BASS SOUND CHEK [wdZ1gyAJOsw].flac"
+2026-06-18T08:55:00 player: played "downloads/Bass Booster/TEST SPEAKER AUDIO SOUND SYSTEM - OBAT NGAMUK MUSIK [mh0jKNzcLAc].flac"
+2026-06-18T09:00:18 player: played "music/Flac/Bella Nova - Hati Siapa Tak Luka (Live Music) [qXYjbppvqbo].flac"
+2026-06-18T09:05:58 player: played "music/Flac/Bella Nova - Satu Rasa Cinta (Live Music) [DQhiUQGb3cE].flac"
+2026-06-18T09:11:58 player: played "music/Flac/Bella Nova - Sia Sia Mengharap Cintamu (Live Music) [PxedEJlvh38].flac"
+2026-06-18T09:19:22 player: played "music/Flac/KERANDA CINTA - Lusyana Jelita Adella - OM ADELLA [OI_OvpWos1M].flac"
+2026-06-18T09:24:28 player: played "music/Flac/PERMISI SITI ALIYAH FEAT SUARA KITA STUDIO [sFUop3ExBDc].flac"
+2026-06-18T09:32:28 player: played "music/Flac/Yeni Inka - PECAH SERIBU (Official MV) Hanya Dia Yang Ada Diantara Jantung Hati [vuijmH64lrU].flac"
+2026-06-18T09:51:39 player: played "downloads/yatno_music/Ajeng Febria - Bojo Biduan (Official Music Live) l Abote Wong Lanang Yen Nduwe Bojo Biduan [P2BBqnT1a2U].mp3"
+2026-06-18T09:56:38 player: played "downloads/yatno_music/Ajeng Febria - Ngapain Repot (Official Music Video) ｜ Aman Saja Mo Ngapain Mo Repot [-ix-XswQz10].mp3"
+2026-06-18T10:01:34 player: played "downloads/yatno_music/AZMY Z - LALEUR HEJO (Official Musik Video) [b_IjEB1bEHg].mp3"
+2026-06-18T10:07:07 player: played "downloads/yatno_music/BARENG NERIMA VOC： DEVI ANEKA TUNGGAL FEAT RADEN ANEKA TUNGGAL [RuMf7ivByOI].mp3"
+2026-06-18T10:10:51 player: played "downloads/yatno_music/DENOK - Putri Fedya ｜｜ HIPHOP DANGDUT VERSION [NjjkO9w7VIk].mp3"
+2026-06-18T10:34:38 player: played "downloads/yatno_music/DJ FULL BASS TERBARU 2026 CEK SOUND BASS BENING EMPUK HOREG PALING ENAK (MHLS PRO) [siAxeNyTohE].mp3"
+2026-06-18T10:39:27 player: played "downloads/yatno_music/Happy Asmara -  Wes Ora Edan (Official Music Video) [ZIk7aDAyHBU].mp3"
+2026-06-18T10:44:22 player: played "downloads/yatno_music/HAPPY ASMARA - AISHITERU 2 ( Official Live Video Royal Music ) [ld7Bkg4BKlA].mp3"
+2026-06-18T10:49:31 player: played "downloads/yatno_music/Happy Asmara - Pelet Nyasar (Official Music Video) [6TBS2tnBkDA].mp3"
+2026-06-18T10:55:00 player: played "downloads/yatno_music/Happy Asmara - Salam Tresno ｜ Dangdut [OFFICIAL] [w8TnupD-psQ].mp3"
+2026-06-18T11:00:35 player: played "downloads/yatno_music/INGET KA MANTAN - AZMY Z (Official Music Video) [fhiRtYw5TWI].mp3"
+2026-06-18T11:05:31 player: played "downloads/yatno_music/JANGAN TUNGGU LAMA LAMA - AJENG FEBRIA & BRODIN ft. OM NIRWANA ｜ LIVE MUSIC ｜ VERSI KOPLO [fto9UBve3nA].mp3"
+2026-06-18T11:09:37 player: played "downloads/yatno_music/JAYANTI - AZMY Z ( Official Music Video ) [qVpmhkNOscI].mp3"
+2026-06-18T11:12:01 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T11:12:01 config: option "command" on line 24 was not recognized
+2026-06-18T11:15:14 player: played "downloads/yatno_music/JOKO TINGKIR REMIX BY AZMY Z  ｜ ｜ Versi 3 Bhs (Sunda ,Indonesia, Jawa) [WhMrUmQEnpY].mp3"
+2026-06-18T11:29:13 player: played "downloads/Bass Booster/Demons.flac"
+2026-06-18T11:59:08 player: played "downloads/Bass Booster/KUMPULAN BASS EMPUK ｜ DJ CEK SOUND FULL BASS ALBUM TERBARU 2025 (MHLS PRO) [0fF4KYh5w5c].flac"
+2026-06-18T12:15:58 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T12:15:58 config: option "command" on line 24 was not recognized
+2026-06-18T12:26:25 player: played "downloads/Bass Booster/SOUND HOREG TRAP FULL BASS SOUND CHEK [wdZ1gyAJOsw].flac"
+2026-06-18T12:29:38 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T12:29:38 config: option "command" on line 24 was not recognized
+2026-06-18T12:31:41 player: played "downloads/Bass Booster/TEST SPEAKER AUDIO SOUND SYSTEM - OBAT NGAMUK MUSIK [mh0jKNzcLAc].flac"
+2026-06-18T12:46:11 player: played "downloads/Bass Booster/KUMPULAN BASS EMPUK ｜ DJ CEK SOUND FULL BASS ALBUM TERBARU 2025 (MHLS PRO) [0fF4KYh5w5c].flac"
+2026-06-18T12:55:04 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T12:55:04 config: option "command" on line 24 was not recognized
+2026-06-18T12:55:09 exception: Failed to open /data/data/com.termux/files/home/storage/shared/Android/data: Permission denied
+2026-06-18T12:55:09 exception: Failed to open /data/data/com.termux/files/home/storage/shared/Android/obb: Permission denied
+2026-06-18T12:55:09 update: added shared/Download/Bass Booster/AWAS SANGIT! DJ FULL BASS 2026 CEK SOUND HOREG BASS MELED4K MUSIK JERNIH MIDDLE KRUWEKK (MHLS PRO) [iyu-0v2zwJ4].mp3
+2026-06-18T12:55:09 update: added shared/Download/Bass Booster/DJ ENAK FULL BASS 2026 ｜ DJ CEK SOUND HOREG VELOCITY JERNIH EMPUK SEJUK (MHLS PRO) [kSx4Jiha4wc].mp3
+2026-06-18T12:55:09 update: added shared/Download/Bass Booster/DJ FULL BASS 2026 CEK SOUND RAGATAK BATTLE BASS HOREG BRUTAL AMUNISI OPENING KARNAVAL JUARA MHLS PRO [2uKAe8N0xUA].mp3
+2026-06-18T12:55:09 update: added shared/Download/Bass Booster/DJ FULL BASS PALING ENAK BANGET CEK SOUND HOREG TERBARU 2026 MUSIK JERNIH KOPLO EMPUK (MHLS PRO) [sLj3XeXub34].mp3
+2026-06-18T12:55:09 update: added shared/Download/Bass Booster/DJ FULL BASS TERBARU 2026 CEK SOUND HOREG ENAK POOL BASS JERNIH MUSIK BERSIH (MHLS PRO) [3Df7ku8Ds7M].mp3
+2026-06-18T12:55:09 update: added downloads/Bass Booster/AWAS SANGIT! DJ FULL BASS 2026 CEK SOUND HOREG BASS MELED4K MUSIK JERNIH MIDDLE KRUWEKK (MHLS PRO) [iyu-0v2zwJ4].mp3
+2026-06-18T12:55:09 update: added downloads/Bass Booster/DJ ENAK FULL BASS 2026 ｜ DJ CEK SOUND HOREG VELOCITY JERNIH EMPUK SEJUK (MHLS PRO) [kSx4Jiha4wc].mp3
+2026-06-18T12:55:09 update: added downloads/Bass Booster/DJ FULL BASS 2026 CEK SOUND RAGATAK BATTLE BASS HOREG BRUTAL AMUNISI OPENING KARNAVAL JUARA MHLS PRO [2uKAe8N0xUA].mp3
+2026-06-18T12:55:09 update: added downloads/Bass Booster/DJ FULL BASS PALING ENAK BANGET CEK SOUND HOREG TERBARU 2026 MUSIK JERNIH KOPLO EMPUK (MHLS PRO) [sLj3XeXub34].mp3
+2026-06-18T12:55:09 update: added downloads/Bass Booster/DJ FULL BASS TERBARU 2026 CEK SOUND HOREG ENAK POOL BASS JERNIH MUSIK BERSIH (MHLS PRO) [3Df7ku8Ds7M].mp3
+2026-06-18T12:55:25 player: played "downloads/Bass Booster/KUMPULAN BASS EMPUK ｜ DJ CEK SOUND FULL BASS ALBUM TERBARU 2025 (MHLS PRO) [0fF4KYh5w5c].flac"
+2026-06-18T13:22:45 player: played "downloads/Bass Booster/DJ FULL BASS 2026 CEK SOUND RAGATAK BATTLE BASS HOREG BRUTAL AMUNISI OPENING KARNAVAL JUARA MHLS PRO [2uKAe8N0xUA].mp3"
+2026-06-18T13:45:08 player: played "downloads/Bass Booster/DJ FULL BASS PALING ENAK BANGET CEK SOUND HOREG TERBARU 2026 MUSIK JERNIH KOPLO EMPUK (MHLS PRO) [sLj3XeXub34].mp3"
+2026-06-18T13:58:09 player: played "downloads/Bass Booster/DJ FULL BASS TERBARU 2026 CEK SOUND HOREG ENAK POOL BASS JERNIH MUSIK BERSIH (MHLS PRO) [3Df7ku8Ds7M].mp3"
+2026-06-18T17:47:10 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T17:47:10 config: option "command" on line 24 was not recognized
+2026-06-18T17:47:20 player: played "downloads/Bass Booster/DJ FULL BASS TERBARU 2026 CEK SOUND HOREG ENAK POOL BASS JERNIH MUSIK BERSIH (MHLS PRO) [3Df7ku8Ds7M].mp3"
+2026-06-18T17:47:22 exception: Failed to open /data/data/com.termux/files/home/storage/shared/Android/data: Permission denied
+2026-06-18T17:47:22 exception: Failed to open /data/data/com.termux/files/home/storage/shared/Android/obb: Permission denied
+2026-06-18T17:47:23 update: added shared/Download/DJ SLOW REMIX INDO 2026 🔥 LAGU CHILL ENAK BANGET BUAT LAGU SANTAI MALAM HARI ✨ COCOK BUAT BERKENDARA [8ZonmR9gbu4].mp3
+2026-06-18T17:47:23 update: added shared/Download/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK KERJA DAN SANTAI MALAM HARI ｜ MUSIK BIAR FOKUS DAN SEMANGAT [oetnteC_ZXc].mp3
+2026-06-18T17:47:23 update: added shared/Download/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].mp3
+2026-06-18T17:47:23 update: added shared/Download/wky_eng/DJ SANTAI DIJAMIN GOYANG TIPIS TIPIS 🚀 DJ SLOW BARAT FULL BASS TERBAIK 🔥 NEMENIN NYETIR DIJALAN [bcAuIXVq6mY].mp3
+2026-06-18T17:47:23 update: added shared/Download/wky_eng/DJ SLOW BARAT FULL BASS 2026 ✨ ENAK BUAT NYETIR ATAU MUSIK SANTAI DI MALAM HARI 🔥 WKY SLOW REMIX [vRSdy45PeI4].mp3
+2026-06-18T17:47:23 update: added shared/Download/wky_eng/DJ SLOW ENAK BANGET BUAT MALAM HARI 🔥 DJ BARAT FULL BASS ✨ MUSIK SANTAI BIAR FOKUS DAN SEMANGAT [gIIWCsQfL4g].mp3
+2026-06-18T17:47:23 update: added shared/Download/wky_eng/DJ SLOW ENAK BANGET 🔥 REMIX TERBARU 2026 ｜ UNTUK KERJA DAN NYETIR MALAM HARI ｜ LAGU SANTAI DAN FOKUS [N2J99FoI9x4].mp3
+2026-06-18T17:47:23 update: added shared/Download/wky_eng/DJ SLOW REMIX BARAT 2026 🌙 LAGU CHILL ENAK BANGET 🔥 BUAT SANTAI MALAM HARI ✨ BIAR TAMBAH ENJOY [HYLvtEZsOic].mp3
+2026-06-18T17:47:23 update: added shared/Download/wky_eng/DJ SLOW REMIX BARAT 2026 🔥 LAGU CHILL ENAK BANGET BUAT LAGU PERJALANAN ✨ COCOK BUAT SANTAI [PK2SSSEkWRs].mp3
+2026-06-18T17:47:23 update: added shared/Download/wky_eng/DJ Slow Remix Barat Terbaru 2026 Cocok Buat Kerja Bikin Semangat  Bass Santai DeepHouse Viral TikTok [wemP9newmSI].mp3
+2026-06-18T17:47:23 update: added shared/Download/wky_eng/DJ SLOW REMIX BARAT 🌙 ENAK BANGET BIKIN PERASAAN MELAYANG 🔥 GAYA BREAKBEAT SANTAI ✨ FULL BASS [vSkVSwrsUxc].mp3
+2026-06-18T17:47:23 update: added shared/Download/wky_eng/DJ SLOW REMIX BARAT 🌟 DJ SANTAI FULL BASS ｜ COCOK BUAT KERJA ｜ BIKIN SEMANGAT ｜ NGOPI JADI ENJOY [95lAV-Rvunk].mp3
+2026-06-18T17:47:23 update: added shared/Download/wky_eng/ENAK BANGET BUAT NYETIR DIJALAN 🌃 ALBUM DJ SLOW BARAT REMIX SANTAI ✨ BASS NYA FULL BIKIN NAGIH [MYb6G4WGY78].mp3
+2026-06-18T17:47:23 update: added shared/Download/wky_eng/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK KERJA DAN SANTAI MALAM HARI ｜ MUSIK BIAR FOKUS DAN SEMANGAT [oetnteC_ZXc].mp3
+2026-06-18T17:47:23 update: added shared/Download/wky_eng/ENAK BANGET BUAT NYETIR 🔥DJ SLOW BASS BARAT UNTUK  SANTAI MALAM HARI ｜ MUSIK BIAR FOKUS DAN SEMANGAT [54dyLezIqLE].mp3
+2026-06-18T17:47:23 update: added shared/Download/wky_indo/DJ SLOW BASS INDO 2026 🌙 ENAK BANGET GAYA BREAKBEAT KALEM ✨ DJ TIKTOK TERBARU BUAT HEALING [uydqD6ueJhk].mp3
+2026-06-18T17:47:23 update: added shared/Download/wky_indo/DJ SLOW ENAK BANGET BUAT YANG GALAU 🔥 DJ INDO FULL BASS ✨ MUSIK SANTAI BUAT MALAM HARI ⧸ FOKUS KERJA [i6luyN5qH4k].mp3
+2026-06-18T17:47:23 update: added shared/Download/wky_indo/DJ Slow Full Album Remix Indonesia 🌟 Melodi Galau Tapi Bikin Kangen ✨ Musik Enak Banget Buat Santai [lGeCyspbtuM].mp3
+2026-06-18T17:47:23 update: added shared/Download/wky_indo/DJ SLOW INDO FULL BASS 🌟 LAGU SANTAI GALAU BIKIN BAPER 🔥 ENAK NEMENIN NGOPI SAMBIL NGELAMUN [DsFitE1PyFU].mp3
+2026-06-18T17:47:23 update: added shared/Download/wky_indo/DJ SLOW REMIX INDO 2026 🌟 LAGU CHILL ENAK BIKIN BAHAGIA 🔥 TEMEN NYETIR DARI PAGI SAMPAI MALAM [fXm0iD_0HQY].mp3
+2026-06-18T17:47:23 update: added shared/Download/wky_indo/DJ SLOW REMIX INDO 2026 🔥 LAGU CHILL ENAK BANGET BUAT LAGU SANTAI MALAM HARI ✨ COCOK BUAT BERKENDARA [8ZonmR9gbu4].mp3
+2026-06-18T17:47:23 update: added shared/Download/wky_indo/DJ Slow Remix Indo Full Bass Pilihan 🎧 Lagu Chill Santai Teman Perjalanan Bikin Candu [4f9ghQfk0x0].mp3
+2026-06-18T17:47:23 update: added shared/Download/wky_indo/DJ SLOW REMIX INDONESIA BIKIN RILEKS 🌟 ANTI STRES SETELAH KERJA ☕ TEMEN NGOPI & NYANTAI ENAK BANGET [pD8zjQgJpyI].mp3
+2026-06-18T17:47:23 update: added shared/Download/wky_indo/DJ Slow Remix Indonesia Viral TikTok Terbaru 2026 ｜ Bass Kalem Bikin Candu Cocok Untuk Teman Santai [XufYL0CZe94].mp3
+2026-06-18T17:47:23 update: added shared/Download/wky_indo/DJ SLOW REMIX TERBARU 2026 DJ INDO FULL ALBUM VIRAL  Lagu Santai Enak Banget Didengar Sepanjang Hari [UgJE-eiSZsQ].mp3
+2026-06-18T17:47:23 update: added shared/Download/wky_indo/DJ SLOW REMIX TERBARU 2026 🎧 LAGU SANTAI ENAK BANGET 🔥 DENGARKAN UNTUK KERJA DAN NYETIR MALAM HARI [bpmPejJWTNI].mp3
+2026-06-18T17:47:23 update: added shared/Download/wky_indo/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].mp3
+2026-06-18T17:47:24 update: added downloads/DJ SLOW REMIX INDO 2026 🔥 LAGU CHILL ENAK BANGET BUAT LAGU SANTAI MALAM HARI ✨ COCOK BUAT BERKENDARA [8ZonmR9gbu4].mp3
+2026-06-18T17:47:24 update: added downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK KERJA DAN SANTAI MALAM HARI ｜ MUSIK BIAR FOKUS DAN SEMANGAT [oetnteC_ZXc].mp3
+2026-06-18T17:47:24 update: added downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].mp3
+2026-06-18T17:47:24 update: added downloads/wky_eng/DJ SANTAI DIJAMIN GOYANG TIPIS TIPIS 🚀 DJ SLOW BARAT FULL BASS TERBAIK 🔥 NEMENIN NYETIR DIJALAN [bcAuIXVq6mY].mp3
+2026-06-18T17:47:24 update: added downloads/wky_eng/DJ SLOW BARAT FULL BASS 2026 ✨ ENAK BUAT NYETIR ATAU MUSIK SANTAI DI MALAM HARI 🔥 WKY SLOW REMIX [vRSdy45PeI4].mp3
+2026-06-18T17:47:24 update: added downloads/wky_eng/DJ SLOW ENAK BANGET BUAT MALAM HARI 🔥 DJ BARAT FULL BASS ✨ MUSIK SANTAI BIAR FOKUS DAN SEMANGAT [gIIWCsQfL4g].mp3
+2026-06-18T17:47:24 update: added downloads/wky_eng/DJ SLOW ENAK BANGET 🔥 REMIX TERBARU 2026 ｜ UNTUK KERJA DAN NYETIR MALAM HARI ｜ LAGU SANTAI DAN FOKUS [N2J99FoI9x4].mp3
+2026-06-18T17:47:24 update: added downloads/wky_eng/DJ SLOW REMIX BARAT 2026 🌙 LAGU CHILL ENAK BANGET 🔥 BUAT SANTAI MALAM HARI ✨ BIAR TAMBAH ENJOY [HYLvtEZsOic].mp3
+2026-06-18T17:47:24 update: added downloads/wky_eng/DJ SLOW REMIX BARAT 2026 🔥 LAGU CHILL ENAK BANGET BUAT LAGU PERJALANAN ✨ COCOK BUAT SANTAI [PK2SSSEkWRs].mp3
+2026-06-18T17:47:24 update: added downloads/wky_eng/DJ Slow Remix Barat Terbaru 2026 Cocok Buat Kerja Bikin Semangat  Bass Santai DeepHouse Viral TikTok [wemP9newmSI].mp3
+2026-06-18T17:47:24 update: added downloads/wky_eng/DJ SLOW REMIX BARAT 🌙 ENAK BANGET BIKIN PERASAAN MELAYANG 🔥 GAYA BREAKBEAT SANTAI ✨ FULL BASS [vSkVSwrsUxc].mp3
+2026-06-18T17:47:24 update: added downloads/wky_eng/DJ SLOW REMIX BARAT 🌟 DJ SANTAI FULL BASS ｜ COCOK BUAT KERJA ｜ BIKIN SEMANGAT ｜ NGOPI JADI ENJOY [95lAV-Rvunk].mp3
+2026-06-18T17:47:24 update: added downloads/wky_eng/ENAK BANGET BUAT NYETIR DIJALAN 🌃 ALBUM DJ SLOW BARAT REMIX SANTAI ✨ BASS NYA FULL BIKIN NAGIH [MYb6G4WGY78].mp3
+2026-06-18T17:47:24 update: added downloads/wky_eng/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK KERJA DAN SANTAI MALAM HARI ｜ MUSIK BIAR FOKUS DAN SEMANGAT [oetnteC_ZXc].mp3
+2026-06-18T17:47:24 update: added downloads/wky_eng/ENAK BANGET BUAT NYETIR 🔥DJ SLOW BASS BARAT UNTUK  SANTAI MALAM HARI ｜ MUSIK BIAR FOKUS DAN SEMANGAT [54dyLezIqLE].mp3
+2026-06-18T17:47:24 update: added downloads/wky_indo/DJ SLOW BASS INDO 2026 🌙 ENAK BANGET GAYA BREAKBEAT KALEM ✨ DJ TIKTOK TERBARU BUAT HEALING [uydqD6ueJhk].mp3
+2026-06-18T17:47:24 update: added downloads/wky_indo/DJ SLOW ENAK BANGET BUAT YANG GALAU 🔥 DJ INDO FULL BASS ✨ MUSIK SANTAI BUAT MALAM HARI ⧸ FOKUS KERJA [i6luyN5qH4k].mp3
+2026-06-18T17:47:24 update: added downloads/wky_indo/DJ Slow Full Album Remix Indonesia 🌟 Melodi Galau Tapi Bikin Kangen ✨ Musik Enak Banget Buat Santai [lGeCyspbtuM].mp3
+2026-06-18T17:47:24 update: added downloads/wky_indo/DJ SLOW INDO FULL BASS 🌟 LAGU SANTAI GALAU BIKIN BAPER 🔥 ENAK NEMENIN NGOPI SAMBIL NGELAMUN [DsFitE1PyFU].mp3
+2026-06-18T17:47:24 update: added downloads/wky_indo/DJ SLOW REMIX INDO 2026 🌟 LAGU CHILL ENAK BIKIN BAHAGIA 🔥 TEMEN NYETIR DARI PAGI SAMPAI MALAM [fXm0iD_0HQY].mp3
+2026-06-18T17:47:24 update: added downloads/wky_indo/DJ SLOW REMIX INDO 2026 🔥 LAGU CHILL ENAK BANGET BUAT LAGU SANTAI MALAM HARI ✨ COCOK BUAT BERKENDARA [8ZonmR9gbu4].mp3
+2026-06-18T17:47:24 update: added downloads/wky_indo/DJ Slow Remix Indo Full Bass Pilihan 🎧 Lagu Chill Santai Teman Perjalanan Bikin Candu [4f9ghQfk0x0].mp3
+2026-06-18T17:47:24 update: added downloads/wky_indo/DJ SLOW REMIX INDONESIA BIKIN RILEKS 🌟 ANTI STRES SETELAH KERJA ☕ TEMEN NGOPI & NYANTAI ENAK BANGET [pD8zjQgJpyI].mp3
+2026-06-18T17:47:24 update: added downloads/wky_indo/DJ Slow Remix Indonesia Viral TikTok Terbaru 2026 ｜ Bass Kalem Bikin Candu Cocok Untuk Teman Santai [XufYL0CZe94].mp3
+2026-06-18T17:47:24 update: added downloads/wky_indo/DJ SLOW REMIX TERBARU 2026 DJ INDO FULL ALBUM VIRAL  Lagu Santai Enak Banget Didengar Sepanjang Hari [UgJE-eiSZsQ].mp3
+2026-06-18T17:47:24 update: added downloads/wky_indo/DJ SLOW REMIX TERBARU 2026 🎧 LAGU SANTAI ENAK BANGET 🔥 DENGARKAN UNTUK KERJA DAN NYETIR MALAM HARI [bpmPejJWTNI].mp3
+2026-06-18T17:47:24 update: added downloads/wky_indo/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].mp3
+2026-06-18T18:07:43 player: played "downloads/wky_indo/DJ SLOW BASS INDO 2026 🌙 ENAK BANGET GAYA BREAKBEAT KALEM ✨ DJ TIKTOK TERBARU BUAT HEALING [uydqD6ueJhk].mp3"
+2026-06-18T18:31:46 player: played "downloads/wky_indo/DJ SLOW ENAK BANGET BUAT YANG GALAU 🔥 DJ INDO FULL BASS ✨ MUSIK SANTAI BUAT MALAM HARI ⧸ FOKUS KERJA [i6luyN5qH4k].mp3"
+2026-06-18T18:55:23 player: played "downloads/wky_indo/DJ Slow Full Album Remix Indonesia 🌟 Melodi Galau Tapi Bikin Kangen ✨ Musik Enak Banget Buat Santai [lGeCyspbtuM].mp3"
+2026-06-18T19:17:27 player: played "downloads/wky_indo/DJ SLOW INDO FULL BASS 🌟 LAGU SANTAI GALAU BIKIN BAPER 🔥 ENAK NEMENIN NGOPI SAMBIL NGELAMUN [DsFitE1PyFU].mp3"
+2026-06-18T19:40:41 player: played "downloads/wky_indo/DJ SLOW REMIX INDO 2026 🌟 LAGU CHILL ENAK BIKIN BAHAGIA 🔥 TEMEN NYETIR DARI PAGI SAMPAI MALAM [fXm0iD_0HQY].mp3"
+2026-06-18T20:03:57 player: played "downloads/wky_indo/DJ SLOW REMIX INDO 2026 🔥 LAGU CHILL ENAK BANGET BUAT LAGU SANTAI MALAM HARI ✨ COCOK BUAT BERKENDARA [8ZonmR9gbu4].mp3"
+2026-06-18T20:14:16 player: played "downloads/wky_indo/DJ Slow Remix Indo Full Bass Pilihan 🎧 Lagu Chill Santai Teman Perjalanan Bikin Candu [4f9ghQfk0x0].mp3"
+2026-06-18T20:58:16 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T20:58:16 config: option "command" on line 24 was not recognized
+2026-06-18T21:21:59 player: played "downloads/wky_eng/DJ SLOW ENAK BANGET BUAT MALAM HARI 🔥 DJ BARAT FULL BASS ✨ MUSIK SANTAI BIAR FOKUS DAN SEMANGAT [gIIWCsQfL4g].mp3"
+2026-06-18T22:10:07 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-18T22:10:07 config: option "command" on line 24 was not recognized
+2026-06-18T22:23:02 player: played "downloads/wky_indo/DJ SLOW REMIX TERBARU 2026 DJ INDO FULL ALBUM VIRAL  Lagu Santai Enak Banget Didengar Sepanjang Hari [UgJE-eiSZsQ].mp3"
+2026-06-19T11:51:09 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-19T11:51:09 config: option "command" on line 24 was not recognized
+2026-06-19T12:17:21 player: played "downloads/wky_indo/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].mp3"
+2026-06-19T12:37:11 player: played "downloads/wky_eng/DJ SANTAI DIJAMIN GOYANG TIPIS TIPIS 🚀 DJ SLOW BARAT FULL BASS TERBAIK 🔥 NEMENIN NYETIR DIJALAN [bcAuIXVq6mY].mp3"
+2026-06-19T12:58:58 player: played "downloads/wky_eng/DJ SLOW BARAT FULL BASS 2026 ✨ ENAK BUAT NYETIR ATAU MUSIK SANTAI DI MALAM HARI 🔥 WKY SLOW REMIX [vRSdy45PeI4].mp3"
+2026-06-19T13:07:49 player: played "downloads/wky_eng/DJ SLOW ENAK BANGET 🔥 REMIX TERBARU 2026 ｜ UNTUK KERJA DAN NYETIR MALAM HARI ｜ LAGU SANTAI DAN FOKUS [N2J99FoI9x4].mp3"
+2026-06-19T17:03:18 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-19T17:03:18 config: option "command" on line 24 was not recognized
+2026-06-19T17:05:04 player: played "downloads/wky_indo/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].mp3"
+2026-06-19T19:16:11 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-19T19:16:11 config: option "command" on line 24 was not recognized
+2026-06-19T19:28:09 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-19T19:28:09 config: option "command" on line 24 was not recognized
+2026-06-19T19:42:12 exception: Failed to open audio output
+2026-06-19T19:50:18 player: played "downloads/wky_indo/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].mp3"
+2026-06-19T19:50:32 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-19T19:54:40 player: played "downloads/wky_indo/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].mp3"
+2026-06-19T19:54:51 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-19T19:58:03 player: played "downloads/wky_indo/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].mp3"
+2026-06-19T19:58:17 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-19T20:03:15 player: played "downloads/wky_indo/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].mp3"
+2026-06-19T20:03:17 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-19T20:04:27 player: played "downloads/wky_indo/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].mp3"
+2026-06-19T20:04:29 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-19T20:11:21 player: played "downloads/wky_indo/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].mp3"
+2026-06-19T20:11:37 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-19T20:19:35 player: played "downloads/wky_indo/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].mp3"
+2026-06-19T20:19:45 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-19T20:29:47 player: played "downloads/wky_indo/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].mp3"
+2026-06-19T20:30:20 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-19T20:34:36 player: played "downloads/wky_indo/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].mp3"
+2026-06-19T20:34:44 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-19T20:50:00 player: played "downloads/wky_indo/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].mp3"
+2026-06-19T21:05:25 exception: Failed to open /data/data/com.termux/files/home/storage/shared/Android/data: Permission denied
+2026-06-19T21:05:25 exception: Failed to open /data/data/com.termux/files/home/storage/shared/Android/obb: Permission denied
+2026-06-19T21:05:26 update: removing shared/Android/.Trash/com.sec.android.app.myfiles/3faa99d8-61b4-404e-910d-9dc6e056ef3f/1781711461968/storage/emulated/0/Download/.!%#@$/AZMY Z - LALEUR HEJO (Official Musik Video) [b_IjEB1bEHg].flac
+2026-06-19T21:05:26 update: removing shared/Android/.Trash/com.sec.android.app.myfiles/3faa99d8-61b4-404e-910d-9dc6e056ef3f/1781711461968/storage/emulated/0/Download/.!%#@$/INGET KA MANTAN - AZMY Z (Official Music Video) [fhiRtYw5TWI].flac
+2026-06-19T21:05:26 update: removing shared/Android/.Trash/com.sec.android.app.myfiles/3faa99d8-61b4-404e-910d-9dc6e056ef3f/1781711461968/storage/emulated/0/Download/.!%#@$/JAYANTI - AZMY Z ( Official Music Video ) [qVpmhkNOscI].flac
+2026-06-19T21:05:26 update: removing shared/Android/.Trash/com.sec.android.app.myfiles/3faa99d8-61b4-404e-910d-9dc6e056ef3f/1781711461968/storage/emulated/0/Download/.!%#@$/JOKO TINGKIR REMIX BY AZMY Z  ｜ ｜ Versi 3 Bhs (Sunda ,Indonesia, Jawa) [WhMrUmQEnpY].flac
+2026-06-19T21:05:26 update: removing shared/Android/.Trash/com.sec.android.app.myfiles/3faa99d8-61b4-404e-910d-9dc6e056ef3f/1781711461968/storage/emulated/0/Download/.!%#@$/RUNTAH - AZMY Z  (Official Music Video) [lAIdX9Rv3Rk].flac
+2026-06-19T21:05:26 update: removing shared/Android/.Trash/com.sec.android.app.myfiles/3faa99d8-61b4-404e-910d-9dc6e056ef3f/1781711461968/storage/emulated/0/Download/.!%#@$/Silvy Kumalasari -  Ego Wong Tuo (Official Music Video) ｜ Kudu Iso Kuat Balungane [XluOxf5xlyA].flac
+2026-06-19T21:05:26 update: removing shared/Android/.Trash/com.sec.android.app.myfiles/3faa99d8-61b4-404e-910d-9dc6e056ef3f/1781711461968/storage/emulated/0/Download/.!%#@$/Silvy Kumalasari - Denok (Official Music Video) ｜ Ora Bakal Cukup Lautan Mangsi [QCE3_GuF5qA].flac
+2026-06-19T21:05:26 update: removing shared/Android/.Trash/com.sec.android.app.myfiles/3faa99d8-61b4-404e-910d-9dc6e056ef3f/1781711461968/storage/emulated/0/Download/.!%#@$/Silvy Kumalasari Ft SadewoK - Ropang (Official Music Video) Aku Pancen Ora Sempurna, Gampang Terluka [jcIsdKJWphs].flac
+2026-06-19T21:05:26 update: removing shared/Download/Bass Booster/lagu cek sound gendhing getarkan kaca yang dicari gong glerrr seperti ada hajatan 2024 [EP8HKq2ZOBk].flac
+2026-06-19T21:05:26 update: removing shared/Download/yatno_music/Ajeng Febria - Bojo Biduan (Official Music Live) l Abote Wong Lanang Yen Nduwe Bojo Biduan [P2BBqnT1a2U].mp3
+2026-06-19T21:05:26 update: removing shared/Download/yatno_music/Ajeng Febria - Ngapain Repot (Official Music Video) ｜ Aman Saja Mo Ngapain Mo Repot [-ix-XswQz10].mp3
+2026-06-19T21:05:26 update: removing shared/Download/yatno_music/AZMY Z - LALEUR HEJO (Official Musik Video) [b_IjEB1bEHg].mp3
+2026-06-19T21:05:26 update: removing shared/Download/yatno_music/BARENG NERIMA VOC： DEVI ANEKA TUNGGAL FEAT RADEN ANEKA TUNGGAL [RuMf7ivByOI].mp3
+2026-06-19T21:05:26 update: removing shared/Download/yatno_music/DENOK - Putri Fedya ｜｜ HIPHOP DANGDUT VERSION [NjjkO9w7VIk].mp3
+2026-06-19T21:05:26 update: removing shared/Download/yatno_music/DJ FULL BASS TERBARU 2026 CEK SOUND BASS BENING EMPUK HOREG PALING ENAK (MHLS PRO) [siAxeNyTohE].mp3
+2026-06-19T21:05:26 update: removing shared/Download/yatno_music/Happy Asmara -  Wes Ora Edan (Official Music Video) [ZIk7aDAyHBU].mp3
+2026-06-19T21:05:26 update: removing shared/Download/yatno_music/HAPPY ASMARA - AISHITERU 2 ( Official Live Video Royal Music ) [ld7Bkg4BKlA].mp3
+2026-06-19T21:05:26 update: removing shared/Download/yatno_music/Happy Asmara - Pelet Nyasar (Official Music Video) [6TBS2tnBkDA].mp3
+2026-06-19T21:05:26 update: removing shared/Download/yatno_music/Happy Asmara - Salam Tresno ｜ Dangdut [OFFICIAL] [w8TnupD-psQ].mp3
+2026-06-19T21:05:26 update: removing shared/Download/yatno_music/INGET KA MANTAN - AZMY Z (Official Music Video) [fhiRtYw5TWI].mp3
+2026-06-19T21:05:26 update: removing shared/Download/yatno_music/JANGAN TUNGGU LAMA LAMA - AJENG FEBRIA & BRODIN ft. OM NIRWANA ｜ LIVE MUSIC ｜ VERSI KOPLO [fto9UBve3nA].mp3
+2026-06-19T21:05:26 update: removing shared/Download/yatno_music/JAYANTI - AZMY Z ( Official Music Video ) [qVpmhkNOscI].mp3
+2026-06-19T21:05:26 update: removing shared/Download/yatno_music/JOKO TINGKIR REMIX BY AZMY Z  ｜ ｜ Versi 3 Bhs (Sunda ,Indonesia, Jawa) [WhMrUmQEnpY].mp3
+2026-06-19T21:05:26 update: removing shared/Download/yatno_music/LAGU ANEKA TUNGGAL PEMIKAT SUKMA-LIVE JAGAPURA 30 JUNI 2017 [yb-6ybkFLRM].mp3
+2026-06-19T21:05:26 update: removing shared/Download/yatno_music/ORGAN DERMAYU gagak abang [hzkhvYgXnPM].mp3
+2026-06-19T21:05:26 update: removing shared/Download/yatno_music/ORGAN DERMAYU kembang soka [e4lIjzZUwFs].mp3
+2026-06-19T21:05:26 update: removing shared/Download/yatno_music/PRING KUNING - DEVI AYU ANEKA TUNGGAL [mpgE_BbBoBw].mp3
+2026-06-19T21:05:26 update: removing shared/Download/yatno_music/RUNTAH - AZMY Z  (Official Music Video) [lAIdX9Rv3Rk].mp3
+2026-06-19T21:05:26 update: removing shared/Download/yatno_music/Shinta Arsinta Feat Arya Galih - Kalah - Goyang Esek Esek ( Official Music Video) [Nb8_cWOwQNU].mp3
+2026-06-19T21:05:26 update: removing shared/Download/yatno_music/Shinta Arsinta Feat Arya Galih - Kawin Kontrak ｜ Dangdut (Official Music Video) [hh5aDtxWZSQ].mp3
+2026-06-19T21:05:26 update: removing shared/Download/yatno_music/Shinta Arsinta Feat Arya Galih - Kembang Tresno ｜ Dangdut (Official Music Video) [hnw43NBGYIo].mp3
+2026-06-19T21:05:26 update: removing shared/Download/yatno_music/Shinta Arsinta feat Arya Galih - Lintang Asmoro (Official Music Video) Goyang Esek Esek [KHgllosZ3kA].mp3
+2026-06-19T21:05:26 update: removing shared/Download/yatno_music/Shinta Arsinta ft Diva Hani - Tresno Tekane Mati (New Version)｜ Sagita Dangdut(Official Music Video) [Izu6epfgB2M].mp3
+2026-06-19T21:05:26 update: removing shared/Download/yatno_music/Silvy Kumalasari -  Ego Wong Tuo (Official Music Video) ｜ Kudu Iso Kuat Balungane [XluOxf5xlyA].mp3
+2026-06-19T21:05:26 update: removing shared/Download/yatno_music/Silvy Kumalasari - Denok (Official Music Video) ｜ Ora Bakal Cukup Lautan Mangsi [QCE3_GuF5qA].mp3
+2026-06-19T21:05:26 update: removing shared/Download/yatno_music/Silvy Kumalasari Ft SadewoK - Ropang (Official Music Video) Aku Pancen Ora Sempurna, Gampang Terluka [jcIsdKJWphs].mp3
+2026-06-19T21:05:26 update: removing shared/Download/yatno_music/WONG IRENG ｜ VOC ： IBU DEVI SUSILAWATI ｜ FANDEYU MUSIC TENGDUNG MASA KINI [33b7qLaTKBg].mp3
+2026-06-19T21:05:26 update: removing shared/Download/DJ SLOW REMIX INDO 2026 🔥 LAGU CHILL ENAK BANGET BUAT LAGU SANTAI MALAM HARI ✨ COCOK BUAT BERKENDARA [8ZonmR9gbu4].mp3
+2026-06-19T21:05:26 update: removing shared/Download/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK KERJA DAN SANTAI MALAM HARI ｜ MUSIK BIAR FOKUS DAN SEMANGAT [oetnteC_ZXc].mp3
+2026-06-19T21:05:26 update: removing shared/Download/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].mp3
+2026-06-19T21:05:26 update: removing downloads/Bass Booster/lagu cek sound gendhing getarkan kaca yang dicari gong glerrr seperti ada hajatan 2024 [EP8HKq2ZOBk].flac
+2026-06-19T21:05:26 update: removing downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].mp3
+2026-06-19T21:05:26 update: removing downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK KERJA DAN SANTAI MALAM HARI ｜ MUSIK BIAR FOKUS DAN SEMANGAT [oetnteC_ZXc].mp3
+2026-06-19T21:05:26 update: removing downloads/DJ SLOW REMIX INDO 2026 🔥 LAGU CHILL ENAK BANGET BUAT LAGU SANTAI MALAM HARI ✨ COCOK BUAT BERKENDARA [8ZonmR9gbu4].mp3
+2026-06-19T21:05:26 update: removing downloads/yatno_music/WONG IRENG ｜ VOC ： IBU DEVI SUSILAWATI ｜ FANDEYU MUSIC TENGDUNG MASA KINI [33b7qLaTKBg].mp3
+2026-06-19T21:05:26 update: removing downloads/yatno_music/Silvy Kumalasari Ft SadewoK - Ropang (Official Music Video) Aku Pancen Ora Sempurna, Gampang Terluka [jcIsdKJWphs].mp3
+2026-06-19T21:05:26 update: removing downloads/yatno_music/Silvy Kumalasari - Denok (Official Music Video) ｜ Ora Bakal Cukup Lautan Mangsi [QCE3_GuF5qA].mp3
+2026-06-19T21:05:26 update: removing downloads/yatno_music/Silvy Kumalasari -  Ego Wong Tuo (Official Music Video) ｜ Kudu Iso Kuat Balungane [XluOxf5xlyA].mp3
+2026-06-19T21:05:26 update: removing downloads/yatno_music/Shinta Arsinta ft Diva Hani - Tresno Tekane Mati (New Version)｜ Sagita Dangdut(Official Music Video) [Izu6epfgB2M].mp3
+2026-06-19T21:05:26 update: removing downloads/yatno_music/Shinta Arsinta feat Arya Galih - Lintang Asmoro (Official Music Video) Goyang Esek Esek [KHgllosZ3kA].mp3
+2026-06-19T21:05:26 update: removing downloads/yatno_music/Shinta Arsinta Feat Arya Galih - Kembang Tresno ｜ Dangdut (Official Music Video) [hnw43NBGYIo].mp3
+2026-06-19T21:05:26 update: removing downloads/yatno_music/Shinta Arsinta Feat Arya Galih - Kawin Kontrak ｜ Dangdut (Official Music Video) [hh5aDtxWZSQ].mp3
+2026-06-19T21:05:26 update: removing downloads/yatno_music/Shinta Arsinta Feat Arya Galih - Kalah - Goyang Esek Esek ( Official Music Video) [Nb8_cWOwQNU].mp3
+2026-06-19T21:05:26 update: removing downloads/yatno_music/RUNTAH - AZMY Z  (Official Music Video) [lAIdX9Rv3Rk].mp3
+2026-06-19T21:05:26 update: removing downloads/yatno_music/PRING KUNING - DEVI AYU ANEKA TUNGGAL [mpgE_BbBoBw].mp3
+2026-06-19T21:05:26 update: removing downloads/yatno_music/ORGAN DERMAYU kembang soka [e4lIjzZUwFs].mp3
+2026-06-19T21:05:26 update: removing downloads/yatno_music/ORGAN DERMAYU gagak abang [hzkhvYgXnPM].mp3
+2026-06-19T21:05:26 update: removing downloads/yatno_music/LAGU ANEKA TUNGGAL PEMIKAT SUKMA-LIVE JAGAPURA 30 JUNI 2017 [yb-6ybkFLRM].mp3
+2026-06-19T21:05:26 update: removing downloads/yatno_music/JOKO TINGKIR REMIX BY AZMY Z  ｜ ｜ Versi 3 Bhs (Sunda ,Indonesia, Jawa) [WhMrUmQEnpY].mp3
+2026-06-19T21:05:26 update: removing downloads/yatno_music/JAYANTI - AZMY Z ( Official Music Video ) [qVpmhkNOscI].mp3
+2026-06-19T21:05:26 update: removing downloads/yatno_music/JANGAN TUNGGU LAMA LAMA - AJENG FEBRIA & BRODIN ft. OM NIRWANA ｜ LIVE MUSIC ｜ VERSI KOPLO [fto9UBve3nA].mp3
+2026-06-19T21:05:26 update: removing downloads/yatno_music/INGET KA MANTAN - AZMY Z (Official Music Video) [fhiRtYw5TWI].mp3
+2026-06-19T21:05:26 update: removing downloads/yatno_music/Happy Asmara - Salam Tresno ｜ Dangdut [OFFICIAL] [w8TnupD-psQ].mp3
+2026-06-19T21:05:26 update: removing downloads/yatno_music/Happy Asmara - Pelet Nyasar (Official Music Video) [6TBS2tnBkDA].mp3
+2026-06-19T21:05:26 update: removing downloads/yatno_music/HAPPY ASMARA - AISHITERU 2 ( Official Live Video Royal Music ) [ld7Bkg4BKlA].mp3
+2026-06-19T21:05:26 update: removing downloads/yatno_music/Happy Asmara -  Wes Ora Edan (Official Music Video) [ZIk7aDAyHBU].mp3
+2026-06-19T21:05:26 update: removing downloads/yatno_music/DJ FULL BASS TERBARU 2026 CEK SOUND BASS BENING EMPUK HOREG PALING ENAK (MHLS PRO) [siAxeNyTohE].mp3
+2026-06-19T21:05:26 update: removing downloads/yatno_music/DENOK - Putri Fedya ｜｜ HIPHOP DANGDUT VERSION [NjjkO9w7VIk].mp3
+2026-06-19T21:05:26 update: removing downloads/yatno_music/BARENG NERIMA VOC： DEVI ANEKA TUNGGAL FEAT RADEN ANEKA TUNGGAL [RuMf7ivByOI].mp3
+2026-06-19T21:05:26 update: removing downloads/yatno_music/AZMY Z - LALEUR HEJO (Official Musik Video) [b_IjEB1bEHg].mp3
+2026-06-19T21:05:26 update: removing downloads/yatno_music/Ajeng Febria - Ngapain Repot (Official Music Video) ｜ Aman Saja Mo Ngapain Mo Repot [-ix-XswQz10].mp3
+2026-06-19T21:05:26 update: removing downloads/yatno_music/Ajeng Febria - Bojo Biduan (Official Music Live) l Abote Wong Lanang Yen Nduwe Bojo Biduan [P2BBqnT1a2U].mp3
+2026-06-19T21:05:49 exception: Failed to open /data/data/com.termux/files/home/storage/shared/Android/data: Permission denied
+2026-06-19T21:05:49 exception: Failed to open /data/data/com.termux/files/home/storage/shared/Android/obb: Permission denied
+2026-06-19T21:05:49 update: added shared/Download/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac
+2026-06-19T21:05:50 update: added downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac
+2026-06-19T21:20:12 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-19T21:20:38 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-19T21:35:36 player: played "downloads/Bass Booster/SOUND HOREG TRAP FULL BASS SOUND CHEK [wdZ1gyAJOsw].flac"
+2026-06-19T21:57:06 player: played "downloads/Bass Booster/SOUND HOREG TRAP FULL BASS SOUND CHEK [wdZ1gyAJOsw].flac"
+2026-06-19T22:09:03 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-19T22:09:29 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-19T22:20:16 player: played "downloads/Bass Booster/SOUND HOREG TRAP FULL BASS SOUND CHEK [wdZ1gyAJOsw].flac"
+2026-06-19T22:24:33 player: played "downloads/Bass Booster/TEST SPEAKER AUDIO SOUND SYSTEM - OBAT NGAMUK MUSIK [mh0jKNzcLAc].flac"
+2026-06-19T22:48:08 player: played "downloads/wky_eng/DJ SANTAI DIJAMIN GOYANG TIPIS TIPIS 🚀 DJ SLOW BARAT FULL BASS TERBAIK 🔥 NEMENIN NYETIR DIJALAN [bcAuIXVq6mY].mp3"
+2026-06-19T22:48:22 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-19T22:50:18 player: played "downloads/wky_eng/DJ SANTAI DIJAMIN GOYANG TIPIS TIPIS 🚀 DJ SLOW BARAT FULL BASS TERBAIK 🔥 NEMENIN NYETIR DIJALAN [bcAuIXVq6mY].mp3"
+2026-06-19T22:54:38 player: played "downloads/wky_eng/DJ SLOW BARAT FULL BASS 2026 ✨ ENAK BUAT NYETIR ATAU MUSIK SANTAI DI MALAM HARI 🔥 WKY SLOW REMIX [vRSdy45PeI4].mp3"
+2026-06-19T22:54:42 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-19T22:55:35 player: played "downloads/wky_eng/DJ SLOW BARAT FULL BASS 2026 ✨ ENAK BUAT NYETIR ATAU MUSIK SANTAI DI MALAM HARI 🔥 WKY SLOW REMIX [vRSdy45PeI4].mp3"
+2026-06-19T22:55:42 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-19T22:58:13 player: played "downloads/wky_eng/DJ SLOW BARAT FULL BASS 2026 ✨ ENAK BUAT NYETIR ATAU MUSIK SANTAI DI MALAM HARI 🔥 WKY SLOW REMIX [vRSdy45PeI4].mp3"
+2026-06-19T22:58:42 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-19T23:00:53 player: played "downloads/wky_eng/DJ SLOW BARAT FULL BASS 2026 ✨ ENAK BUAT NYETIR ATAU MUSIK SANTAI DI MALAM HARI 🔥 WKY SLOW REMIX [vRSdy45PeI4].mp3"
+2026-06-19T23:01:06 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-19T23:04:21 player: played "downloads/wky_eng/DJ SLOW BARAT FULL BASS 2026 ✨ ENAK BUAT NYETIR ATAU MUSIK SANTAI DI MALAM HARI 🔥 WKY SLOW REMIX [vRSdy45PeI4].mp3"
+2026-06-19T23:04:29 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-19T23:10:17 player: played "downloads/wky_eng/DJ SLOW BARAT FULL BASS 2026 ✨ ENAK BUAT NYETIR ATAU MUSIK SANTAI DI MALAM HARI 🔥 WKY SLOW REMIX [vRSdy45PeI4].mp3"
+2026-06-19T23:10:24 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-19T23:13:13 player: played "downloads/wky_eng/DJ SLOW BARAT FULL BASS 2026 ✨ ENAK BUAT NYETIR ATAU MUSIK SANTAI DI MALAM HARI 🔥 WKY SLOW REMIX [vRSdy45PeI4].mp3"
+2026-06-19T23:15:29 player: played "downloads/wky_eng/DJ SLOW ENAK BANGET 🔥 REMIX TERBARU 2026 ｜ UNTUK KERJA DAN NYETIR MALAM HARI ｜ LAGU SANTAI DAN FOKUS [N2J99FoI9x4].mp3"
+2026-06-19T23:15:37 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-19T23:17:03 player: played "downloads/wky_eng/DJ SLOW ENAK BANGET 🔥 REMIX TERBARU 2026 ｜ UNTUK KERJA DAN NYETIR MALAM HARI ｜ LAGU SANTAI DAN FOKUS [N2J99FoI9x4].mp3"
+2026-06-19T23:17:16 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-19T23:19:45 player: played "downloads/wky_eng/DJ SLOW ENAK BANGET 🔥 REMIX TERBARU 2026 ｜ UNTUK KERJA DAN NYETIR MALAM HARI ｜ LAGU SANTAI DAN FOKUS [N2J99FoI9x4].mp3"
+2026-06-19T23:19:53 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-19T23:22:48 player: played "downloads/wky_eng/DJ SLOW ENAK BANGET 🔥 REMIX TERBARU 2026 ｜ UNTUK KERJA DAN NYETIR MALAM HARI ｜ LAGU SANTAI DAN FOKUS [N2J99FoI9x4].mp3"
+2026-06-19T23:22:57 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-19T23:31:01 player: played "downloads/wky_eng/DJ SLOW ENAK BANGET 🔥 REMIX TERBARU 2026 ｜ UNTUK KERJA DAN NYETIR MALAM HARI ｜ LAGU SANTAI DAN FOKUS [N2J99FoI9x4].mp3"
+2026-06-19T23:31:14 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-19T23:33:48 player: played "downloads/wky_eng/DJ SLOW ENAK BANGET 🔥 REMIX TERBARU 2026 ｜ UNTUK KERJA DAN NYETIR MALAM HARI ｜ LAGU SANTAI DAN FOKUS [N2J99FoI9x4].mp3"
+2026-06-19T23:33:53 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-19T23:34:28 player: played "downloads/wky_eng/DJ SLOW ENAK BANGET 🔥 REMIX TERBARU 2026 ｜ UNTUK KERJA DAN NYETIR MALAM HARI ｜ LAGU SANTAI DAN FOKUS [N2J99FoI9x4].mp3"
+2026-06-19T23:34:40 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-19T23:36:10 player: played "downloads/wky_eng/DJ SLOW ENAK BANGET 🔥 REMIX TERBARU 2026 ｜ UNTUK KERJA DAN NYETIR MALAM HARI ｜ LAGU SANTAI DAN FOKUS [N2J99FoI9x4].mp3"
+2026-06-19T23:36:24 player: played "downloads/wky_eng/DJ SLOW ENAK BANGET BUAT MALAM HARI 🔥 DJ BARAT FULL BASS ✨ MUSIK SANTAI BIAR FOKUS DAN SEMANGAT [gIIWCsQfL4g].mp3"
+2026-06-19T23:36:31 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-19T23:46:35 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-19T23:46:42 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-19T23:55:24 player: played "downloads/Bass Booster/Demons.flac"
+2026-06-19T23:55:47 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-19T23:59:41 player: played "downloads/Bass Booster/Demons.flac"
+2026-06-19T23:59:50 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T00:03:39 player: played "downloads/Bass Booster/Demons.flac"
+2026-06-20T00:03:55 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T00:05:58 player: played "downloads/Bass Booster/Demons.flac"
+2026-06-20T00:06:09 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T00:09:36 player: played "downloads/Bass Booster/Demons.flac"
+2026-06-20T00:15:20 player: played "downloads/wky_indo/DJ SLOW BASS INDO 2026 🌙 ENAK BANGET GAYA BREAKBEAT KALEM ✨ DJ TIKTOK TERBARU BUAT HEALING [uydqD6ueJhk].mp3"
+2026-06-20T00:15:41 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T00:24:58 player: played "downloads/wky_indo/DJ SLOW BASS INDO 2026 🌙 ENAK BANGET GAYA BREAKBEAT KALEM ✨ DJ TIKTOK TERBARU BUAT HEALING [uydqD6ueJhk].mp3"
+2026-06-20T00:25:05 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T00:30:02 player: played "downloads/wky_indo/DJ SLOW BASS INDO 2026 🌙 ENAK BANGET GAYA BREAKBEAT KALEM ✨ DJ TIKTOK TERBARU BUAT HEALING [uydqD6ueJhk].mp3"
+2026-06-20T00:36:22 player: played "music/Flac/Bella Nova - Hati Siapa Tak Luka (Live Music) [qXYjbppvqbo].flac"
+2026-06-20T00:42:02 player: played "music/Flac/Bella Nova - Satu Rasa Cinta (Live Music) [DQhiUQGb3cE].flac"
+2026-06-20T00:44:27 player: played "music/Flac/Bella Nova - Sia Sia Mengharap Cintamu (Live Music) [PxedEJlvh38].flac"
+2026-06-20T00:44:32 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T00:45:50 player: played "music/Flac/Bella Nova - Sia Sia Mengharap Cintamu (Live Music) [PxedEJlvh38].flac"
+2026-06-20T00:45:53 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T00:46:52 player: played "music/Flac/Bella Nova - Sia Sia Mengharap Cintamu (Live Music) [PxedEJlvh38].flac"
+2026-06-20T00:46:55 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T00:50:25 player: played "downloads/Bass Booster/SOUND HOREG TRAP FULL BASS SOUND CHEK [wdZ1gyAJOsw].flac"
+2026-06-20T00:50:28 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T00:52:35 player: played "downloads/Bass Booster/SOUND HOREG TRAP FULL BASS SOUND CHEK [wdZ1gyAJOsw].flac"
+2026-06-20T00:52:39 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T00:53:37 player: played "downloads/Bass Booster/SOUND HOREG TRAP FULL BASS SOUND CHEK [wdZ1gyAJOsw].flac"
+2026-06-20T01:01:26 player: played "downloads/Bass Booster/SOUND HOREG TRAP FULL BASS SOUND CHEK [wdZ1gyAJOsw].flac"
+2026-06-20T01:03:16 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T01:03:22 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T01:12:14 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T01:12:20 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T01:16:54 player: played "downloads/Bass Booster/SOUND HOREG TRAP FULL BASS SOUND CHEK [wdZ1gyAJOsw].flac"
+2026-06-20T01:17:00 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T01:20:04 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T01:20:10 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T01:21:44 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T01:21:48 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T01:25:32 player: played "downloads/Bass Booster/TEST SPEAKER AUDIO SOUND SYSTEM - OBAT NGAMUK MUSIK [mh0jKNzcLAc].flac"
+2026-06-20T01:25:38 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T01:26:56 player: played "downloads/Bass Booster/TEST SPEAKER AUDIO SOUND SYSTEM - OBAT NGAMUK MUSIK [mh0jKNzcLAc].flac"
+2026-06-20T01:28:12 player: played "downloads/Bass Booster/TEST SPEAKER AUDIO SOUND SYSTEM - OBAT NGAMUK MUSIK [mh0jKNzcLAc].flac"
+2026-06-20T01:28:17 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T01:30:47 player: played "downloads/Bass Booster/TEST SPEAKER AUDIO SOUND SYSTEM - OBAT NGAMUK MUSIK [mh0jKNzcLAc].flac"
+2026-06-20T01:30:52 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T01:31:17 player: played "downloads/Bass Booster/TEST SPEAKER AUDIO SOUND SYSTEM - OBAT NGAMUK MUSIK [mh0jKNzcLAc].flac"
+2026-06-20T01:31:47 player: played "downloads/Bass Booster/TEST SPEAKER AUDIO SOUND SYSTEM - OBAT NGAMUK MUSIK [mh0jKNzcLAc].flac"
+2026-06-20T01:31:50 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T01:32:33 player: played "downloads/Bass Booster/TEST SPEAKER AUDIO SOUND SYSTEM - OBAT NGAMUK MUSIK [mh0jKNzcLAc].flac"
+2026-06-20T01:32:39 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T01:34:06 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T01:34:10 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T01:36:34 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T01:36:38 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T01:37:55 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T01:37:59 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T01:38:51 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T01:38:54 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T01:39:59 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T01:40:02 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T01:42:42 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T01:42:46 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T01:43:58 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T01:44:01 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T01:47:07 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T01:47:11 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T01:55:48 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T01:55:52 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T01:58:13 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T01:58:17 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T01:58:53 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T01:58:56 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T02:00:09 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T02:00:18 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T02:00:22 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T02:04:00 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T02:04:04 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T02:06:26 player: played "downloads/Bass Booster/TEST SPEAKER AUDIO SOUND SYSTEM - OBAT NGAMUK MUSIK [mh0jKNzcLAc].flac"
+2026-06-20T02:06:29 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T02:08:59 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T02:09:03 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T02:09:37 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T02:09:40 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T02:10:58 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T02:11:02 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T02:13:51 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T02:13:56 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T02:15:36 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T02:15:38 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T02:18:50 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T02:18:53 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T02:19:03 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T02:19:05 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T02:19:48 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T02:19:52 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T02:21:46 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T02:21:50 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T02:24:46 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T02:24:50 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T02:26:40 player: played "downloads/Bass Booster/TEST SPEAKER AUDIO SOUND SYSTEM - OBAT NGAMUK MUSIK [mh0jKNzcLAc].flac"
+2026-06-20T02:26:43 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T02:27:39 player: played "downloads/Bass Booster/TEST SPEAKER AUDIO SOUND SYSTEM - OBAT NGAMUK MUSIK [mh0jKNzcLAc].flac"
+2026-06-20T02:27:43 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T02:31:01 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T02:31:06 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T02:33:22 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T02:33:28 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T02:35:16 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T02:35:21 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T02:37:56 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T02:38:00 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T02:40:40 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T02:40:44 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T02:43:22 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T02:43:26 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T02:46:49 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T02:46:55 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T02:48:32 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T02:48:35 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T02:50:50 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T02:50:55 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T02:52:07 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T02:52:10 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T02:52:49 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T02:52:54 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T02:53:44 player: played "downloads/Bass Booster/SOUND HOREG TRAP FULL BASS SOUND CHEK [wdZ1gyAJOsw].flac"
+2026-06-20T02:53:48 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T02:57:07 player: played "downloads/Bass Booster/SOUND HOREG TRAP FULL BASS SOUND CHEK [wdZ1gyAJOsw].flac"
+2026-06-20T02:57:11 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T02:59:45 player: played "downloads/Bass Booster/Demons.flac"
+2026-06-20T02:59:48 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T03:00:32 player: played "downloads/Bass Booster/Demons.flac"
+2026-06-20T03:00:36 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T03:02:19 player: played "downloads/Bass Booster/Demons.flac"
+2026-06-20T03:02:23 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T03:06:42 player: played "downloads/Bass Booster/Demons.flac"
+2026-06-20T03:06:46 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T03:07:52 player: played "downloads/Bass Booster/Demons.flac"
+2026-06-20T03:07:56 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T03:12:37 player: played "music/Flac/Bella Nova - Hati Siapa Tak Luka (Live Music) [qXYjbppvqbo].flac"
+2026-06-20T03:12:41 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T03:13:57 player: played "music/Flac/Bella Nova - Hati Siapa Tak Luka (Live Music) [qXYjbppvqbo].flac"
+2026-06-20T03:14:04 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T03:14:13 player: played "music/Flac/Bella Nova - Hati Siapa Tak Luka (Live Music) [qXYjbppvqbo].flac"
+2026-06-20T03:17:33 player: played "music/Flac/Bella Nova - Satu Rasa Cinta (Live Music) [DQhiUQGb3cE].flac"
+2026-06-20T03:17:37 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T03:20:44 player: played "music/Flac/Bella Nova - Satu Rasa Cinta (Live Music) [DQhiUQGb3cE].flac"
+2026-06-20T03:26:44 player: played "music/Flac/Bella Nova - Sia Sia Mengharap Cintamu (Live Music) [PxedEJlvh38].flac"
+2026-06-20T03:34:08 player: played "music/Flac/KERANDA CINTA - Lusyana Jelita Adella - OM ADELLA [OI_OvpWos1M].flac"
+2026-06-20T03:37:59 player: played "music/Flac/PERMISI SITI ALIYAH FEAT SUARA KITA STUDIO [sFUop3ExBDc].flac"
+2026-06-20T03:38:04 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T03:39:18 player: played "music/Flac/PERMISI SITI ALIYAH FEAT SUARA KITA STUDIO [sFUop3ExBDc].flac"
+2026-06-20T03:47:19 player: played "music/Flac/Yeni Inka - PECAH SERIBU (Official MV) Hanya Dia Yang Ada Diantara Jantung Hati [vuijmH64lrU].flac"
+2026-06-20T03:56:05 player: played "downloads/wky_indo/DJ SLOW BASS INDO 2026 🌙 ENAK BANGET GAYA BREAKBEAT KALEM ✨ DJ TIKTOK TERBARU BUAT HEALING [uydqD6ueJhk].mp3"
+2026-06-20T03:56:12 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T03:56:24 player: played "downloads/wky_indo/DJ SLOW BASS INDO 2026 🌙 ENAK BANGET GAYA BREAKBEAT KALEM ✨ DJ TIKTOK TERBARU BUAT HEALING [uydqD6ueJhk].mp3"
+2026-06-20T03:56:28 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T03:57:12 player: played "downloads/wky_indo/DJ SLOW BASS INDO 2026 🌙 ENAK BANGET GAYA BREAKBEAT KALEM ✨ DJ TIKTOK TERBARU BUAT HEALING [uydqD6ueJhk].mp3"
+2026-06-20T03:57:25 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T04:02:53 player: played "downloads/wky_indo/DJ SLOW BASS INDO 2026 🌙 ENAK BANGET GAYA BREAKBEAT KALEM ✨ DJ TIKTOK TERBARU BUAT HEALING [uydqD6ueJhk].mp3"
+2026-06-20T04:02:58 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T04:29:55 player: played "downloads/wky_eng/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK KERJA DAN SANTAI MALAM HARI ｜ MUSIK BIAR FOKUS DAN SEMANGAT [oetnteC_ZXc].mp3"
+2026-06-20T04:50:50 player: played "downloads/wky_eng/ENAK BANGET BUAT NYETIR 🔥DJ SLOW BASS BARAT UNTUK  SANTAI MALAM HARI ｜ MUSIK BIAR FOKUS DAN SEMANGAT [54dyLezIqLE].mp3"
+2026-06-20T04:57:15 player: played "downloads/wky_eng/ENAK BANGET BUAT NYETIR DIJALAN 🌃 ALBUM DJ SLOW BARAT REMIX SANTAI ✨ BASS NYA FULL BIKIN NAGIH [MYb6G4WGY78].mp3"
+2026-06-20T04:57:19 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T05:11:39 player: played "downloads/wky_eng/ENAK BANGET BUAT NYETIR DIJALAN 🌃 ALBUM DJ SLOW BARAT REMIX SANTAI ✨ BASS NYA FULL BIKIN NAGIH [MYb6G4WGY78].mp3"
+2026-06-20T05:15:43 player: played "downloads/Bass Booster/TEST SPEAKER AUDIO SOUND SYSTEM - OBAT NGAMUK MUSIK [mh0jKNzcLAc].flac"
+2026-06-20T05:21:50 player: played "downloads/Bass Booster/SOUND HOREG TRAP FULL BASS SOUND CHEK [wdZ1gyAJOsw].flac"
+2026-06-20T05:47:53 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T06:06:34 player: played "downloads/Bass Booster/Demons.flac"
+2026-06-20T06:11:52 player: played "music/Flac/Bella Nova - Hati Siapa Tak Luka (Live Music) [qXYjbppvqbo].flac"
+2026-06-20T06:17:32 player: played "music/Flac/Bella Nova - Satu Rasa Cinta (Live Music) [DQhiUQGb3cE].flac"
+2026-06-20T06:23:32 player: played "music/Flac/Bella Nova - Sia Sia Mengharap Cintamu (Live Music) [PxedEJlvh38].flac"
+2026-06-20T06:30:57 player: played "music/Flac/KERANDA CINTA - Lusyana Jelita Adella - OM ADELLA [OI_OvpWos1M].flac"
+2026-06-20T06:36:02 player: played "music/Flac/PERMISI SITI ALIYAH FEAT SUARA KITA STUDIO [sFUop3ExBDc].flac"
+2026-06-20T06:44:03 player: played "music/Flac/Yeni Inka - PECAH SERIBU (Official MV) Hanya Dia Yang Ada Diantara Jantung Hati [vuijmH64lrU].flac"
+2026-06-20T07:04:02 player: played "downloads/wky_indo/DJ SLOW BASS INDO 2026 🌙 ENAK BANGET GAYA BREAKBEAT KALEM ✨ DJ TIKTOK TERBARU BUAT HEALING [uydqD6ueJhk].mp3"
+2026-06-20T07:28:05 player: played "downloads/wky_indo/DJ SLOW ENAK BANGET BUAT YANG GALAU 🔥 DJ INDO FULL BASS ✨ MUSIK SANTAI BUAT MALAM HARI ⧸ FOKUS KERJA [i6luyN5qH4k].mp3"
+2026-06-20T07:51:41 player: played "downloads/wky_indo/DJ Slow Full Album Remix Indonesia 🌟 Melodi Galau Tapi Bikin Kangen ✨ Musik Enak Banget Buat Santai [lGeCyspbtuM].mp3"
+2026-06-20T08:13:46 player: played "downloads/wky_indo/DJ SLOW INDO FULL BASS 🌟 LAGU SANTAI GALAU BIKIN BAPER 🔥 ENAK NEMENIN NGOPI SAMBIL NGELAMUN [DsFitE1PyFU].mp3"
+2026-06-20T08:37:00 player: played "downloads/wky_indo/DJ SLOW REMIX INDO 2026 🌟 LAGU CHILL ENAK BIKIN BAHAGIA 🔥 TEMEN NYETIR DARI PAGI SAMPAI MALAM [fXm0iD_0HQY].mp3"
+2026-06-20T09:00:16 player: played "downloads/wky_indo/DJ SLOW REMIX INDO 2026 🔥 LAGU CHILL ENAK BANGET BUAT LAGU SANTAI MALAM HARI ✨ COCOK BUAT BERKENDARA [8ZonmR9gbu4].mp3"
+2026-06-20T09:23:01 player: played "downloads/wky_indo/DJ Slow Remix Indo Full Bass Pilihan 🎧 Lagu Chill Santai Teman Perjalanan Bikin Candu [4f9ghQfk0x0].mp3"
+2026-06-20T09:44:50 player: played "downloads/wky_indo/DJ SLOW REMIX INDONESIA BIKIN RILEKS 🌟 ANTI STRES SETELAH KERJA ☕ TEMEN NGOPI & NYANTAI ENAK BANGET [pD8zjQgJpyI].mp3"
+2026-06-20T10:09:20 player: played "downloads/wky_indo/DJ Slow Remix Indonesia Viral TikTok Terbaru 2026 ｜ Bass Kalem Bikin Candu Cocok Untuk Teman Santai [XufYL0CZe94].mp3"
+2026-06-20T10:30:08 player: played "downloads/wky_indo/DJ SLOW REMIX TERBARU 2026 🎧 LAGU SANTAI ENAK BANGET 🔥 DENGARKAN UNTUK KERJA DAN NYETIR MALAM HARI [bpmPejJWTNI].mp3"
+2026-06-20T10:55:59 player: played "downloads/wky_indo/DJ SLOW REMIX TERBARU 2026 DJ INDO FULL ALBUM VIRAL  Lagu Santai Enak Banget Didengar Sepanjang Hari [UgJE-eiSZsQ].mp3"
+2026-06-20T11:16:44 player: played "downloads/wky_indo/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].mp3"
+2026-06-20T11:46:01 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T12:07:32 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T12:13:32 exception: Failed to open /data/data/com.termux/files/home/storage/shared/Android/data: Permission denied
+2026-06-20T12:13:32 exception: Failed to open /data/data/com.termux/files/home/storage/shared/Android/obb: Permission denied
+2026-06-20T12:55:19 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T13:14:00 player: played "downloads/Bass Booster/Demons.flac"
+2026-06-20T13:19:18 player: played "music/Flac/Bella Nova - Hati Siapa Tak Luka (Live Music) [qXYjbppvqbo].flac"
+2026-06-20T13:24:58 player: played "music/Flac/Bella Nova - Satu Rasa Cinta (Live Music) [DQhiUQGb3cE].flac"
+2026-06-20T13:29:29 player: played "music/Flac/Bella Nova - Sia Sia Mengharap Cintamu (Live Music) [PxedEJlvh38].flac"
+2026-06-20T13:29:33 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T13:30:42 player: played "music/Flac/Bella Nova - Sia Sia Mengharap Cintamu (Live Music) [PxedEJlvh38].flac"
+2026-06-20T13:30:45 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T13:31:07 player: played "music/Flac/Bella Nova - Sia Sia Mengharap Cintamu (Live Music) [PxedEJlvh38].flac"
+2026-06-20T13:32:55 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T13:32:59 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T13:34:30 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T13:34:34 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T13:35:45 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T13:35:50 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T13:38:33 player: played "downloads/Bass Booster/SOUND HOREG TRAP FULL BASS SOUND CHEK [wdZ1gyAJOsw].flac"
+2026-06-20T13:38:40 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T13:40:06 player: played "downloads/Bass Booster/SOUND HOREG TRAP FULL BASS SOUND CHEK [wdZ1gyAJOsw].flac"
+2026-06-20T13:40:10 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T13:42:43 player: played "downloads/Bass Booster/SOUND HOREG TRAP FULL BASS SOUND CHEK [wdZ1gyAJOsw].flac"
+2026-06-20T13:42:57 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T13:43:00 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T13:45:16 player: played "downloads/Bass Booster/TEST SPEAKER AUDIO SOUND SYSTEM - OBAT NGAMUK MUSIK [mh0jKNzcLAc].flac"
+2026-06-20T13:45:19 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T13:56:52 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T13:56:56 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T13:59:18 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T13:59:21 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T14:04:08 player: played "downloads/Bass Booster/TEST SPEAKER AUDIO SOUND SYSTEM - OBAT NGAMUK MUSIK [mh0jKNzcLAc].flac"
+2026-06-20T14:10:16 player: played "downloads/Bass Booster/SOUND HOREG TRAP FULL BASS SOUND CHEK [wdZ1gyAJOsw].flac"
+2026-06-20T14:54:41 player: played "music/Flac/Yeni Inka - PECAH SERIBU (Official MV) Hanya Dia Yang Ada Diantara Jantung Hati [vuijmH64lrU].flac"
+2026-06-20T15:21:48 player: played "downloads/Bass Booster/SOUND HOREG TRAP FULL BASS SOUND CHEK [wdZ1gyAJOsw].flac"
+2026-06-20T15:35:14 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T15:39:27 player: played "downloads/Bass Booster/TEST SPEAKER AUDIO SOUND SYSTEM - OBAT NGAMUK MUSIK [mh0jKNzcLAc].flac"
+2026-06-20T15:43:34 player: played "downloads/Bass Booster/TEST SPEAKER AUDIO SOUND SYSTEM - OBAT NGAMUK MUSIK [mh0jKNzcLAc].flac"
+2026-06-20T15:54:37 player: played "music/Flac/KERANDA CINTA - Lusyana Jelita Adella - OM ADELLA [OI_OvpWos1M].flac"
+2026-06-20T15:59:42 player: played "music/Flac/PERMISI SITI ALIYAH FEAT SUARA KITA STUDIO [sFUop3ExBDc].flac"
+2026-06-20T16:07:27 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T16:07:34 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T16:27:26 player: played "downloads/Bass Booster/TEST SPEAKER AUDIO SOUND SYSTEM - OBAT NGAMUK MUSIK [mh0jKNzcLAc].flac"
+2026-06-20T16:33:34 player: played "downloads/Bass Booster/SOUND HOREG TRAP FULL BASS SOUND CHEK [wdZ1gyAJOsw].flac"
+2026-06-20T16:56:51 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T16:56:56 exception: Failed to open /data/data/com.termux/files/home/storage/shared/Android/data: Permission denied
+2026-06-20T16:56:56 exception: Failed to open /data/data/com.termux/files/home/storage/shared/Android/obb: Permission denied
+2026-06-20T16:56:56 update: added shared/Android/media/com.whatsapp/WhatsApp/Media/.Statuses/96a8e77da78c42ad872e222870c84767.mp4
+2026-06-20T17:08:22 player: played "downloads/ENAK BANGET BUAT NYETIR 🔥 DJ SLOW UNTUK SANTAI DAN KERJA MALAM HARI ｜ LAGU INDO VIRAL TIKTOK TERBARU [su9GLU5Puho].flac"
+2026-06-20T17:08:26 config: inotify: auto_update was disabled. enable during compilation phase
+2026-06-20T17:46:59 player: played "downloads/Bass Booster/SOUND HOREG TRAP FULL BASS SOUND CHEK [wdZ1gyAJOsw].flac"
+2026-06-20T17:51:45 player: played "downloads/Bass Booster/SOUND HOREG TRAP FULL BASS SOUND CHEK [wdZ1gyAJOsw].flac"
+2026-06-20T18:44:33 config: inotify: auto_update was disabled. enable during compilation phase
