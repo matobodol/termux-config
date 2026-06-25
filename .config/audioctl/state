@@ -1,5 +1,5 @@
 preset=manual
-bass=6
-punch=4
-treble=-2
+bass=4
+punch=3
+treble=0
 limiter=0.95

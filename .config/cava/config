@@ -345,15 +345,13 @@
 
 [input]
 method = fifo
-source = /data/data/com.termux/files/home/.mpd/visualizer.fifo
+source = /data/data/com.termux/files/home/.config/mpd/visualizer.fifo
 
 
 [general]
 bars = 20
 framerate = 60
 sleep_timer = 0
-
-source = auto
 
 [output]
 method = ncurses

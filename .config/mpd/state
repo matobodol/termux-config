@@ -1,0 +1,26 @@
+sw_volume: 80
+audio_device_state:1:Visualizer
+audio_device_state:1:MPV Output
+state: play
+current: 7
+time: 146.223
+random: 0
+repeat: 1
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0
+mixrampdelay: -1
+lastloadedplaylist: 
+playlist_begin
+0:music/sayzu/001 Between Silence and You.mp3
+1:music/sayzu/002 Calm Waves Inside Me.mp3
+2:music/sayzu/003 Slow Nights, Soft Lights.mp3
+3:music/sayzu/004 Stay With Me Tonight.mp3
+4:music/sayzu/005 Lonely But Still Breathing.mp3
+5:music/sayzu/006 Fading Into Your Dreams.mp3
+6:music/sayzu/007 Soft Rhythm of Us.mp3
+7:music/sayzu/008 Lost in Quiet Moments.mp3
+8:music/sayzu/009 Midnight Without You.mp3
+9:music/sayzu/010 Echoes of Your Love.mp3
+playlist_end

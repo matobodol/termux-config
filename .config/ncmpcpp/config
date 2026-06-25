@@ -1,4 +1,4 @@
-mpd_music_dir = "~/storage/music/"
+#mpd_music_dir = "~/storage/music/"
 
 mpd_host = "127.0.0.1"
 mpd_port = "6600"
@@ -6,7 +6,7 @@ mpd_port = "6600"
 mouse_list_scroll_whole_page = "yes"
 lines_scrolled = "1"
 
-visualizer_data_source = "/data/data/com.termux/files/home/.mpd/visualizer.fifo"
+visualizer_data_source = "/data/data/com.termux/files/home/.config/mpd/visualizer.fifo"
 visualizer_output_name = "Visualizer"
 
 visualizer_in_stereo = "no"
